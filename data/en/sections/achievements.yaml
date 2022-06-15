@@ -1,0 +1,21 @@
+# section information
+section:
+  name: Achievements
+  id: achievements
+  enable: true
+  weight: 6
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your achievements achievements
+achievements:
+- title: Over 2M Views On Quora
+  image: /images/sections/achievements/presenter.jpg
+  summary: Total views of 2 million on Quora Answers, Top Writer in Technology.
+- title: Graduation
+  image: /images/sections/achievements/graduation-cap.jpg
+  summary: Received Bachelor of Engineering (B.E.) in Mechanical Engineering from Deccan College of Engineering & Technology.
+- title: Completed Major Project In Final Year
+  image: /images/sections/achievements/project.jpg
+  summary: Did a static and compression buckling analysis of transport aircraft fuselage using Finite Element Analsysis approach.

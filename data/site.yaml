@@ -1,0 +1,27 @@
+# Copyright Notice
+copyright: © 2022 Copyright
+
+# A disclaimer notice for the footer. Make sure you have set "params.footer.disclaimer.enable: true" in your `config.yaml` file.
+disclaimer: "All the content on this site is copyright protected. You're not allowed to republish the content."
+
+# Meta description for your site.  This will help the search engines to find your site.
+description: Learn and grow from tips and hacks in your daily life, experiences and Credit Card reviews derived from Einstein's level of IQ. We cover it all.
+
+# specify the list of custom menus that you want to show in the top navbar.
+# they will be separated by a divider from the main menus.
+customMenus:
+- name: Apply OneCard
+  url: https://1cardapp.page.link/AsBc
+  # specify whether to hide the menu item from top navbar or not.
+  hideFromNavbar: false
+  # specify whether to show the menu item in footer or not.
+  # if you set it to true, make sure you have set `footer.navigation.customMenus: true` in your config.yaml
+  showOnFooter: true
+
+# Specify OpenGraph Headers
+openGraph:
+  title: Emad's Blog
+  type: website
+  description: Portfolio and personal blog of Emad.
+  image: images/default-avatar.png
+  url: https://emadiqbalali.github.io

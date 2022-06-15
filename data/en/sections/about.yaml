@@ -1,0 +1,57 @@
+section:
+  name: About # Title of section (default: "")
+  id: about # url id/slug of section *Required*
+  enable: true # Boolean to determine if this section is enabled (default: false)
+  weight: 1 # Order to display section in (default: alphabetical followed by weight)
+  showOnNavbar: true # Boolean to determine if a link should be shown for this section on the navbar
+  template: sections/about.html # allows you to point to a specific template.
+
+  # your designation
+designation: Mechanical Engineer
+
+
+
+
+#a summary about you
+summary: "Hi, let's get this straight. I am Emad and you're possibly be getting to know me. I am a Mechanical Engineer graduate and resides in India, Hyderabad. Well, Mechanical because couldn't get a seat in CSE but anyway let's not go there. Apart from that, I am not rich so can't say anything fancy. Bye!"
+
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "emadiqbalali@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/emadiqbalali"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://linkedin.com/in/emadiqbalali"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/sastaeinstein"
+
+- name: Facebook
+  icon: "fab fa-facebook"
+  url: "https://facebook.com/emadiqbalali"
+
+  # your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+- type: soft-skill-indicator
+  name: Leadership
+  percentage: 75
+  color: blue
+
+- type: soft-skill-indicator
+  name: Communication
+  percentage: 85
+  color: pink
+
+- type: soft-skill-indicator
+  name: Hard Working
+  percentage: 90
+  color: green

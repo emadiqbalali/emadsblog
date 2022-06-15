@@ -1,0 +1,17 @@
+# some information about you
+name: "Mohammed Emad Iqbal Ali"
+nickname: "Emad"
+image: "images/default-avatar.png"
+
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+
+# give your contact information. they will be used in the footer
+contactInfo:
+  email: "emadiqbalali@gmail.com"
+
+# a summary of what you do
+summary:
+- I am an Engineer, Blogger & Tech Enthusiast
+- I work with WordPress & Hugo
+- I love to work with some fun projects
