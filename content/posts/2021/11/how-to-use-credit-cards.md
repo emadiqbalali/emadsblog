@@ -5,7 +5,7 @@ categories:
   - "finance-knowledge"
 tags: 
   - "credit-cards"
-coverImage: "posts/2021/11/images/Credit-Cards.jpg"
+coverImage: "/posts/2021/11/images/Credit-Cards.jpg"
 ---
 
 Come on! Using Credit Cards is just a piece of the cake? What's there in it?

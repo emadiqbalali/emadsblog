@@ -23,7 +23,7 @@ Keeping all aside, the warranty and customer service offered by Origin is so coo
 
   
 
-[![](posts/2018/02/images/genesis-left-doors-open.jpg)](https://origincdn.azureedge.net/cdn/gaming/desktops/Genesis/img/genesis-left-doors-open.jpg)
+[![](/posts/2018/02/images/genesis-left-doors-open.jpg)](https://origincdn.azureedge.net/cdn/gaming/desktops/Genesis/img/genesis-left-doors-open.jpg)
 
   
 
@@ -37,7 +37,7 @@ We can conclude that this specification cannot be compromised by most of the gam
 
   
 
-[![](posts/2018/02/images/e3-hardware-14-100725913-large.jpg)](https://images.idgesg.net/posts/2018/02/images/article/2017/06/e3-hardware-14-100725913-large.jpg)
+[![](/posts/2018/02/images/e3-hardware-14-100725913-large.jpg)](https://images.idgesg.net//posts/2018/02/images/article/2017/06/e3-hardware-14-100725913-large.jpg)
 
   
 

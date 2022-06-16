@@ -62,13 +62,13 @@ You'll definitely love this earbuds. Let's take a look at this headphones, some 
 - No Dual Pairing Option
 - Buttons for changing tracks & volume could be more better than it is now. A bit more on squishy side. 
 
-[![realme wireless earbuds review](posts/2019/12/images/IMG_20191228_212615-768x576.jpg)](https://sastaeinstein.com/wp-content/uploads/2019/12/IMG_20191228_212615-scaled.jpg)
+[![realme wireless earbuds review](/posts/2019/12/images/IMG_20191228_212615-768x576.jpg)](https://sastaeinstein.com/wp-content/uploads/2019/12/IMG_20191228_212615-scaled.jpg)
 
-[![realme wireless earbuds review](posts/2019/12/images/IMG_20191228_212446-768x1024.jpg)](https://sastaeinstein.com/wp-content/uploads/2019/12/IMG_20191228_212446-scaled.jpg)
+[![realme wireless earbuds review](/posts/2019/12/images/IMG_20191228_212446-768x1024.jpg)](https://sastaeinstein.com/wp-content/uploads/2019/12/IMG_20191228_212446-scaled.jpg)
 
-[![realme wireless earbuds review](posts/2019/12/images/IMG_20191228_212337-768x1024.jpg)](https://sastaeinstein.com/wp-content/uploads/2019/12/IMG_20191228_212337-scaled.jpg)
+[![realme wireless earbuds review](/posts/2019/12/images/IMG_20191228_212337-768x1024.jpg)](https://sastaeinstein.com/wp-content/uploads/2019/12/IMG_20191228_212337-scaled.jpg)
 
-\[amalinkspro type="cta-btn-img" cta\_alt="" asin="" apilink="https://amzn.to/39nveKa" new-window="true" addtocart="true" nofollow="true" alignment="aligncenter"\]https://sastaeinstein.com/wp-content/plugins/amalinkspro/includes/posts/2019/12/images/cta-buttons/ama-1.gif\[/amalinkspro\]\[amalinkspro\_table id="3856" aff-id="undefined" new-window="on" nofollow="on" addtocart="on" /\]
+\[amalinkspro type="cta-btn-img" cta\_alt="" asin="" apilink="https://amzn.to/39nveKa" new-window="true" addtocart="true" nofollow="true" alignment="aligncenter"\]https://sastaeinstein.com/wp-content/plugins/amalinkspro/includes//posts/2019/12/images/cta-buttons/ama-1.gif\[/amalinkspro\]\[amalinkspro\_table id="3856" aff-id="undefined" new-window="on" nofollow="on" addtocart="on" /\]
 
 ## Wrapping Up
 
@@ -78,4 +78,4 @@ The best way to make yourself go for it, is that it supports fast charging and p
 
 The best thing is that it supports voice assistant which is a big plus when you use headphones while driving. 
 
-\[amalinkspro type="cta-btn-img" cta\_alt="" asin="" apilink="https://amzn.to/39nveKa" new-window="true" addtocart="true" nofollow="true" alignment="aligncenter"\]https://sastaeinstein.com/wp-content/plugins/amalinkspro/includes/posts/2019/12/images/cta-buttons/ama-1.gif\[/amalinkspro\]
+\[amalinkspro type="cta-btn-img" cta\_alt="" asin="" apilink="https://amzn.to/39nveKa" new-window="true" addtocart="true" nofollow="true" alignment="aligncenter"\]https://sastaeinstein.com/wp-content/plugins/amalinkspro/includes//posts/2019/12/images/cta-buttons/ama-1.gif\[/amalinkspro\]

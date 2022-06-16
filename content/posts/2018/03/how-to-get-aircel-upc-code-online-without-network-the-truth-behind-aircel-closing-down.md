@@ -9,7 +9,7 @@ Do you know the real reason behind the closing of telecom company Aircel? You ma
 
 According to recent surveys, it came out that more than 1 Lakh customers registered to BSNL while 66,000+ already joined BSNL.
 
-[![People waiting outside Aircel office to port their numbers](posts/2018/03/images/AIRCEL-PORT.jpg)](https://3.bp.blogspot.com/-LWz5WfWIosM/WqaN4tj68LI/AAAAAAAANqw/jT2K917KzgklgU3TrwnSA3-SxC-5LKC5QCLcBGAs/s1600/AIRCEL-PORT.jpg)
+[![People waiting outside Aircel office to port their numbers](/posts/2018/03/images/AIRCEL-PORT.jpg)](https://3.bp.blogspot.com/-LWz5WfWIosM/WqaN4tj68LI/AAAAAAAANqw/jT2K917KzgklgU3TrwnSA3-SxC-5LKC5QCLcBGAs/s1600/AIRCEL-PORT.jpg)
 
 ### What is the main reason people are porting their Aircel Number to another telecom operator?
 

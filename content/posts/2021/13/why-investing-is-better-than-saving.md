@@ -9,7 +9,7 @@ tags:
   - "investing"
   - "mutual-funds"
   - "stock-market"
-coverImage: "posts/2021/13/images/business-3462518_1920.jpg"
+coverImage: "/posts/2021/13/images/business-3462518_1920.jpg"
 ---
 
 **I'm better off saving in my bank account. I don't want the exposure of risk** but hear me out on why Investing is better than saving?
@@ -42,7 +42,7 @@ However, if you see other developed countries like the **United States has an in
 
 According to [ScripBox](https://scripbox.com/mf/is-1-crore-enough-after-15-years-for-all-your-needs/), at an inflation rate of 7%, your 1 Crore in the future will be as follows
 
-![](images/image.png)
+![](/posts/2021/13/images/image.png)
 
 From the above table, you get an idea of where your saved 1 Crore rupees will stand in the future, i.e,
 
@@ -77,4 +77,4 @@ By this time, I am sure you know **why investing is much better than saving mone
 
 However, with investing your money into the Bonds can certainly give you better returns over the Fixed Deposits and much more better in Mutual Funds & Equity but with slight risk exposure.
 
-Overall, its your money and you know what to do and what is right with you. Hope you like the advice and more posts like this, stay tuned with us. Put down your Email and you'll get our new posts right away on your email.
+Overall, its your money and you know what to do and what is right with you. Hope you like the advice and more /posts like this, stay tuned with us. Put down your Email and you'll get our new /posts right away on your email.

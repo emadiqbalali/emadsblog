@@ -34,19 +34,19 @@ categories:
 
 1\. Just after booting in the Kali linux options appear on the screen as listed in the picture below. Choose Graphical Install.
 
-[![](images/01-install-select.png)](http://docs.kali.org/wp-content/uploads/2015/02/01-install-select.png)
+[![](/posts/2015/09/images/01-install-select.png)](http://docs.kali.org/wp-content/uploads/2015/02/01-install-select.png)
 
   
 
 2\. Choose your preferred language to proceed the installation.
 
-[![](images/02-language-select.png)](http://docs.kali.org/wp-content/uploads/2015/02/02-language-select.png)
+[![](/posts/2015/09/images/02-language-select.png)](http://docs.kali.org/wp-content/uploads/2015/02/02-language-select.png)
 
   
 
 3\. Choose the current location from the list that appears.
 
-[![](images/03-location.png)](http://docs.kali.org/wp-content/uploads/2015/02/03-location.png)
+[![](/posts/2015/09/images/03-location.png)](http://docs.kali.org/wp-content/uploads/2015/02/03-location.png)
 
   
 
@@ -56,13 +56,13 @@ categories:
 
 5\. Type in the hostname if you want to change default is kali
 
-[![](images/05-hostname.png)](http://docs.kali.org/wp-content/uploads/2015/02/05-hostname.png)
+[![](/posts/2015/09/images/05-hostname.png)](http://docs.kali.org/wp-content/uploads/2015/02/05-hostname.png)
 
   
 
 6\. Type in the domain if you have one or else you can skip the step
 
-[![](images/06-domain.png)](http://docs.kali.org/wp-content/uploads/2015/02/06-domain.png)
+[![](/posts/2015/09/images/06-domain.png)](http://docs.kali.org/wp-content/uploads/2015/02/06-domain.png)
 
   
 
@@ -70,7 +70,7 @@ categories:
 
   
 
-[![](images/07-user.png)](http://docs.kali.org/wp-content/uploads/2015/02/07-user.png)
+[![](/posts/2015/09/images/07-user.png)](http://docs.kali.org/wp-content/uploads/2015/02/07-user.png)
 
   
 
@@ -78,7 +78,7 @@ categories:
 
   
 
-[![](images/08-username.png)](http://docs.kali.org/wp-content/uploads/2015/02/08-username.png)
+[![](/posts/2015/09/images/08-username.png)](http://docs.kali.org/wp-content/uploads/2015/02/08-username.png)
 
   
 
@@ -86,7 +86,7 @@ categories:
 
   
 
-[![](images/09-timezone.png)](http://docs.kali.org/wp-content/uploads/2015/02/09-timezone.png)
+[![](/posts/2015/09/images/09-timezone.png)](http://docs.kali.org/wp-content/uploads/2015/02/09-timezone.png)
 
   
 
@@ -96,7 +96,7 @@ categories:
 
   
 
-[![](images/10-partitionmethod.png)](http://docs.kali.org/wp-content/uploads/2015/02/10-partitionmethod.png)
+[![](/posts/2015/09/images/10-partitionmethod.png)](http://docs.kali.org/wp-content/uploads/2015/02/10-partitionmethod.png)
 
   
 
@@ -104,7 +104,7 @@ categories:
 
   
 
-[![](images/11-selectdisk.png)](http://docs.kali.org/wp-content/uploads/2015/02/11-selectdisk.png)
+[![](/posts/2015/09/images/11-selectdisk.png)](http://docs.kali.org/wp-content/uploads/2015/02/11-selectdisk.png)
 
   
 
@@ -112,7 +112,7 @@ categories:
 
   
 
-[![](images/12-partitioningscheme.png)](http://docs.kali.org/wp-content/uploads/2015/02/12-partitioningscheme.png)
+[![](/posts/2015/09/images/12-partitioningscheme.png)](http://docs.kali.org/wp-content/uploads/2015/02/12-partitioningscheme.png)
 
   
 
@@ -120,7 +120,7 @@ categories:
 
   
 
-[![](images/13-finish-partitioning.png)](http://docs.kali.org/wp-content/uploads/2015/02/13-finish-partitioning.png)
+[![](/posts/2015/09/images/13-finish-partitioning.png)](http://docs.kali.org/wp-content/uploads/2015/02/13-finish-partitioning.png)
 
   
 
@@ -128,7 +128,7 @@ categories:
 
   
 
-[![](images/14-networkmirror.png)](http://docs.kali.org/wp-content/uploads/2015/02/14-networkmirror.png)
+[![](/posts/2015/09/images/14-networkmirror.png)](http://docs.kali.org/wp-content/uploads/2015/02/14-networkmirror.png)
 
   
 
@@ -138,7 +138,7 @@ GRUB Loader will list all the operating systems in your computer to select the o
 
   
 
-[![](images/15-install-grub.png)](http://docs.kali.org/wp-content/uploads/2015/02/15-install-grub.png)
+[![](/posts/2015/09/images/15-install-grub.png)](http://docs.kali.org/wp-content/uploads/2015/02/15-install-grub.png)
 
   
 
@@ -146,7 +146,7 @@ GRUB Loader will list all the operating systems in your computer to select the o
 
   
 
-[![](images/16-install-complete.png)](http://docs.kali.org/wp-content/uploads/2015/02/16-install-complete.png)
+[![](/posts/2015/09/images/16-install-complete.png)](http://docs.kali.org/wp-content/uploads/2015/02/16-install-complete.png)
 
   
 

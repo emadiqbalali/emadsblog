@@ -20,7 +20,7 @@ Every time I stumble upon my email, there's dozen of email in one go, asking "**
 
 I decided to step off by replying to each one of them and instead write a post on it separately so it clears all the beginner's doubts trying to enter the Stock Market.
 
-If you haven't still read my previous posts on Stock Market, then please go ahead and read them to get a better understanding of the Stock Market.
+If you haven't still read my previous /posts on Stock Market, then please go ahead and read them to get a better understanding of the Stock Market.
 
 - [How I Started Trading In Stock Market? The Basics of Investing In Stock Market](https://sastaeinstein.com/basics-of-investing-in-stock-market/)
 - [How To Pick Stocks For Investing?](https://sastaeinstein.com/how-to-pick-stocks-for-investing/)
@@ -75,7 +75,7 @@ These above stocks are fundamentally good and can be kept for long term (1-2 yea
 
 Take an example of **Ruchi Soya Industries**, this penny stock was trading at Rs15 and in over 3-4 months of time, it skyrocketed to above Rs 1000 per share. Take a look at yourself. It was a multi-bagger.
 
-![ruchi soya industries mutlibagger chart](posts/2021/02/images/image-1024x481.png)
+![ruchi soya industries mutlibagger chart](/posts/2021/02/images/image-1024x481.png)
 
 ## Conclusion
 

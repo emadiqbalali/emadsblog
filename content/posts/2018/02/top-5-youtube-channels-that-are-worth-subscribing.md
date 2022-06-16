@@ -9,7 +9,7 @@ To be better content creator, you need to publish really great content to attrac
 
   
 
-[![](posts/2018/02/images/9774282571_acfa118445_b.jpg)](https://3.bp.blogspot.com/-Iz5rkns228k/WohO5oilBiI/AAAAAAAANBQ/bJmmx7NZ_TktLF1lem_JYu9eVmYqEYLxgCLcBGAs/s1600/9774282571_acfa118445_b.jpg)
+[![](/posts/2018/02/images/9774282571_acfa118445_b.jpg)](https://3.bp.blogspot.com/-Iz5rkns228k/WohO5oilBiI/AAAAAAAANBQ/bJmmx7NZ_TktLF1lem_JYu9eVmYqEYLxgCLcBGAs/s1600/9774282571_acfa118445_b.jpg)
 
   
 

@@ -8,7 +8,7 @@ coverImage: "tenor-1.gif"
 
 SEO? Are you familiar with this word? I hope you do and that is why you landed here. We also know you're a beginner so we'll make you understand how and what SEO can do to our blogs from scratch. Reading this article carefully until the end will give you all the important information about SEO. Grab a cup of coffee and sit back. Let's begin. I know reading articles are boring and make you pretty much like the girl below. Hit like if you agree. xD
 
-[![SEO Optimisation Emad's Blog](posts/2018/07/images/tenor-1.gif)](https://sastaeinstein.com/wp-content/uploads/2018/07/tenor-1.gif)
+[![SEO Optimisation Emad's Blog](/posts/2018/07/images/tenor-1.gif)](https://sastaeinstein.com/wp-content/uploads/2018/07/tenor-1.gif)
 
 Before you act like the girl above, I'll let you know that I narrowed the article so that it will be easier for you to read and understand at the same time.
 

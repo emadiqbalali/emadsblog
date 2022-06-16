@@ -15,7 +15,7 @@ Being happy is not all about life but also enjoying it. There are much better wa
 I made an infographic to help you out if your life is messed up. Hope you'll like it. If yes, then share it. You can also pin it to your board. xD  
   
 
-[![Read This And Your Life will never be same! - Emad's Blog](posts/2018/07/images/Is-2BYour-2BLife-2BMessed-2BUp-120x300.png)](https://sastaeinstein.com/wp-content/uploads/2018/07/Is-2BYour-2BLife-2BMessed-2BUp.png)
+[![Read This And Your Life will never be same! - Emad's Blog](/posts/2018/07/images/Is-2BYour-2BLife-2BMessed-2BUp-120x300.png)](https://sastaeinstein.com/wp-content/uploads/2018/07/Is-2BYour-2BLife-2BMessed-2BUp.png)
 
   
   

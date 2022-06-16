@@ -20,7 +20,7 @@ I will be taking my brother as an example in this article as we move towards the
 
 ## What Is Option?
 
-**Options** belong to the derivatives market. In simple and sweet words, a Derivative is financial security in which the price is derived from the underlying asset or group of [assets](https://emadsblog.com/most-used-financial-jargon/).
+**Options** belong to the derivatives market. In simple and sweet words, a Derivative is financial security in which the price is derived from the underlying asset or group of [assets](https://sastaeinstein.com/most-used-financial-jargon/).
 
 Now Options are based on both stocks and indices. Right now in India, there is options for NIFTY, BANKNIFTY (Top Banks), and NIFTYFIN (Top Financial Company).
 

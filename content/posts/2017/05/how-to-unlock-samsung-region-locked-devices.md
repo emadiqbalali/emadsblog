@@ -14,7 +14,7 @@ In this post, I am helping you fix this issue. It's related to Samsung devices p
 
   
 
-[![](posts/2017/05/images/SIM-Network-Unlock-PIN.jpg)](http://cellfservices.com/blog/wp-content/uploads/2013/10/SIM-Network-Unlock-PIN.jpg)
+[![](/posts/2017/05/images/SIM-Network-Unlock-PIN.jpg)](http://cellfservices.com/blog/wp-content/uploads/2013/10/SIM-Network-Unlock-PIN.jpg)
 
   
 

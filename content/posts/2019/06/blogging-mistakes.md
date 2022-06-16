@@ -16,7 +16,7 @@ In this article, I'll share my views on Why did my first blog failed and the thi
 
 The first thing I learned about blogs is that not many people like to read plain texts. They want visual or graphics that might get them attracted to read no matter what they are searching for. It actually works for most of the time. You can attract many people by making **Infographics** and drive really good traffic so far.
 
-![simple blogging mistakes you should avoid](posts/2019/06/images/How-did-my-first-blog-fail_-What-mistakes-I-did_-410x1024.png)
+![simple blogging mistakes you should avoid](/posts/2019/06/images/How-did-my-first-blog-fail_-What-mistakes-I-did_-410x1024.png)
 
 You're free to share it with a link back to this site.
 

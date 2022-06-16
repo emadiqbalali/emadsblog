@@ -6,7 +6,7 @@ categories:
   - "info"
 tags: 
   - "jio-sim"
-coverImage: "posts/2022/04/Jio-Sim.jpg"
+coverImage: "/posts/2022/04/Jio-Sim.jpg"
 ---
 
 Is your Jio sim not working in Saudi Arabia? Are you facing a "No Network" issue on Jio sim outside India? Did you forget to recharge the sim card with the roaming package before going on a vacation?
@@ -29,19 +29,19 @@ There are simple steps you need to follow to get your sim up and working. Follow
     
 - Type in **Hello**, and you will be greeted with a traditional greeting message.
 
-![](posts/2022/04/images/image-2.png)
+![](/posts/2022/04/images/image-2.png)
 
 - Next type in **Support For Jio Sim**, and then you will get multiple options to choose from.
 
-![](posts/2022/04/images/image-1.png)
+![](/posts/2022/04/images/image-1.png)
 
 - Now press 1 and you will be shown something like this
 
-![](posts/2022/04/images/image-3.png)
+![](/posts/2022/04/images/image-3.png)
 
 - Again choose 1, and you will reach here
 
-![](posts/2022/04/images/image-4.png)
+![](/posts/2022/04/images/image-4.png)
 
 - Type 1 again to get the next message  
     
@@ -51,7 +51,7 @@ There are simple steps you need to follow to get your sim up and working. Follow
     
 - Now you will choose 2 when they ask if Jio Network is back since the network won't be there still, it's just a procedure to get connected to customer care as seen in the screenshot below
 
-![](posts/2022/04/images/image-5.png)
+![](/posts/2022/04/images/image-5.png)
 
 - As soon as you're connected with the Executive, explain to them the whole issue and ask them to activate the network as you forgot to recharge Internation Roaming Package. They will verify if you're really the owner of the SIM card.  
     P.S: You don't need to recharge to get a network.  

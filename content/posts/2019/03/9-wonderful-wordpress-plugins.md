@@ -24,7 +24,7 @@ Also, do note that installing too many plugins can take up too many resources an
 
 **It is recommended to install not more 20 plugins**. However, you should install only the one you’re using and rest can be deactivated. If you want to know “[How Many Is Too Many?](https://premium.wpmudev.org/blog/too-many-plugins/)” then you can read that article. You don’t need to install all popular plugin.
 
-[![Domain Mega Sale](images/domain_mega_sale_in.png)](https://www.crazydomains.in?a=mpMjgoDltriQXuL6HCRkqw%3D%3D)
+[![Domain Mega Sale](/posts/2019/03/images/domain_mega_sale_in.png)](https://www.crazydomains.in?a=mpMjgoDltriQXuL6HCRkqw%3D%3D)
 
 ## **10 Plugins Every Blogger Should Install**
 
@@ -107,7 +107,7 @@ For those who are looking to have a completely new page where they can recommend
 
 All it does is, let you create a new page just like an e-commerce shopping page. Here’s how it looks.
 
-![Shop Page WP  9 Wonderful plugin WordPress](images/screenshot-1-1024x722.jpg)
+![Shop Page WP  9 Wonderful plugin WordPress](/posts/2019/03/images/screenshot-1-1024x722.jpg)
 
 Example of Shop Page made By Shop Page WP Plugin
 
@@ -135,13 +135,13 @@ It also has browser caching using Etags, cache-control and future expire headers
 
 Get this plugin to cache the load your site faster to avoid those bounce rates. Even I use this plugin and it actually showed great improvements when it comes to my blog speed.
 
-![](images/Page-Speed-1024x494.jpg)
+![](/posts/2019/03/images/Page-Speed-1024x494.jpg)
 
 [Page Speed Test By Google](https://developers.google.com/speed/pagespeed/insights/)
 
 Apart from this your hosting provider also plays a role in loading speed of your site. **This blog is hosted on Hostripples.**
 
-[![Windows Reseller Hosting](images/Windows-Reseller-Hosting-720x90.gif)](https://hostripples.in/secure/aff.php?aff=746)
+[![Windows Reseller Hosting](/posts/2019/03/images/Windows-Reseller-Hosting-720x90.gif)](https://hostripples.in/secure/aff.php?aff=746)
 
 ### 8\. **[UpdraftPlus - Backup/Restore \[Freemium\]:](https://wordpress.org/plugins/updraftplus/)**
 

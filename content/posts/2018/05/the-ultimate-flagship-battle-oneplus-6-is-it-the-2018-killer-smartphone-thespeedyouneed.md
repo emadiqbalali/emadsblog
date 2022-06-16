@@ -15,7 +15,7 @@ I paused for a minute, and thought 100 Crores is really a big number, isn't it? 
 
 Enough expressions, let me show you a picture of those Matte Black Glass Look on OnePlus 6. A picture is better than 1000 words.
 
-[![OnePlus 6 Midnight Black - Emad's Blog](posts/2018/05/images/download.jpg "Picture Courtesy: PhoneArena")](https://1.bp.blogspot.com/-k-Ug-SARyfk/WwNECeMYHMI/AAAAAAAAQq8/vcb6ffFot5wYSF3WArmWqKK5eu-i9nR6wCLcBGAs/s1600/download.jpg)
+[![OnePlus 6 Midnight Black - Emad's Blog](/posts/2018/05/images/download.jpg "Picture Courtesy: PhoneArena")](https://1.bp.blogspot.com/-k-Ug-SARyfk/WwNECeMYHMI/AAAAAAAAQq8/vcb6ffFot5wYSF3WArmWqKK5eu-i9nR6wCLcBGAs/s1600/download.jpg)
 
 Can you say that it is Glass at the back? Nope right. It is coated to make it look like those awesome Matte Finished look. I'm impressed I must say.
 
@@ -35,7 +35,7 @@ To be honest, let me tell you or just imagine its speed. The slogan is not kiddi
 
 #### The notch is beautiful, and also looks amazing as its smaller than other Smartphone especially when you compare it with iPhone X notch. However, all sensors are detached. It got a Camera and that little piece of Speaker up there. The Display looks soothing as it got 6.28" of  Optic AMOLED. This display must be a lot crispier and sharp. Not to mention, it is 19:9 Ratio and is protected by Corning's Gorilla Glass 5. Tough enough to handle regular falls that happen accidentally.
 
-[![](posts/2018/05/images/oneplus-6-5.jpg)](https://4.bp.blogspot.com/-mpG4dcH1E9g/WwNNB78YY9I/AAAAAAAAQrI/5jMhc-hbVdcDQqeLR_R5K3nset6D5Y9GACLcBGAs/s1600/oneplus-6-5.jpg)
+[![](/posts/2018/05/images/oneplus-6-5.jpg)](https://4.bp.blogspot.com/-mpG4dcH1E9g/WwNNB78YY9I/AAAAAAAAQrI/5jMhc-hbVdcDQqeLR_R5K3nset6D5Y9GACLcBGAs/s1600/oneplus-6-5.jpg)
 
 ## #2 Speed:
 

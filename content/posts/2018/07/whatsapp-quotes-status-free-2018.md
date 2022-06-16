@@ -21,47 +21,47 @@ I'm here with all in one collection of WhatsApp Status Images from all over the 
 
 ## Savage WhatsApp Status With Images:
 
-- ![Deep Quotes Motivational Emad's Bllog](posts/2018/07/images/39154812_2187422694874369_4223595483685191680_n.jpg)
+- ![Deep Quotes Motivational Emad's Bllog](/posts/2018/07/images/39154812_2187422694874369_4223595483685191680_n.jpg)
     
     Princess, No Bitch. Queen!
     
-- ![Deep Quotes Motivational Emad's Bllog](posts/2018/07/images/38801608_2181599395456699_7027125155537092608_n.jpg)
+- ![Deep Quotes Motivational Emad's Bllog](/posts/2018/07/images/38801608_2181599395456699_7027125155537092608_n.jpg)
     
-- ![Deep Quotes Motivational Emad's Bllog](posts/2018/07/images/37244599_2155279564755349_3829788553630449664_n.jpg)
+- ![Deep Quotes Motivational Emad's Bllog](/posts/2018/07/images/37244599_2155279564755349_3829788553630449664_n.jpg)
     
-- ![Deep Quotes Motivational Emad's Bllog](posts/2018/07/images/37410830_2160633727553266_239609332021329920_n.jpg)
+- ![Deep Quotes Motivational Emad's Bllog](/posts/2018/07/images/37410830_2160633727553266_239609332021329920_n.jpg)
     
-- ![Deep Quotes Motivational Emad's Bllog](posts/2018/07/images/30124184_2087304444886195_8327563526953844078_n.jpg)
+- ![Deep Quotes Motivational Emad's Bllog](/posts/2018/07/images/30124184_2087304444886195_8327563526953844078_n.jpg)
     
-- ![Deep Quotes Motivational Emad's Bllog](posts/2018/07/images/30571490_2090531924563447_7015704369345593344_n.jpg)
+- ![Deep Quotes Motivational Emad's Bllog](/posts/2018/07/images/30571490_2090531924563447_7015704369345593344_n.jpg)
     
-- ![Deep Quotes Motivational Emad's Bllog](posts/2018/07/images/25398980_2029405087342798_5261180185278661446_n.jpg)
+- ![Deep Quotes Motivational Emad's Bllog](/posts/2018/07/images/25398980_2029405087342798_5261180185278661446_n.jpg)
     
-- ![Deep Quotes Motivational Emad's Bllog](posts/2018/07/images/be-a-beast-grind-while-others-sleep.png)
+- ![Deep Quotes Motivational Emad's Bllog](/posts/2018/07/images/be-a-beast-grind-while-others-sleep.png)
     
-- ![Deep Quotes Motivational Emad's Bllog](posts/2018/07/images/be-a-beast-grind-while-others-sleep-1.png)
+- ![Deep Quotes Motivational Emad's Bllog](/posts/2018/07/images/be-a-beast-grind-while-others-sleep-1.png)
     
-- ![](posts/2018/07/images/be-a-beast-grind-while-others-sleep-2.png)
+- ![](/posts/2018/07/images/be-a-beast-grind-while-others-sleep-2.png)
     
-- ![Deep Quotes Motivational Emad's Bllog](posts/2018/07/images/39937513_2197799577170014_6549397098549215232_n.jpg)
+- ![Deep Quotes Motivational Emad's Bllog](/posts/2018/07/images/39937513_2197799577170014_6549397098549215232_n.jpg)
     
-- ![Deep Quotes Motivational Emad's Bllog](posts/2018/07/images/29066743_2075463662736940_6061558508157927424_n.jpg)
+- ![Deep Quotes Motivational Emad's Bllog](/posts/2018/07/images/29066743_2075463662736940_6061558508157927424_n.jpg)
     
-- ![Deep Quotes Motivational Emad's Bllog](posts/2018/07/images/Feed-2BYour-2BOwn-2BEGO-252C-2BI-2527m-2BBusy.-2B-25283-2529.png)
+- ![Deep Quotes Motivational Emad's Bllog](/posts/2018/07/images/Feed-2BYour-2BOwn-2BEGO-252C-2BI-2527m-2BBusy.-2B-25283-2529.png)
     
-- ![Deep Quotes Motivational Emad's Bllog](posts/2018/07/images/Feed-2BYour-2BOwn-2BEGO-252C-2BI-2527m-2BBusy.-2B-25285-2529.png)
+- ![Deep Quotes Motivational Emad's Bllog](/posts/2018/07/images/Feed-2BYour-2BOwn-2BEGO-252C-2BI-2527m-2BBusy.-2B-25285-2529.png)
     
-- ![Deep Quotes Motivational Emad's Bllog](posts/2018/07/images/I-2Bpromise-2Bto-2Bhandle-2Byour-2Bheart-2Bwith-2Bcare-2Band-2BtReasure-2Bit-2Bwith-2Blove.png)
+- ![Deep Quotes Motivational Emad's Bllog](/posts/2018/07/images/I-2Bpromise-2Bto-2Bhandle-2Byour-2Bheart-2Bwith-2Bcare-2Band-2BtReasure-2Bit-2Bwith-2Blove.png)
     
-- ![](posts/2018/07/images/24125275_1406360056141692_2146232403767590912_n.jpg)
+- ![](/posts/2018/07/images/24125275_1406360056141692_2146232403767590912_n.jpg)
     
-- ![Deep Quotes Motivational Emad's Bllog](posts/2018/07/images/Always-2Bkeep-2Byour-2Bhead-2Bhigh-252C-2Band-2Byour-2Bmiddle-2Bfinger-2Bhigher..png)
+- ![Deep Quotes Motivational Emad's Bllog](/posts/2018/07/images/Always-2Bkeep-2Byour-2Bhead-2Bhigh-252C-2Band-2Byour-2Bmiddle-2Bfinger-2Bhigher..png)
     
-- ![Deep Quotes Motivational Emad's Bllog](posts/2018/07/images/I-2Bdon-25E2-2580-2599t-2Bchase-2Banyone-2Banymore.-2BWanna-2Bwalk-2Bout-2Bof-2Bmy-2Blife-252C-2Bthere-25E2-2580-2599s-2Bthe-2Bdoor.-2BHell-252C-2BI-25E2-2580-2599ll-2Beven-2Bhold-2Bit-2Bfor-2Byou..png)
+- ![Deep Quotes Motivational Emad's Bllog](/posts/2018/07/images/I-2Bdon-25E2-2580-2599t-2Bchase-2Banyone-2Banymore.-2BWanna-2Bwalk-2Bout-2Bof-2Bmy-2Blife-252C-2Bthere-25E2-2580-2599s-2Bthe-2Bdoor.-2BHell-252C-2BI-25E2-2580-2599ll-2Beven-2Bhold-2Bit-2Bfor-2Byou..png)
     
-- ![Deep Quotes Motivational Emad's Bllog](posts/2018/07/images/It-25E2-2580-2599s-2Bok-2Bif-2Byou-2Bdon-25E2-2580-2599t-2Blike-2Bme.-2BEveryone-2Bdon-25E2-2580-2599t-2Bhave-2Bgood-2Btaste..png)
+- ![Deep Quotes Motivational Emad's Bllog](/posts/2018/07/images/It-25E2-2580-2599s-2Bok-2Bif-2Byou-2Bdon-25E2-2580-2599t-2Blike-2Bme.-2BEveryone-2Bdon-25E2-2580-2599t-2Bhave-2Bgood-2Btaste..png)
     
-- ![Deep Quotes Motivational Emad's Bllog](posts/2018/07/images/Feed-2BYour-2BOwn-2BEGO-252C-2BI-2527m-2BBusy.-2B-25284-2529.png)
+- ![Deep Quotes Motivational Emad's Bllog](/posts/2018/07/images/Feed-2BYour-2BOwn-2BEGO-252C-2BI-2527m-2BBusy.-2B-25284-2529.png)
     
 
 ## Funny WhatsApp Quotes:

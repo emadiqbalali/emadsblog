@@ -8,7 +8,7 @@ tags:
   - "how-to-invest"
   - "stock-market"
   - "where-to-invest"
-coverImage: "posts/2021/04/images/money-4029562_1920.png"
+coverImage: "/osts/2021/04/images/money-4029562_1920.png"
 ---
 
 A question that is definitely asked by a lot of people "**How To Start Investing?**" out there looking to invest and grow their money over time instead of keeping them idle in the bank account or doesn't want the **4%-6%** of interest in the Fixed Deposits.

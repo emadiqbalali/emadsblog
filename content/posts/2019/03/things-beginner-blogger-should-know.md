@@ -57,7 +57,7 @@ Also, I was able to drive 60 page views a day with a bounce rate of just 56%.
 
 **Don’t believe me? Here is the screenshot.**
 
-![](posts/2019/03/images/V4dEr5-1024x282.png)
+![](/posts/2019/03/images/V4dEr5-1024x282.png)
 
 _Proof of how I skyrocketed from 70M Global rank to 32M By Following Above 7 Methods_
 
@@ -196,7 +196,7 @@ Do you think that it is a really a pain in the ass when you have to share your b
 
 If, yes then I can totally relate to you.
 
-While searching a solution for this issue, I came across a site called IFTTT (If This Then That) which automates sharing of your WordPress blog posts to social sites automatically when you hit the publish button for the first time.
+While searching a solution for this issue, I came across a site called IFTTT (If This Then That) which automates sharing of your WordPress blog /posts to social sites automatically when you hit the publish button for the first time.
 
 It is a pretty easy process. You sign up for it and forget about it.
 
@@ -204,8 +204,8 @@ IFTTT works on recipes. To spread your blog post on your social media handle aut
 
 Here Are Some Applets Which Will Make This Process Easy For You:
 
-- [Applet for sharing WordPress post on Twitter with the image.](https://ifttt.com/applets/96201881d-share-your-new-wordpress-posts-to-twitter-with-an-image)
-- [Applet for sharing WordPress post on Facebook Page.](https://ifttt.com/applets/10336p-share-new-wordpress-posts-to-a-facebook-page)
+- [Applet for sharing WordPress post on Twitter with the image.](https://ifttt.com/applets/96201881d-share-your-new-wordpress-/posts-to-twitter-with-an-image)
+- [Applet for sharing WordPress post on Facebook Page.](https://ifttt.com/applets/10336p-share-new-wordpress-/posts-to-a-facebook-page)
 
 **Not only these applets, but there are also plenty more which helps you in automating everything.**
 

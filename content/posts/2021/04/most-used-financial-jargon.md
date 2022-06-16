@@ -6,7 +6,7 @@ categories:
   - "stock-market"
 tags: 
   - "jargon"
-coverImage: "posts/2021/04/images/Most-Used-Financial-Jargons.png"
+coverImage: "/posts/2021/04/images/Most-Used-Financial-Jargons.png"
 ---
 
 I usually engage in conversation about the Financial world with someone and they are almost clueless about a few jargon or words used in the Financial World.

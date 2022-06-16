@@ -153,6 +153,6 @@ According to my, both of them are great in their own respective ways. If you don
 
 While on the other hand, Zerodha is close to perfection. They have an amazing console which I like the most, the trade buying and selling is amazing as well.
 
-In the end, I hope you know the battle between Upstox vs Zerodha and the one who won for you, go with it. I personally have both of them right now. If you want to get started with Investing for the long term, then start with this [basket](https://emadsblog.com/does-investing-in-stocks-make-you-rich/).
+In the end, I hope you know the battle between Upstox vs Zerodha and the one who won for you, go with it. I personally have both of them right now. If you want to get started with Investing for the long term, then start with this [basket](https://sastaeinstein.com/does-investing-in-stocks-make-you-rich/).
 
 Anyway, it's upto you guys! Hope you like the post, see you next time in the next post.

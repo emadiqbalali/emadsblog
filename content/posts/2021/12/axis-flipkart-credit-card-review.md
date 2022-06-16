@@ -4,7 +4,7 @@ date: "2021-12-26"
 categories: 
   - "credit-cards"
   - "reviews"
-coverImage: "posts/2021/11/images/Axis-CC-Cropped.jpg"
+coverImage: "//posts/2021/11/images/Axis-CC-Cropped.jpg"
 ---
 
 Like all co-branded credit cards, Axis Flipkart Credit Card is no exception, it offers up to a flat and unlimited 5% cashback on shopping from **Flipkart** & **Myntra.** Since Myntra is also 100% owned by Flipkart, therefore, shopping on Myntra also lands you the same benefits.
@@ -29,7 +29,7 @@ However, this credit card is a little bit different and more rewarding and we wi
 - **Complimentary Lounge Access** - 4 per calendar year.  
     
 
-![](posts/2021/11/images/image.png)
+![](/posts/2021/11/images/image.png)
 
 (Subjected to change, for more refer [Axis Bank Website](https://www.axisbank.com/docs/default-source/default-document-library/axis-bank-airport-lounge-access-program.pdf))
 
@@ -43,7 +43,7 @@ However, this credit card is a little bit different and more rewarding and we wi
 
 * * *
 
-![Axis Flipkart Credit Card](posts/2021/11/images/Axis-CC.jpg)
+![Axis Flipkart Credit Card](/posts/2021/11/images/Axis-CC.jpg)
 
 ## Axis Flipkart Credit Card Review
 

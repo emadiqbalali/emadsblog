@@ -62,3 +62,31 @@ params:
     provider: mailchimp
     # specify the target URL for the subscription form
     mailchimpURL: ""
+
+# Google Analytics Code Here
+
+params:
+  features:
+    analytics:
+      enabled: true
+      google:
+        id: UA-111756186-2
+
+# Ko-FI
+
+params:
+  features:
+    support:
+      enabled: true
+      kofi:
+        user: emadiqbalali
+        text: Tip Me
+        textColor: '#f9fafc'
+        backgroundColor: '#248aaa'
+
+# Dark Mode
+
+  darkMode:
+    enable: true
+    provider: darkreader
+    default: system

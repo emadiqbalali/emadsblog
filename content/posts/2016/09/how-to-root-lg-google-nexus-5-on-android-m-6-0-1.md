@@ -8,7 +8,7 @@ categories:
 Yo! Hi there!  
 Today, I'm going to show you how to root Nexus 5 the easiest way!  
 
-[![](images/nexus-5-crop.jpg)](https://4.bp.blogspot.com/-RuK3oJHT22k/V-Ft8cKEl5I/AAAAAAAABuI/dWZGjEXy5XcmpCo6nLO0A1ZuCvrCNSLwQCLcB/s1600/nexus-5-crop.jpg)
+[![](/posts/2016/09/images/nexus-5-crop.jpg)](https://4.bp.blogspot.com/-RuK3oJHT22k/V-Ft8cKEl5I/AAAAAAAABuI/dWZGjEXy5XcmpCo6nLO0A1ZuCvrCNSLwQCLcB/s1600/nexus-5-crop.jpg)
 
   
 

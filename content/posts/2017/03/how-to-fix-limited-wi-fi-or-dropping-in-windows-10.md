@@ -13,7 +13,7 @@ Let's fix it. Follow the steps given below:
 
 - Go to Control Panel and search for **Device Manager.**
 
-[![](posts/2017/03/images/1.png)](https://3.bp.blogspot.com/-svis0HcN0Lk/WNUB_m_MTsI/AAAAAAAAE84/uEIfNWVNFEU5oTODDmIQyy-5veVaaaXHACLcB/s1600/1.png)
+[![](/l2017/03/images/1.png)](https://3.bp.blogspot.com/-svis0HcN0Lk/WNUB_m_MTsI/AAAAAAAAE84/uEIfNWVNFEU5oTODDmIQyy-5veVaaaXHACLcB/s1600/1.png)
 
 - Now open **Device Manager** and expand the **Network Adapters** to find your Wireless Adapter.
 

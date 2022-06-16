@@ -11,7 +11,7 @@ Are you looking for random best quotes on the Internet? I'm here with 150 of the
 
 You can also use these quotes on #WhatsApp #Instagram #Twitter and almost every social media platform to either convey what's going on in your life or just for fun. It depends on you. The collection here, however, don't have any sort of category to fit in as they are all of the random categories.
 
-[![](posts/2018/08/images/Emad-2527s-2BBlog.png)](https://sastaeinstein.com/wp-content/uploads/2018/08/Emad-2527s-2BBlog.png)
+[![](/posts/2018/08/images/Emad-2527s-2BBlog.png)](https://sastaeinstein.com/wp-content/uploads/2018/08/Emad-2527s-2BBlog.png)
 
 ##  75+ Best Sayings of All Time \[Quotes\]
 

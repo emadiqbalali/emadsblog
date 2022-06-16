@@ -19,7 +19,7 @@ The message popped up while applying imported theme was like this:
 
   
 
-[![](posts/2017/09/images/maxresdefault.jpg)](https://i.ytimg.com/vi/PUy45-KRPM8/maxresdefault.jpg)
+[![](/posts/2017/09/images/maxresdefault.jpg)](https://i.ytimg.com/vi/PUy45-KRPM8/maxresdefault.jpg)
 
   
 

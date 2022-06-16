@@ -16,7 +16,7 @@ tags:
 coverImage: "2.Total_body_protection.jpg"
 ---
 
-- ![GadgetSheildz Screen Protectors Review](posts/2018/12/images/2.Total_body_protection.jpg)
+- ![GadgetSheildz Screen Protectors Review](/posts/2018/12/images/2.Total_body_protection.jpg)
     
 
 Do you love the way your phone looks but are not very fond of scratches and doesn't want to compromise the feel of your phone in hands by applying case and weight to your phone? Try GadgetShieldz Screen Protector.

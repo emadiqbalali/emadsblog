@@ -17,7 +17,7 @@ This is a serious matter for many of them. Let's discuss about it in details, an
 
 Keeping in mind about Gamers, I'm going to make a conclusion in this article. Therefore, you get a better perspective of why I am comparing these two gaming platforms. Before getting started, I will let you know that I'm aware of how both platforms works.
 
-![Gaming PC or Gaming Console? Which one is best?](posts/2019/02/images/adult-competition-computers-929831-1024x678.jpg)
+![Gaming PC or Gaming Console? Which one is best?](/posts/2019/02/images/adult-competition-computers-929831-1024x678.jpg)
 
 Gaming PC vs Gaming Consoles!
 

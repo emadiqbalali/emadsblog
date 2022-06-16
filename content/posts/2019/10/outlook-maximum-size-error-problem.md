@@ -97,7 +97,7 @@ So, if the oversized PST file is not corrupted, then use the instructions below 
 - From the list appears on the screen, select the **Archive** option. 
 - Next, choose the radio button corresponding to Archive this folder and all subfolders. Within the box **“Archive items older than”** specify a date.
 
-![](images/1.png)
+![](/posts/2019/10/images/1.png)
 
 ## Final Thoughts
 

@@ -3,7 +3,7 @@ title: "Expert-Level Blog Design Tips for Web Designers"
 date: "2020-04-22"
 categories: 
   - "blogging"
-coverImage: "posts/2020/04/website-3374825_1920.jpg"
+coverImage: "/posts/2020/04/website-3374825_1920.jpg"
 ---
 
 As a great portfolio of designs, a great blog should be entertaining, imaginative and insightful and shoIt can be as easy to design a blog as downloading a template and adding a couple of widgets.
@@ -30,7 +30,7 @@ The design target is to make your web your goals. This is it. While the rest com
 
 How can you do that?
 
-You want a visual hierarchy that leads to an action call. In a simpler sense, present a title or title string that ends with a call to action. And bring this title / call-to-action couple into the places that people see most (for example, the top of the home page, the top of the sidebar, the bottom of the posts, etc.).
+You want a visual hierarchy that leads to an action call. In a simpler sense, present a title or title string that ends with a call to action. And bring this title / call-to-action couple into the places that people see most (for example, the top of the home page, the top of the sidebar, the bottom of the /posts, etc.).
 
 ## Get A Good Domain Name
 
@@ -48,7 +48,7 @@ Use a font for your logo at most, one for your headlines and one for your text. 
 
 You need to learn how to start a blog but do you know exactly what a website you need to start with? Blogging via [blogging is pointless](https://www.linkedin.com/pulse/20141128104243-49144655-your-company-blog-a-waste-of-time) - you'll soon get bored and your beautifully built website will soon be just a treadmill.
 
-Often, it's a good idea to bring a notepad and pencil before you start (and check out our article on the best laptops for artists, if you like your stationery). Write down the types of blog posts you'd like to write so you've already got a benchmark that you can go back to if ideas start to run out.
+Often, it's a good idea to bring a notepad and pencil before you start (and check out our article on the best laptops for artists, if you like your stationery). Write down the types of blog /posts you'd like to write so you've already got a benchmark that you can go back to if ideas start to run out.
 
 Only then can you understand how to start a blog if you continue, now is the time to design and fill it out...
 

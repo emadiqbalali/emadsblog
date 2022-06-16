@@ -4,7 +4,7 @@ date: "2021-04-20"
 categories: 
   - "brokers"
   - "stock-market"
-coverImage: "posts/2021/14/images/Taxes-and-charges.png"
+coverImage: "/posts/2021/14/images/Taxes-and-charges.png"
 ---
 
 When you're first starting out, you're told to open a DEMAT account with the broker of your choice. I use Zerodha & Upstox as my primary brokers for now and both are amazing in their own ways so far.

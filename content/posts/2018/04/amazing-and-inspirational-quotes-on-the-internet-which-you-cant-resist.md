@@ -9,7 +9,7 @@ A list of random coolest quotes on the internet is compiled by us in this articl
 
 Before getting started, do subscribe our blog and leave a feedback in the comment section down below. We're working harder to stand in a million. Your love is always with us. Find Quotes On The Internet below.
 
-[![amazing and inspirational quotes ](posts/2018/04/images/38%2BMind%2Bblowing%2Binspirational%2Bquotes.png)](https://1.bp.blogspot.com/-XCwsbtLWPYg/Wut__809v_I/AAAAAAAAQUE/dSdDEyVijoAMPS073C5I0_nVT2QlByB7wCLcBGAs/s1600/38%2BMind%2Bblowing%2Binspirational%2Bquotes.png)
+[![amazing and inspirational quotes ](/posts/2018/04/images/38%2BMind%2Bblowing%2Binspirational%2Bquotes.png)](https://1.bp.blogspot.com/-XCwsbtLWPYg/Wut__809v_I/AAAAAAAAQUE/dSdDEyVijoAMPS073C5I0_nVT2QlByB7wCLcBGAs/s1600/38%2BMind%2Bblowing%2Binspirational%2Bquotes.png)
 
 Let's get started. Pick one of the quotes on the internet and copy paste it to enjoy and impress everyone out there.
 

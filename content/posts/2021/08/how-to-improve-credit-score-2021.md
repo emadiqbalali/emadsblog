@@ -5,7 +5,7 @@ categories:
   - "finance-knowledge"
 tags: 
   - "credit-score"
-coverImage: "posts/2021/08/images/Improve-Credit-Score.png"
+coverImage: "//posts/2021/08/images/Improve-Credit-Score.png"
 ---
 
 About 90% of the people I met aren't aware of the **credit score.** Every time they go like, what's that? That 10% who are aware doesn't have a very good Credit Score. In this article, I will show you to improve credit score fast.
@@ -36,7 +36,7 @@ The point here is, CIBIL score plays an important role. Once you have a perfect 
 
 However, loans are debt and if you don't know how to use **debt, then you can be in a serious problem.**
 
-![Kotak Smart EMI](posts/2021/08/images/image-1024x512.png)
+![Kotak Smart EMI](/posts/2021/08/images/image-1024x512.png)
 
 Now if the score is low and falls below 700, then it is most likely that the majority of lenders simply won't consider taking a look at your application. They will plainly reject it and your interest rate will be much higher even if you manage to get the loan or credit card.
 
@@ -52,7 +52,7 @@ CIBIL does offer a paid subscription with which you can monitor your Credit Scor
 
 Well, I myself have been following all the tips lately and has been able to achieve a whopping **763** CIBIL Credit Score from **720** within a span of 2-3 months. Below is the screenshot of my current score for your reference.
 
-![Improve Credit Score](posts/2021/08/images/IMG_3511-576x1024.png)
+![Improve Credit Score](/posts/2021/08/images/IMG_3511-576x1024.png)
 
 [OneScore App](https://www.onescore.app/)
 

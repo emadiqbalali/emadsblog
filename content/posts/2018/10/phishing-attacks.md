@@ -27,7 +27,7 @@ It's simple. Today it is more simple. As phishing is illegal therefore 95% of we
 
 For Example, In Google Chrome it shows something like this
 
-![Phishing Attacks on Emad's Blog Explained](images/Phishing-details1.png)
+![Phishing Attacks on Emad's Blog Explained](/posts/2018/10/images/Phishing-details1.png)
 
 Phishing Warning Google Chrome
 

@@ -8,7 +8,7 @@ tags:
   - "brokers"
   - "upstox"
   - "zerodha"
-coverImage: "posts/2021/13/images/pexels-nataliya-vaitkevich-7172827.jpg"
+coverImage: "/posts/2021/13/images/pexels-nataliya-vaitkevich-7172827.jpg"
 ---
 
 To enter into the world of Stock Market, we need access to **Broker.** You cannot directly go in and buy the shares of the company, isn't it?

@@ -21,11 +21,11 @@ In real life, it is really hot & humid most of the time while in some cities awa
 
 Obviously, desert but you can't see it anywhere now. The country is developed now but you can expect Sand Storms anytime in any climate condition. It's normal as the sky goes all yellow and the heavy wind blows with sand from nowhere. Here's how Sand Storm in Saudi Arabia will look like.
 
-- ![](posts/2018/09/images/000cf1bdd03f0c8ae79600.jpg)
+- ![](/posts/2018/09/images/000cf1bdd03f0c8ae79600.jpg)
     
-- ![Saudi Arabia Emad's Blog](posts/2018/09/images/32017232220574048900022.jpg)
+- ![Saudi Arabia Emad's Blog](/posts/2018/09/images/32017232220574048900022.jpg)
     
-- ![Saudi Arabia Emad's Blog](posts/2018/09/images/875666-1555231527.jpg)
+- ![Saudi Arabia Emad's Blog](/posts/2018/09/images/875666-1555231527.jpg)
     
 
 That's just normal you know. You can see the sand blowing and making it look more like fog. When the whole sand blows in the air the day becomes night. The whole sky turns to yellow or in some cases red. 
@@ -40,28 +40,28 @@ Every single country has two faces. One is Poor while other is Rich. Some people
 
 #### **The Poor Places:** Which can be almost in every city and may look like this.
 
-- ![Saudi Arabia Emad's Blog](posts/2018/09/images/maxresdefault-2B-25281-2529-1024x576.jpg)
+- ![Saudi Arabia Emad's Blog](/posts/2018/09/images/maxresdefault-2B-25281-2529-1024x576.jpg)
     
-- ![Saudi Arabia Emad's Blog](posts/2018/09/images/maxresdefault-1024x576.jpg)
+- ![Saudi Arabia Emad's Blog](/posts/2018/09/images/maxresdefault-1024x576.jpg)
     
-- ![Saudi Arabia Emad's Blog](posts/2018/09/images/369530.jpg)
+- ![Saudi Arabia Emad's Blog](/posts/2018/09/images/369530.jpg)
     
 
 #### **The Rich Places:** Again the rich places are in every city in the country and may look similar to the picture below.
 
-- ![Fountain Jeddah Saudi Arabia](posts/2018/09/images/9388347582_5233b69cd7_b-1024x680.jpg)
+- ![Fountain Jeddah Saudi Arabia](/posts/2018/09/images/9388347582_5233b69cd7_b-1024x680.jpg)
     
-- ![Corniche Saudi Arabia dammam](posts/2018/09/images/02380-dammam-corniche_l-1024x350.jpg)
+- ![Corniche Saudi Arabia dammam](/posts/2018/09/images/02380-dammam-corniche_l-1024x350.jpg)
     
-- ![Saudi Arabia Emad's Blog](posts/2018/09/images/Panorama.jpg)
+- ![Saudi Arabia Emad's Blog](/posts/2018/09/images/Panorama.jpg)
     
-- ![All Noor Mall Saudi Arabia](posts/2018/09/images/Alnoor-2BMall-1024x505.jpg)
+- ![All Noor Mall Saudi Arabia](/posts/2018/09/images/Alnoor-2BMall-1024x505.jpg)
     
-- ![](posts/2018/09/images/maxresdefault-2B-25282-2529-1024x576.jpg)
+- ![](/posts/2018/09/images/maxresdefault-2B-25282-2529-1024x576.jpg)
     
-- ![Saudi Arabia Emad's Blog](posts/2018/09/images/am.jpg)
+- ![Saudi Arabia Emad's Blog](/posts/2018/09/images/am.jpg)
     
-- ![Saudi Arabia Emad's Blog](posts/2018/09/images/mustang_club_of_saudi_arabia_by_hzon-d7czdnd-1024x640.jpg)
+- ![Saudi Arabia Emad's Blog](/posts/2018/09/images/mustang_club_of_saudi_arabia_by_hzon-d7czdnd-1024x640.jpg)
     
 
 ### **Their Culture & Tradition:**
@@ -78,11 +78,11 @@ All Saudi nationals live their lives as we do normally. However, there are certa
 
 **Food:** Who forgets this? Every human on earth loves food and they do it too. Saudi Arabia is a country where half of its population is foreigners. All foreigners tend to give the taste of their food in this country. You can find Restaurants offering Yemeni, Afghani, Indian, Pakistani, Sudani, and Saudi Food. The most tried food is **Kabsa & Mandi.** The own Saudi fried chicken chain called "Al-Baik" is always worth the try. Let's make your mouth watery.  
 
-- ![](posts/2018/09/images/al-baik.jpg)
+- ![](/posts/2018/09/images/al-baik.jpg)
     
-- ![](posts/2018/09/images/fixedw_large_4x.jpg)
+- ![](/posts/2018/09/images/fixedw_large_4x.jpg)
     
-- ![](posts/2018/09/images/images.jpg)
+- ![](/posts/2018/09/images/images.jpg)
     
 
 ### **Tradition & LifeStyle in Saudi Arabia**
@@ -93,9 +93,9 @@ Lifestyle in Saudi Arabia is pretty much simple. Although you may be amazed to s
 
 > **Disclaimer:** Not all bedouins maybe like that. Some of them came to cities and got educated. Bedouins are the group of nomadic people which inhabited in Saudi Arabia many years ago. They are called "Arabic Badawi"  
 
-- ![Saudi Arabia Emad's Blog](posts/2018/09/images/83012802-10-2.jpg)
+- ![Saudi Arabia Emad's Blog](/posts/2018/09/images/83012802-10-2.jpg)
     
-- ![Saudi Arabia University Emad's Blog](posts/2018/09/images/ShowImage.jpg)
+- ![Saudi Arabia University Emad's Blog](/posts/2018/09/images/ShowImage.jpg)
     
 
 Saudi Men are often kind and don't put up their noses in others business. They are mostly tall and muscular. They keep those Royal Beards most of the time. However, most of the Saudis and not all, are short-tempered. They get furious easily. 
@@ -106,25 +106,25 @@ Most of Saudi Women are short. They love shopping at the malls or spending time 
 
 _Note: Image is only for illustration purposes._
 
-- ![Saudi Arabia Emad's Blog](posts/2018/09/images/saudi-women-resized.jpg)
+- ![Saudi Arabia Emad's Blog](/posts/2018/09/images/saudi-women-resized.jpg)
     
 
 **Cars: ** Yes, it's no doubt that there are cars everywhere in Saudi Arabia. Bikes are rare there. However, there are some and most probably imported. When we talk about cars, almost all Saudis show interest in you. Cars are their part of life. Here's how most of the Saudi People decorate their car for their National Day on September 23. It is totally amazing and fun to be a part of them on their National Day. Also, some peek views on cars found in Saudi Arabia.
 
-- ![Saudi Arabia Emad's Blog](posts/2018/09/images/legacy-news-330-1257.jpg)
+- ![Saudi Arabia Emad's Blog](/posts/2018/09/images/legacy-news-330-1257.jpg)
     
-- ![Saudi Arabia Emad's Blog](posts/2018/09/images/a364b623cb2bf0c3b4f4c3eeb8d44d7c9775e12b.jpg)
+- ![Saudi Arabia Emad's Blog](/posts/2018/09/images/a364b623cb2bf0c3b4f4c3eeb8d44d7c9775e12b.jpg)
     
-- ![](posts/2018/09/images/7433100362_9e4c6b72d8_b-1024x683.jpg)
+- ![](/posts/2018/09/images/7433100362_9e4c6b72d8_b-1024x683.jpg)
     
 
 ### **Do you know about the two Holiest places in Saudi Arabia?**
 
 All of the Muslim will say "Yes". However, not all people of other religion knows about it. Saudi Arabia has those two holiest places for Muslim. Both of them are Mosques. One of them is in Medina, Saudi Arabia and the other one is in Mecca, Saudi Arabia. It is how they look.  
 
-- ![Saudi Arabia Emad's Blog](posts/2018/09/images/masjid-nabawi-1024x607-1024x607.jpg)
+- ![Saudi Arabia Emad's Blog](/posts/2018/09/images/masjid-nabawi-1024x607-1024x607.jpg)
     
-- ![Saudi Arabia Masjid Nabawi Emad's Blog](posts/2018/09/images/masjid-al-haram-1-1024x602-1024x602.jpg)
+- ![Saudi Arabia Masjid Nabawi Emad's Blog](/posts/2018/09/images/masjid-al-haram-1-1024x602-1024x602.jpg)
     
 
 In both of the Mosques, people from around the world visits for the pilgrimage which is called Umrah & Hajj. In Saudi Arabia, there are many other amazing and beautiful mosques.    It feels amazingly peaceful in Medina, Saudi Arabia. Do tell me in the comment below if you have ever visited Medina.   

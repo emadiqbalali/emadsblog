@@ -22,7 +22,7 @@ It's kind of simple, all you need is an active internet connection and access to
 
 Hope it works for you guys! If not, you're free to contact me and drop any question in the comment down below so I can get in touch with you and fix your problem up.
 
-Thanks for visiting my blog, please subscribe to get the latest content from us from time to time. We're looking for growing our blog and also getting some writers for our blog. If you are the one, please drop us an [email](mailto:emad@emadsblog.com).
+Thanks for visiting my blog, please subscribe to get the latest content from us from time to time. We're looking for growing our blog and also getting some writers for our blog. If you are the one, please drop us an [email](mailto:emadiqbalali@gmail.com).
 
 **Read More:**
 

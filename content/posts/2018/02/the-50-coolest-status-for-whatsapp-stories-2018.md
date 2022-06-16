@@ -10,7 +10,7 @@ Hello there, readers! How have you been? Are you looking for Status for the What
 
 I think you're at the right place. I've got the coolest collection of them for you right here. Copy and paste! :)
 
-[![](posts/2018/02/images/1499424056_817_Positive-quotes-Top-Ten-Quotes-Of-The-Day.jpg)](https://4.bp.blogspot.com/-EmzMLkNxntU/WndsbGn0thI/AAAAAAAAMog/yrTHmk94Ol4uoOdaY-QyjXU0ePCoA47tACLcBGAs/s1600/1499424056_817_Positive-quotes-Top-Ten-Quotes-Of-The-Day.jpg)
+[![](/posts/2018/02/images/1499424056_817_Positive-quotes-Top-Ten-Quotes-Of-The-Day.jpg)](https://4.bp.blogspot.com/-EmzMLkNxntU/WndsbGn0thI/AAAAAAAAMog/yrTHmk94Ol4uoOdaY-QyjXU0ePCoA47tACLcBGAs/s1600/1499424056_817_Positive-quotes-Top-Ten-Quotes-Of-The-Day.jpg)
 
 > If you're a player, then I am the Game.
 > 

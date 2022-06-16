@@ -6,7 +6,7 @@ categories:
 tags: 
   - "stock-market"
   - "trading-rules"
-coverImage: "posts/2021/15/images/Important-Trading-Habits.png"
+coverImage: "/posts/2021/15/images/Important-Trading-Habits.png"
 ---
 
 Believe me or not, there are a lot of rumors about the Stock Market in India. You often heard, "Satta Bazar" claimed by many people but anyway due to Pandemic, Indian Brokers added millions of new users. This is all because people who don't have trading habits or rules follow them and become profitable.

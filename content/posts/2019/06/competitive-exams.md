@@ -13,7 +13,7 @@ coverImage: "girl-2771936_1920.jpg"
 
 Preparing for competitive exams are tricky and is often made complicated when you don't have the right source to get the guidance and the tricks involved in cracking those competitive exams.
 
-![Competitive Exam Tricks](posts/2019/06/images/girl-2771936_1920-1024x789.jpg)
+![Competitive Exam Tricks](/posts/2019/06/images/girl-2771936_1920-1024x789.jpg)
 
 As you may all have heard about amazing words said by A.P.J Abdul Kalam,
 

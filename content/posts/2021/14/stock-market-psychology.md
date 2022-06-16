@@ -3,7 +3,7 @@ title: "Stock Market Psychology 101: Basics Covered"
 date: "2021-04-30"
 categories: 
   - "stock-market"
-coverImage: "posts/2021/14/posts/2021/14/images/trading-basics.png"
+coverImage: "/posts/2021/14/images/trading-basics.png"
 ---
 
 Ever wondered what makes the prices move up and down throughout the market hours?
@@ -61,7 +61,7 @@ If you reverse the case with sellers at the top and good volume, it will break t
 
 If you see the chart below, it shows you the resistance & support.
 
-![](posts/2021/14/images/image-1024x469.png)
+![](/posts/2021/14/images/image-1024x469.png)
 
 Red is Resistance & Green is Support
 
@@ -77,11 +77,11 @@ However, if the line goes down from above the price, the trend line acts as a **
 
 For example,
 
-![](posts/2021/14/images/image-1-1024x483.png)
+![](/posts/2021/14/images/image-1-1024x483.png)
 
 **Uptrend**, a trend line providing support
 
-![](posts/2021/14/images/image-2-1024x480.png)
+![](/posts/2021/14/images/image-2-1024x480.png)
 
 Downtrend, trend line providing resistance to price. Later trend line breaks and move updwards making new trend
 
@@ -115,7 +115,7 @@ Well, hey let me tell you a secret. **This candlestick chances of working are mu
 
 Let's take a look at how exactly are those first five candles looks like,
 
-![](posts/2021/14/images/Candlestick-pattern.png)
+![](/posts/2021/14/images/Candlestick-pattern.png)
 
 Courtesy of [5Paisa](http://5paisa.com)
 
@@ -123,27 +123,27 @@ I hope you got the idea of how these candlesticks look like. Now, let see their 
 
 ### 1\. Bullish Engulfing
 
-![](posts/2021/14/images/image-4.png)
+![](/posts/2021/14/images/image-4.png)
 
 ### 2\. Bearish Engulfing
 
-![](posts/2021/14/images/image-3.png)
+![](/posts/2021/14/images/image-3.png)
 
 ### 3\. Bullish Harami
 
-![How to trade Bullish Harami Candlesticks with Example: FKnol.com](posts/2021/14/images/bullish-harami-example.png)
+![How to trade Bullish Harami Candlesticks with Example: FKnol.com](/posts/2021/14/images/bullish-harami-example.png)
 
 Courtesy of [FKnol](http://fknol.com)
 
 ### 4\. Dark Cloud Cover
 
-![How to Trade the Dark Cloud Cover Candlestick](posts/2021/14/images/dark-cloud-cover_body_Trading_using_dark_cloud_cover_gbpusd.png.full.png)
+![How to Trade the Dark Cloud Cover Candlestick](/posts/2021/14/images/dark-cloud-cover_body_Trading_using_dark_cloud_cover_gbpusd.png.full.png)
 
 Courtesy of [DailyFx](http://dailyfx.com)
 
 I hope you got to know about the candlestick patterns, however to sum it up, I am attaching the whole candlesticks below for your reference
 
-![](posts/2021/14/images/Patterns-648x1024.jpg)
+![](/posts/2021/14/images/Patterns-648x1024.jpg)
 
 ## What Is The Strategy To Trade?
 

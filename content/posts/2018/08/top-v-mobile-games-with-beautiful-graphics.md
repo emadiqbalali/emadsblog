@@ -14,11 +14,11 @@ Top games with beautiful graphics, hell yeah! Who doesn't want it in this modern
 
 I am just trying to say that by the time, the graphics went up and nobody is willing to go back to that graphics older games would have.
 
-[![top 5 games](posts/2018/08/images/Wings-2BIllustration-2BStars-2BPhoto-2BGaming-2BYoutube-2BChannel-2BArt-300x169.png)](https://sastaeinstein.com/wp-content/uploads/2018/08/Wings-2BIllustration-2BStars-2BPhoto-2BGaming-2BYoutube-2BChannel-2BArt.png)
+[![top 5 games](/posts/2018/08/images/Wings-2BIllustration-2BStars-2BPhoto-2BGaming-2BYoutube-2BChannel-2BArt-300x169.png)](https://sastaeinstein.com/wp-content/uploads/2018/08/Wings-2BIllustration-2BStars-2BPhoto-2BGaming-2BYoutube-2BChannel-2BArt.png)
 
 Today in this post we are going to look at such mobile games with beautiful graphics which impressed us. Nonetheless, to impress our readers we tend to choose only those games which are available for both the iOS & Android. However, the Windows Phone user it's time to change your Phone. 
 
-[![fornite emad's blog](posts/2018/08/images/Fortnite-06-HD-textless-300x140.png)](https://sastaeinstein.com/wp-content/uploads/2018/08/Fortnite-06-HD-textless.png)
+[![fornite emad's blog](/posts/2018/08/images/Fortnite-06-HD-textless-300x140.png)](https://sastaeinstein.com/wp-content/uploads/2018/08/Fortnite-06-HD-textless.png)
 
 ### Top X MOBILE GAMES WITH BEAUTIFUL GRAPHICS
 

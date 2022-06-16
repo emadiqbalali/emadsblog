@@ -27,15 +27,15 @@ Likewise, there are many bloggers and YouTube content creators reviewing the che
 
 However, I recommend **[Hostinger](https://sastaeinstein.com/go/hostinger)** as the best Web Hosting in terms of **performance** and **speed.** Yes, clearly I use Hostinger. This site is proudly hosted on Hostinger and performs exceptionally well. Checkout my GtMetrix Stats below,
 
-![gtmetrix speed test](posts/2020/09/images/Clipboard-4.jpg)
+![gtmetrix speed test](/posts/2020/09/images/Clipboard-4.jpg)
 
 Some of you might be wondering, if I am lying you about the Hosting I use. For those, I am attaching my Hostinger hPanel screenshot below. The reason I am uploading the screenshot is for your own ease and site's like **WhoIsHostingThis** aren't able to tell which hosting I am using when site is protected by Cloudflare Protection.
 
-![hostinger hpanel](posts/2020/09/images/Clipboard-5-1024x284.jpg)
+![hostinger hpanel](/posts/2020/09/images/Clipboard-5-1024x284.jpg)
 
 I have also compiled the Infographics on how a cheap web hosting can adversely effect the speed and performance of your website and why cheap web hosting is totally a big NO.
 
-![why cheap web hosting effects speed](posts/2020/09/images/Why-Cheap-Web-Hosting-Sucks.png)
+![why cheap web hosting effects speed](/posts/2020/09/images/Why-Cheap-Web-Hosting-Sucks.png)
 
 **Read More:**
 

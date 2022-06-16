@@ -8,7 +8,7 @@ coverImage: "iphone-2B2007.jpg"
 
 Most of the people in India claims that all celebrities use iPhone because it shows a symbol of being rich. While many of them think iPhones are overrated. In my opinion, it's not overrated. It was never. I know many of the people couldn't afford it and that doesn't mean it is overrated and is used only for showing a symbol of being rich. When you look back at Apple's history when they launched their first smartphone Apple iPhone in 2007, it was ultimately a huge success for a reason. The reason was that it was totally different from all other smartphones. 
 
-[![](posts/2018/08/images/iphone-2B2007-300x169.jpg)](https://sastaeinstein.com/wp-content/uploads/2018/08/iphone-2B2007.jpg)
+[![](/posts/2018/08/images/iphone-2B2007-300x169.jpg)](https://sastaeinstein.com/wp-content/uploads/2018/08/iphone-2B2007.jpg)
 
 As expected from their huge success, they sold over 1 million devices in just 5 days to be precise. 6 out of 10 American's according to a survey conducted shows that they knew an iPhone would come before it's release.
 

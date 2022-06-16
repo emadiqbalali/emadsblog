@@ -58,7 +58,7 @@ I must say, I love their splendid looking custom **hPanel** and they have outsta
 
 When I was let down by my old hosting provider, I reached out to them for helping me migrate to their host. They were generous to the core, and instantly forwarded to a technical support which helped me migrate without any downtime.
 
-[![](posts/2019/12/images/20190913194650-en-728x90.png)](https://www.hostg.xyz/SH2Hf?file_id=1058)
+[![](/posts/2019/12/images/20190913194650-en-728x90.png)](https://www.hostg.xyz/SH2Hf?file_id=1058)
 
 ![](https://www.hostg.xyz/aff_i?offer_id=6&file_id=1058&aff_id=20066&url_id=18&tiny_url=1)
 
@@ -82,7 +82,7 @@ Everyone needs an explanation on this. Why one would go for hostinger despite th
 
 - First of all, it is optimized for speed. Check my score below
 
-![](posts/2019/12/images/Gtmetrix-1024x546.jpg)
+![](/posts/2019/12/images/Gtmetrix-1024x546.jpg)
 
 - As I said above, the unique hPanel where everything is organized and is available in just clicks away. 
 - The cutting edge technology makes it WordPress optimized. Hence, for a beginner blogger WordPress is recommended and that's why I am recommending you Hostinger.

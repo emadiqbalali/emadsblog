@@ -45,7 +45,7 @@ For example:
 
 **[Amalinks Pro](https://sastaeinstein.com/go/amalinkspro/ "AmalinksPro")** just solve all those problems above.
 
-[![AmaLinks Pro](images/amalinks-pro-Remarketing-summer-sale-2021-970x90-1.png)](https://amalinkspro.com/ref/115/ "AmaLinks Pro")
+[![AmaLinks Pro](/posts/2019/11/images/amalinks-pro-Remarketing-summer-sale-2021-970x90-1.png)](https://amalinkspro.com/ref/115/ "AmaLinks Pro")
 
 ## What Are The Pros & Cons of The Plugin?
 
@@ -65,7 +65,7 @@ For example:
 
 ## Quick Look At The Product Showcase Box Created With Amalinks Pro
 
-![Amalinks Pro](images/Clipboard-5.jpg)
+![Amalinks Pro](/posts/2019/11/images/Clipboard-5.jpg)
 
 How cool is that? **Well to surprise you, it is created in just few clicks. Just clicks!** That's how good is Amalinks Pro!
 

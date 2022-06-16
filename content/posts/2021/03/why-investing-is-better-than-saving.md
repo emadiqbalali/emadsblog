@@ -9,7 +9,7 @@ tags:
   - "investing"
   - "mutual-funds"
   - "stock-market"
-coverImage: "posts/2021/03/posts/2021/03/images/business-3462518_1920.jpg"
+coverImage: "/posts/2021/03/images/business-3462518_1920.jpg"
 ---
 
 **I'm better off saving in my bank account. I don't want the exposure of risk** but hear me out on why Investing is better than saving?

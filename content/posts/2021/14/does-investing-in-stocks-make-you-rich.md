@@ -6,7 +6,7 @@ categories:
 tags: 
   - "investing"
   - "stocks"
-coverImage: "posts/2021/14/images/Stocks-Millionaire.png"
+coverImage: "/posts/2021/14/images/Stocks-Millionaire.png"
 ---
 
 Investing in stocks to get rich is true but there's a whole list of things behind it and lot of patience. If you don't have patience then don't ask yourself "Does Investing In Stocks Make You Rich?".
@@ -40,7 +40,7 @@ Not always, all companies will give that kind of results since every time there 
 
 If you invest regularly in strong fundamental companies, they will grow over time and make you richer as you get older.
 
-The Link to the [SmallCase Basket](https://link.smallcase.com/vCNdPFuHDfb). If you still don't have a broker yet, read **[Upstox vs Zerodha](sastaeinstein.com/upstox-vs-zerodha-the-stock-broker-battle/)** to decide which one is right for you.
+The Link to the [SmallCase Basket](https://link.smallcase.com/vCNdPFuHDfb). If you still don't have a broker yet, read **[Upstox vs Zerodha](https://sastaeinstein.com/upstox-vs-zerodha-the-stock-broker-battle/)** to decide which one is right for you.
 
 Please note that the above basket is made for educational purposes only and you should be aware of what you're doing or get advice _from your financial advisor._
 

@@ -32,7 +32,7 @@ If you cannot find a good font to install then here are some fonts which look co
 
 Apart from this, my personal favourite is [](https://apkmeet.com/en/apk/1365320-com.monotype.android.font.agent) **[Agent](https://apkmeet.com/en/apk/1365320-com.monotype.android.font.agent)** [](https://apkmeet.com/en/apk/1365320-com.monotype.android.font.agent) **[Latina](https://apkmeet.com/en/apk/1365320-com.monotype.android.font.agent)** [Font](https://apkmeet.com/en/apk/1365320-com.monotype.android.font.agent) which looks bold and cool at the same time. Looks totally badass on my Samsung Galaxy S8. Check out how it looks below and I am using **High Contrast II** theme from Galaxy Theme Store just in case if you're willing to know.
 
-![Samsung Font Not Supported Flipfont Error Fix](images/S8-Font-Not-Support-498x1024.jpg)
+![Samsung Font Not Supported Flipfont Error Fix](posts/2019/09/images/S8-Font-Not-Support-498x1024.jpg)
 
 Looks cool right? Now let's go to step 2.
 

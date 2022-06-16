@@ -29,7 +29,7 @@ In this, all you have to do is  run Comman Prompt. Pressing a short cut on keyb
 
   
 
-[![](posts/2018/02/images/cmd.png)](https://4.bp.blogspot.com/-alJD5JVixXQ/WnWxJFVOwfI/AAAAAAAAMmc/UI1jhEDoytoq8J2YOOQchzRJEKhozU88ACLcBGAs/s1600/cmd.png)
+[![](/posts/2018/02/images/cmd.png)](https://4.bp.blogspot.com/-alJD5JVixXQ/WnWxJFVOwfI/AAAAAAAAMmc/UI1jhEDoytoq8J2YOOQchzRJEKhozU88ACLcBGAs/s1600/cmd.png)
 
   
 

@@ -55,7 +55,7 @@ Ask yourself this one question, **Why would you invest in something which you do
 
 Their reason is very simple too and it's simply that the presence doesn't guarantee you a bull market and when compared to the traditional market the crypto sector is just too small. Look at the picture below by [CoinTelegraph](https://cointelegraph.com/news/5-reasons-why-institutional-investors-refuse-to-join-the-crypto-sector).
 
-![](posts/2021/14/images/002e4c86cb3f55d9f243e5eea1ae6c03.png)
+![](/posts/2021/14/images/002e4c86cb3f55d9f243e5eea1ae6c03.png)
 
 ## Wrapping Up
 

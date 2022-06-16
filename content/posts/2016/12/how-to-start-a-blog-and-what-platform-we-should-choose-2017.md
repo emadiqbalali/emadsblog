@@ -15,7 +15,7 @@ Let's cover everything up to step by step!
   
   
 
-[![](posts/2016/12/images/start-your-blog-4-steps.png)](https://2.bp.blogspot.com/-4vMxmm5BVFw/WExap6Jnj_I/AAAAAAAAEOo/Bfu1VHrTKmsLKdkQmudbYkzhqkv4XaBxACLcB/s1600/start-your-blog-4-steps.png)
+[![](/posts/2016/12/images/start-your-blog-4-steps.png)](https://2.bp.blogspot.com/-4vMxmm5BVFw/WExap6Jnj_I/AAAAAAAAEOo/Bfu1VHrTKmsLKdkQmudbYkzhqkv4XaBxACLcB/s1600/start-your-blog-4-steps.png)
 
   
   

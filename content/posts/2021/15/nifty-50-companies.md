@@ -6,7 +6,7 @@ categories:
 tags: 
   - "nifty-50"
   - "nifty-companies"
-coverImage: "posts/2021/15/images/nifty-companies.png"
+coverImage: "/posts/2021/15/images/nifty-companies.png"
 ---
 
 You heard about NIFTY 50 companies a lot and it has a number as well, i.e 50 making it **NIFTY 50.** Why exactly?

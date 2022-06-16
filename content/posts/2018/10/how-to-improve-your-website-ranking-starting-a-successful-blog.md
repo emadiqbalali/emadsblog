@@ -12,7 +12,7 @@ Is your blog or website performing poor as the day passes by? What it might be a
 
 Taking care of your website and managing posts is not a small task and everyone's cup of tea. You have to come up with ideas to tell and talk about with people. However, we will look at some of the simple mistakes people make often when blogging. Rectifying the problems I'm going to state here in this article might help your website or blog to rise up quickly from all those thousands of sites lying around. 
 
-[![Improve Ranking of Your Blog or Website - Emad's Blog](images/Untitled%2Bdesign.png)](https://1.bp.blogspot.com/-S43kuwspF6A/W7M8jo4bHUI/AAAAAAAATnE/otGB8AHOXnkrHf_n2hX4DI_OEW2RtxdUgCLcBGAs/s1600/Untitled%2Bdesign.png)
+[![Improve Ranking of Your Blog or Website - Emad's Blog](/posts/2018/10/images/Untitled%2Bdesign.png)](https://1.bp.blogspot.com/-S43kuwspF6A/W7M8jo4bHUI/AAAAAAAATnE/otGB8AHOXnkrHf_n2hX4DI_OEW2RtxdUgCLcBGAs/s1600/Untitled%2Bdesign.png)
 
  
 

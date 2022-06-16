@@ -3,7 +3,7 @@ title: "How To Block COC (Clash of Clans) On Your Wi-Fi Router?"
 date: "2016-05-09"
 ---
 
-[![How To Block COC on Router? ](posts/2016/05/images/coc1512_parallax_bg-1024x576.jpg)](https://sastaeinstein.com/wp-content/uploads/2016/05/coc1512_parallax_bg.jpg)Are you looking to block Clash Of Clans (COC) on your Wi-Fi Router? I'm here with a tutorial on it.
+[![How To Block COC on Router? ](/posts/2016/05/images/coc1512_parallax_bg-1024x576.jpg)](https://sastaeinstein.com/wp-content/uploads/2016/05/coc1512_parallax_bg.jpg)Are you looking to block Clash Of Clans (COC) on your Wi-Fi Router? I'm here with a tutorial on it.
 
 After getting fed up of telling my siblings to get away from Clash of Clans, I got an idea of, why not I should consider blocking the game itself.
 

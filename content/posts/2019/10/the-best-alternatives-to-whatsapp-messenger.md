@@ -15,7 +15,7 @@ Many users are protesting against the company and the fact that it has access to
 
 ## 1\. Telegram
 
-![best alternatives to WhatsApp](posts/2019/10/images/image-000.jpg)
+![best alternatives to WhatsApp](/posts/2019/10/images/image-000.jpg)
 
 Telegram is a company of the two Russian brothers Pavel and Nikolai Durov, who made their name by founding VK or "in touch", a platform similar to Facebook. These two brothers had to leave Russia and the Kremlin began to control their Internet services more severely, and then created the Telegram platform. 
 
@@ -37,7 +37,7 @@ With Telegram, there is also no assurance that the company will continue to foll
 
 ## 2\. Spike
 
-![alternative to whatsapp](posts/2019/10/images/image-001-1.png)
+![alternative to whatsapp](/posts/2019/10/images/image-001-1.png)
 
 Spike is a dialog-based e-mail application, designed primarily as a collaboration tool, but thanks to its group discussions , it also works as a high-end alternative to WhatsApp. 
 
@@ -61,7 +61,7 @@ All versions are completely free for private use, only people who want to use Sp
 
 ## 3\. Threema
 
-![threema alternative to whatsapp messenger](posts/2019/10/images/image-002-1.jpg)
+![threema alternative to whatsapp messenger](/posts/2019/10/images/image-002-1.jpg)
 
 Threema is a Swiss instant messaging application. Like most alternatives to WhatsApp, Threema stands out as a secure application for data protection. 
 
@@ -79,7 +79,7 @@ You can buy one or more licenses of the application on your download service or
 
 ## 4\. Signal
 
-![alternatives to whatsapp](posts/2019/10/images/image-003-1.jpg)
+![alternatives to whatsapp](/posts/2019/10/images/image-003-1.jpg)
 
 Social website of Open Whisper Systems is not very well known, like most alternatives to WhatsApp. The proprietor of Signal, Open Whisper Systems, has taken over the basis of end-to-end encryption so ware, whose code is free and has been used to develop Whatsapp, Telegram and Threema. 
 
@@ -103,7 +103,7 @@ Signal seems more interesting than Threema in terms of different aspects: the me
 
 ## 5\. SIMSme
 
-![simsme messenger whatsapp alternative](posts/2019/10/images/image-004-1.jpg)
+![simsme messenger whatsapp alternative](/posts/2019/10/images/image-004-1.jpg)
 
 This application was developed by the German Post , which has released its own SIMSme messaging service. 
 

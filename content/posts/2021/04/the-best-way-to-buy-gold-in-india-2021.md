@@ -6,7 +6,7 @@ categories:
 tags: 
   - "etf"
   - "gold"
-coverImage: "posts/2021/04/images/cryptocurrency-3409725_1920.jpg"
+coverImage: "/posts/2021/04/images/cryptocurrency-3409725_1920.jpg"
 ---
 
 As you guys know, I have been keeping a close eye on the Gold for like 2-3 weeks and my close friend is also aware of it. I thought why not, write on the best way to buy gold in India.
@@ -40,7 +40,7 @@ Basically, Gold ETF is good when you've a good short term or long term view for 
 3. **UTI Gold ETF -** ₹41.30 (as of 10/4/2021)
 4. **Quantum Gold ETF -** ₹2,009.95 (as of 10/4/2021)
 
-You can search them like any normal stock and buy them as per your capital. **If in case, you still don't have a DEMAT account, then open read this [guide on which broker to choose](https://emadsblog.com/upstox-vs-zerodha-the-stock-broker-battle/).**
+You can search them like any normal stock and buy them as per your capital. **If in case, you still don't have a DEMAT account, then open read this [guide on which broker to choose](https://sastaeinstein.com/upstox-vs-zerodha-the-stock-broker-battle/).**
 
 ## What Are Downsides of Investing In Gold?
 

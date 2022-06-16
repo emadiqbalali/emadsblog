@@ -6,7 +6,7 @@ categories:
 tags: 
   - "zerodha"
   - "zerodha-full-review"
-coverImage: "posts/2021/15/posts/2021/15/zerodha-Full-Review.png"
+coverImage: "/posts/2021/15/zerodha-Full-Review.png"
 ---
 
 **Zerodha** is known by the tag of the #1 broker in India. Are you confused between brokers out there? If yes, then this Zerodha full review will help you decide if you really need to go with them.
@@ -49,7 +49,7 @@ I pretty much like Zerodha for it's console. The console looks beautiful and giv
 
 Zerodha has one of the neatest back office to be honest, in my opinion. If you don't believe me, check it out yourself.
 
-![zerodha console](posts/2021/15/image-1024x496.png)
+![zerodha console](/posts/2021/15/image-1024x496.png)
 
 Zerodha Console (Holdings)
 

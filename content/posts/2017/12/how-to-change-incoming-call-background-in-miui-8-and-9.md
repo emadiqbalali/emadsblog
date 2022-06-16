@@ -13,15 +13,15 @@ Let's begin. I will provide you a tutorial step by step to change the background
 
 - Go to your **Dialer** from homescreen.
 
-[![](posts/2017/12/images/Screenshot_2017-12-23-19-57-08-854_com.android.contacts.png)](https://1.bp.blogspot.com/-Ap7Er3osoZE/Wj5o3k0uiRI/AAAAAAAALCk/fPVdd-ak89M6blRKogR_84u_YaMwG4OkACLcBGAs/s1600/Screenshot_2017-12-23-19-57-08-854_com.android.contacts.png)
+[![](/posts/2017/12/images/Screenshot_2017-12-23-19-57-08-854_com.android.contacts.png)](https://1.bp.blogspot.com/-Ap7Er3osoZE/Wj5o3k0uiRI/AAAAAAAALCk/fPVdd-ak89M6blRKogR_84u_YaMwG4OkACLcBGAs/s1600/Screenshot_2017-12-23-19-57-08-854_com.android.contacts.png)
 
 - Now press and hold **Menu** button which is left to the home button to enter settings. It looks like this. Now go to **Advanced Settings.**
 
-[![](posts/2017/12/images/Screenshot_2017-12-23-19-57-19-172_com.android.phone.jpg)](https://3.bp.blogspot.com/-HW4M2Ue5FSU/Wj5qEshP70I/AAAAAAAALDc/pu8Y86oVRXsl3A55FQdfYs61SZMduRMQgCEwYBhgL/s1600/Screenshot_2017-12-23-19-57-19-172_com.android.phone.jpg)
+[![](/posts/2017/12/images/Screenshot_2017-12-23-19-57-19-172_com.android.phone.jpg)](https://3.bp.blogspot.com/-HW4M2Ue5FSU/Wj5qEshP70I/AAAAAAAALDc/pu8Y86oVRXsl3A55FQdfYs61SZMduRMQgCEwYBhgL/s1600/Screenshot_2017-12-23-19-57-19-172_com.android.phone.jpg)
 
 - After going to Advanced Settings. You'll see something like this.
 
-[![](posts/2017/12/images/Screenshot_2017-12-23-19-58-50-260_com.android.phone.png)](https://1.bp.blogspot.com/-jGKJ-6sFe98/Wj5qEm1bMEI/AAAAAAAALDc/PDAqW-URBdgUF85a0NAYf7NzPQlX8weWgCEwYBhgL/s1600/Screenshot_2017-12-23-19-58-50-260_com.android.phone.png)
+[![](/posts/2017/12/images/Screenshot_2017-12-23-19-58-50-260_com.android.phone.png)](https://1.bp.blogspot.com/-jGKJ-6sFe98/Wj5qEm1bMEI/AAAAAAAALDc/PDAqW-URBdgUF85a0NAYf7NzPQlX8weWgCEwYBhgL/s1600/Screenshot_2017-12-23-19-58-50-260_com.android.phone.png)
 
 - Go into **Incoming Call Background** option and select **Lockscreen Wallpaper** from Default.
 

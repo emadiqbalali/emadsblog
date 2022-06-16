@@ -15,7 +15,7 @@ Looking for Cisco Certified Network Associate eligibility & details? In this art
 
 Cisco Certified Network Associate (CCNA) certification validates your ability to install, configure, operate and troubleshoot routed & switched networks. CCNA certified professionals can make connections to remote sites via a wide area network (WAN), mitigate basic network security threats, and understand fundamental networking concepts and terminology.
 
-![](posts/2018/12/images/ccna-routing-switching.jpg)
+![](/posts/2018/12/images/ccna-routing-switching.jpg)
 
 ## Benefits of CCNA:-
 
@@ -43,7 +43,7 @@ Cisco Certified Network Associate (CCNA) certification validates your ability to
 - NAT & PAT
 - Troubleshooting
 
-![](posts/2018/12/images/types-of-ccna-exam-topics-.png)
+![](/posts/2018/12/images/types-of-ccna-exam-topics-.png)
 
 ## Course Details:-
 

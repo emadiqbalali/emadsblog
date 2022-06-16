@@ -25,7 +25,7 @@ In the year 2009, Vivo was founded Duan and its CEO, **Shen Wei.** But, the firs
 
  
 
-[![](posts/2018/03/images/maxresdefault%2B%25281%2529.jpg)](https://1.bp.blogspot.com/-lw1yQE7y-yM/WqaG8_h68XI/AAAAAAAANqc/eeBH6IFNAO4lSIXgt-8qoAPNfDbJYobbQCLcBGAs/s1600/maxresdefault%2B%25281%2529.jpg)
+[![](/posts/2018/03/images/maxresdefault%2B%25281%2529.jpg)](https://1.bp.blogspot.com/-lw1yQE7y-yM/WqaG8_h68XI/AAAAAAAANqc/eeBH6IFNAO4lSIXgt-8qoAPNfDbJYobbQCLcBGAs/s1600/maxresdefault%2B%25281%2529.jpg)
 
 ## One Plus, who founded it?
 

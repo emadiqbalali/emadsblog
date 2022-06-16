@@ -6,7 +6,7 @@ categories:
 tags: 
   - "etf"
   - "gold"
-coverImage: "posts/2021/14/images/cryptocurrency-3409725_1920.jpg"
+coverImage: "/posts/2021/14/images/cryptocurrency-3409725_1920.jpg"
 ---
 
 As you guys know, I have been keeping a close eye on the Gold for like 2-3 weeks and my close friend is also aware of it. I thought why not, write on the best way to buy gold in India.

@@ -12,7 +12,7 @@ You may do it, but you must be keeping some of the software handy on your deskto
 In this article, we'll be talking about 10 of the software applications you'll be installing today. Let's get started.  
   
 
-[![5 software applications you should install on your Laptop or Desktop PC](posts/2018/05/images/5.png)](https://2.bp.blogspot.com/-rldOeFR6N9k/WuuO45XKwCI/AAAAAAAAQUU/_6JTD0gIpRQ12jppq6Y90rH4XuYQfEnvwCLcBGAs/s1600/5.png)
+[![5 software applications you should install on your Laptop or Desktop PC](/posts/2018/05/images/5.png)](https://2.bp.blogspot.com/-rldOeFR6N9k/WuuO45XKwCI/AAAAAAAAQUU/_6JTD0gIpRQ12jppq6Y90rH4XuYQfEnvwCLcBGAs/s1600/5.png)
 
   
   

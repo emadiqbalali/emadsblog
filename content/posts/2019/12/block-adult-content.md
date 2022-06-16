@@ -30,7 +30,7 @@ First, create a local user say for your child.
 
 To do so, navigate to Settings > Accounts > Family & other people. Select Add a family member, and create a new user for your child. Remember, you need to add an email address for your kid here, so make sure you have one handy.
 
-![block adult sites windows parental control](images/image8.png)
+![block adult sites windows parental control](/posts/2019/12/images/image8.png)
 
 Once done, go to the Windows 10 family settings and login, to directly manage your children’s accounts.
 
@@ -40,7 +40,7 @@ This will block adult content on Edge and Internet Explorer and you can further 
 
 However, it’s far from perfect,  your kids can always, use proxy sites or install a new browser to bypass this.
 
-![microsoft parental control](images/image9.png)
+![microsoft parental control](/posts/2019/12/images/image9.png)
 
 ### Block Adult Content Using OpenDNS
 
@@ -54,7 +54,7 @@ So, to start off with OpenDNS, head over to the official site and sign up for a 
 
 Once you are done signing up, OpenDNS will give you the IP addresses of its DNS service. We need to use these IP addresses in our system or router to start using the OpenDNS.
 
-![](images/image5.png)
+![](/posts/2019/12/images/image5.png)
 
 OpenDNS Name Servers
 
@@ -70,31 +70,31 @@ Smart Devices: **This option shows you the instructions for other smart devices 
 
 To set up the filtering, click on the link “**Dashboard**” on the top navigation bar. On the next page, navigate to the “**Settings**” tab. Generally, your current IP address is already added in the blanks. Simply click on the button “**Add Network**.”
 
-![](images/image1.jpg)
+![](/posts/2019/12/images/image1.jpg)
 
 You will be asked to enter a friendly name to easily recognize the network. So, enter the name and click on the button “**Done**.” If you are using Dynamic IP address, then select the checkbox “**Yes, it is dynamic**” and then click on the link “**OpenDNS Updated for Windows**” to download the OpenDNS software.
 
-![opendns family shield](images/image3.jpg)
+![opendns family shield](/posts/2019/12/images/image3.jpg)
 
 That’s it, you’ve added the network. Do install OpenDNS Updater and log into your account so that it can automatically update the IP address with OpenDNS if you have a Dynamic IP address (IP address that changes every time you turn on your internet).
 
 After creating the network, click on the IP address to configure it.
 
-![](images/image4.jpg)
+![](/posts/2019/12/images/image4.jpg)
 
 Now, select the radio button “**Custom**,” select the checkbox “**Pornography**” and then click on the button “**Apply**” to save the changes. That’s all there is to do.
 
-![](images/image7.jpg)
+![](/posts/2019/12/images/image7.jpg)
 
 ### Add OpenDNS In Windows
 
 Configuring DNS is pretty easy with DNS Jumper, free and portable software to quickly change DNS settings in Windows. To start off, [download DNS Jumper](http://www.sordum.org/7952/dns-jumper-v2-1/), extract the folder and execute the EXE file.
 
-![](images/image2.jpg)
+![](/posts/2019/12/images/image2.jpg)
 
 Now, select “**US – OpenDNS**” from the drop-down menu under and then click on the button “**Apply DNS**.”
 
-![](images/image6.jpg)
+![](/posts/2019/12/images/image6.jpg)
 
 From this point forward, all the adult websites will be blocked as per your settings. If need be, you can also block other content categories like adult themes, nudity, etc., using OpenDNS
 

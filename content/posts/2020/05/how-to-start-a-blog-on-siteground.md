@@ -69,41 +69,41 @@ The [SiteGround](https://sastaeinstein.com/go/siteground/ "Siteground") offers 3
 2. The **GrowBig** plan is a great value for money offer, including the option for multiple websites and the SuperCacher that greatly improves website speed.
 3. The **GoGeek** plan is perfect for people with e-commerce and larger sites, or more geeky development needs like more server resources and GIT integration.
 
-![siteground hosting](posts/2020/05/images/siteground-1024x840.png)
+![siteground hosting](/posts/2020/05/images/siteground-1024x840.png)
 
 ### Step 2: Choose a Domain Name
 
 After choosing the hosting plan, it offers you to choose your domain name or if you have existing one, you can enter it as shown below.
 
-![](posts/2020/05/images/siteground-domain-1024x464.png)
+![](/posts/2020/05/images/siteground-domain-1024x464.png)
 
 ### Step 3: Review And Complete The Order
 
 Unlike many other hosting providers, SiteGround advertised discount applies to any of the initial periods chosen during the sign up process. Being able to get the low price for the one year period is a fact that increases conversions greatly in comparison to other providers where the lowest monthly price applies only for the longest period. **Therefore, SiteGround is a best choice for hosting.**
 
-![](posts/2020/05/images/SiteGround-Payment-1024x990.png)
+![](/posts/2020/05/images/SiteGround-Payment-1024x990.png)
 
 ## A Guide To Start A Blog With SiteGround
 
 After purchasing the hosting from SiteGround, you'll be now able to sign in to the members area and will be shown your hosting package available. Since, it will be your first time signing in therefore you will be asked if you want to **start a new website** on your account. You'll see the following.
 
-![start a blog with siteground](posts/2020/05/images/hosting-siteground.jpg)
+![start a blog with siteground](/posts/2020/05/images/hosting-siteground.jpg)
 
 Just after doing the following above, a section will appear where you will be entering a new login information and saving it somewhere safe as shown above. This **will be your WordPress Login Information.**
 
 Once you entered all the information, click on the **Confirm** button as shown below.
 
-![](posts/2020/05/images/confirm3.jpg)
+![](/posts/2020/05/images/confirm3.jpg)
 
 That's how simple it is to install the **WordPress** on to your hosting with [SiteGround](https://sastaeinstein.com/go/siteground/ "Siteground"). Once you click on confirm, you will be shown this page.
 
-![](posts/2020/05/images/confirmed.jpg)
+![](/posts/2020/05/images/confirmed.jpg)
 
 ## How To Login To Your WordPress Blog?
 
 To login to WordPress, you just need to type in your domain follow by /wp-admin. **For example,** abc.com/wp-admin. You'll see the following page to put in the login details you chosed in the [previous step above](#logininfo).
 
-![wordpress login](posts/2020/05/images/Screenshot_2020-05-09-Log-In-‹-All-About-Hacking-—-WordPress-1024x496.png)
+![wordpress login](/posts/2020/05/images/Screenshot_2020-05-09-Log-In-‹-All-About-Hacking-—-WordPress-1024x496.png)
 
 To customize your login screen, you can follow this [custom login screen guide](https://www.wpbeginner.com/plugins/how-to-create-custom-login-page-for-wordpress/). Now after logging in, you will be able to setup the site as per your need. You can install themes and plugins.
 

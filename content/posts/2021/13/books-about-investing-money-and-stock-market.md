@@ -9,14 +9,14 @@ tags:
   - "investing"
   - "rich-dad-poor-dad"
   - "the-intelligent-investor"
-coverImage: "posts/2021/13/images/books-1245690_1920.jpg"
+coverImage: "/posts/2021/13/images/books-1245690_1920.jpg"
 ---
 
 The books about investing, money and Stock Market can be tricky. Not all books are written for beginners, however, I will try to list down the books that even a beginner can learn about managing money and gaining the mindset of rich.
 
 We all are aware of the fact that without knowledge in the market, we are as useless as the **Little Crane moving the evergreen massive container ship and trying to make a way through the Suez canal.**
 
-![best books about investing ](posts/2021/13/images/1-7-1616694280-683x1024.jpg)
+![best books about investing ](/posts/2021/13/images/1-7-1616694280-683x1024.jpg)
 
 Suez Canal Authority
 
@@ -103,4 +103,4 @@ Remember, this is not some YouTube video flaunting you a big house, and Lamborgh
 
 This is the real knowledge that you need to apply after learning and keeping patience, sticking to your plans will help you become financially free a lot earlier than you ever expected.
 
-Hope you guys get to learn something from this post, and I will keep you updated with such posts in the future as well. Well, sharing can be caring, so heads up and share this post with your loved ones as well.
+Hope you guys get to learn something from this post, and I will keep you updated with such /posts in the future as well. Well, sharing can be caring, so heads up and share this post with your loved ones as well.

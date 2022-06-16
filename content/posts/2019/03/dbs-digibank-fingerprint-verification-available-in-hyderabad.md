@@ -13,13 +13,13 @@ coverImage: "https___s3-ap-northeast-1.amazonaws.com_psh-ex-ftnikkei-3937bb4_ima
 
 DBS Bank, or widely known as Development Bank of Singapore is one of Asia’s Safest bank and Singapore’s Best bank. In the year 2008, they introduced its service in India. Since then they were operating from 12 branches across the country, India excluding Hyderabad. Now, they are doing fingerprint verification for Digibank By DBS in Hyderabad.
 
-![Digibank DBS Fingerprint Verification Hyderabad](images/https___s3-ap-northeast-1.amazonaws.com_psh-ex-ftnikkei-3937bb4_images_0_6_2_9_1359260-8-eng-GB_0927N-DBS-1024x692.jpg)
+![Digibank DBS Fingerprint Verification Hyderabad](/posts/2019/03/images/https___s3-ap-northeast-1.amazonaws.com_psh-ex-ftnikkei-3937bb4_images_0_6_2_9_1359260-8-eng-GB_0927N-DBS-1024x692.jpg)
 
 Development Bank of Singapore, Pic by Nikkie.com
 
 Hyderabad, being the 5th largest city in India however, DBS Bank doesn’t have any of its branches there. Recently, DBS Bank introduced **“[DigiBank by DBS](https://www.dbs.com/digibank/in/index.html)”** and has been making headlines.
 
-[![](images/Kotak-811-Account.png)](https://clnk.in/jVi2)
+[![](/posts/2019/03/images/Kotak-811-Account.png)](https://clnk.in/jVi2)
 
 **Advertisement**
 
@@ -45,7 +45,7 @@ You can now also meet an agent by booking inside your DBS app or just visit Cafe
 
 ## KYC Centres of DigiBank by DBS In Hyderabad
 
-![](images/257px-Logo_of_Cafe_Coffee_Day.svg.png)
+![](/posts/2019/03/images/257px-Logo_of_Cafe_Coffee_Day.svg.png)
 
 - **Cafe Coffee Day Branches Which Does Full KYC For Digibank Accounts**
     - AS Rao Nagar

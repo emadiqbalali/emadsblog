@@ -21,7 +21,7 @@ _**Note**: Keep in mind that this article is for those who are new to blogging a
 
 I will be shortlisting 2 shared hosting providers specifically for beginners who are looking for affordable prices and maximum performance. All of the hosting providers I'm mentioning are self-tested and are not sponsored in any way. Therefore, there are only 2 in the list.
 
-![3 Best Shared Hosting Providers ](posts/2019/04/images/business-cabinet-data-325229-1024x358.jpg)
+![3 Best Shared Hosting Providers ](/posts/2019/04/images/business-cabinet-data-325229-1024x358.jpg)
 
 All the hosting providers below are targeted for Indian users however, all of them do support international payments and they have servers located around the world. Apart from Indian readers, rest all of you could easily purchase the hosting as they are partnered with major payment gateways supporting **Apple Pay, PayPal, AliPay (China)**, and much more.
 
@@ -46,7 +46,7 @@ I had amazing experience with them on the Silver Pack. Their customer service is
 
 It is well known for me now. I didn't paid attention to them most of the time because I think it was just not fair enough in the field of hosting until I started to host my blog on their servers.
 
-[![Windows Reseller Hosting](posts/2019/04/images/Windows-Reseller-Hosting-720x90.gif)](https://hostripples.in/secure/aff.php?aff=746)
+[![Windows Reseller Hosting](/posts/2019/04/images/Windows-Reseller-Hosting-720x90.gif)](https://hostripples.in/secure/aff.php?aff=746)
 
 Currently this blog is hosted on [HostRipples](https://hostripples.in/secure/aff.php?aff=746) and I agree that this is by far the best hosting for personal blogs or small websites with little traffic. It's all because of the packages they have to offer.
 

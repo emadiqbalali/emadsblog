@@ -3,7 +3,7 @@ title: "How I Got 8 Credit Cards In 1 Year Without Score? How To Get Credit Card
 date: "2022-02-17"
 categories: 
   - "credit-cards"
-coverImage: "posts/2022/02/Credit-Cards.jpg"
+coverImage: "/posts/2022/02/Credit-Cards.jpg"
 ---
 
 On a regular basis, I get around 30-40 emails as well as comments asking me "**How To Get Credit Card Without CIBIL Score?**" and I can't answer them all. However, since I have a blog up and running, I thought why not share the journey of how I started collecting credit cards and how you can as well.

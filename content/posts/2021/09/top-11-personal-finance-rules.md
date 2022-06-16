@@ -8,7 +8,7 @@ tags:
   - "inflation"
   - "investing"
   - "stock-market"
-coverImage: "posts/2021/09/images/11-personal-finance-rules-1.png"
+coverImage: "/posts/2021/09/images/11-personal-finance-rules-1.png"
 ---
 
 This post has been lying in my draft for a long time now that I fully acknowledge that learning these 11 personal finance rules is much more important when you're still younger out there. It seriously help you escape some troublesome financial conditions in the coming future.

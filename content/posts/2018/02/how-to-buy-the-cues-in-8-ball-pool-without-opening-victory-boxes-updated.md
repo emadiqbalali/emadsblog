@@ -10,7 +10,7 @@ Do you know that you can buy any of the 8 Ball Pool Cues without opening those v
 
 Today, in this article I'll be showing you to buy the Cue without even opening any of the Victory Boxes. All you need is 8 Ball Pool Coins.
 
-[![](posts/2018/02/images/billiard-sport-pool-cue-364266.jpeg)](https://static.pexels.com/photos/364266/billiard-sport-pool-cue-364266.jpeg)
+[![](/posts/2018/02/images/billiard-sport-pool-cue-364266.jpeg)](https://static.pexels.com/photos/364266/billiard-sport-pool-cue-364266.jpeg)
 
  
 

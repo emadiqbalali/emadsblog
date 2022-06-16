@@ -22,7 +22,7 @@ I'm really a fan of Mystery and some thriller or horror movies. I would also wat
 - Insidious 1, 2, 3, 4, & 5 (Best Movie Series)
 - The Exorcist (Recommended)
 
-![The Exorcist - Horror Movies - Emad's Blog](posts/2018/11/images/download-7.jpg)
+![The Exorcist - Horror Movies - Emad's Blog](/posts/2018/11/images/download-7.jpg)
 
 The Exorcist (1970) - Google Images
 

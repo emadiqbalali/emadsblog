@@ -11,7 +11,7 @@ Hola everyone! How's it going. It's Emad here with another post on my blog. I re
 While testing Nexus 6, I came up with an issue that it wasn't receiving the **Nougat 7.1.1** update so far yet as Google even officially released the 7.1.1 update files online for Nexus 6. 
   
 
-[![](posts/2017/04/images/android-nougat-nexus-6p.jpg)](http://cdn.wccftech.com/wp-content/uploads/2016/08/android-nougat-nexus-6p.jpg)
+[![](/posts/2017/04/images/android-nougat-nexus-6p.jpg)](http://cdn.wccftech.com/wp-content/uploads/2016/08/android-nougat-nexus-6p.jpg)
 
   
   

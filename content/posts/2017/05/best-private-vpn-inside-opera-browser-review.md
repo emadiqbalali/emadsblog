@@ -8,7 +8,7 @@ categories:
 Hola everyone, Welcome to Emad's blog.  
   
 
-[![](posts/2017/05/images/1200px-Opera_2015_logo.svg.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Opera_2015_logo.svg/1200px-Opera_2015_logo.svg.png)
+[![](/posts/2017/05/images/1200px-Opera_2015_logo.svg.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Opera_2015_logo.svg/1200px-Opera_2015_logo.svg.png)
 
 Today, we are going to talk about this infamous browser. Yes, it is underrated even though it has great features such as **Battery Saver, Data Saver, Messenger** and **WhatsApp Web.** It is simple and easiest to operate with it's finest Graphical User Interface (GUI).  
   

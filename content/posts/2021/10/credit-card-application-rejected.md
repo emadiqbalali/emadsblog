@@ -4,7 +4,7 @@ date: "2021-10-13"
 categories: 
   - "honestreviews"
   - "lifestyle"
-coverImage: "posts/2021/10/images/Credit-Card-Application-Rejected.png"
+coverImage: "/posts/2021/10/images/Credit-Card-Application-Rejected.png"
 ---
 
 Are you frustrated every time getting an email stating "**Your Credit Card** Application Is Rejected"?

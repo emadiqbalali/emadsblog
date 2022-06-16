@@ -3,7 +3,7 @@ title: "First Metal Credit Card: OneCard Review & How You Can Get One?"
 date: "2021-04-13"
 categories: 
   - "banking"
-coverImage: "posts/2021/04/images/OneCard-scaled.jpg"
+coverImage: "//posts/2021/04/images/OneCard-scaled.jpg"
 ---
 
 **Note:** _Apply for OneCard Credit Card from the link provided to get 80% approval chances. They are most likely to approve when you're referred_. [**Apply Now!**](https://sastaeinstein.com/go/onecard/ "OneCard")
@@ -33,7 +33,7 @@ You can repay your expenses in certain category with these points earned. **In a
 
 Here's how simple the reward section looks like in the OneCard Powerful application.
 
-![onecard](posts/2021/04/images/IMG_0999.png)
+![onecard](/posts/2021/04/images/IMG_0999.png)
 
 **You also get the surcharge waiver for the fuel in case, you use the Credit Card at Petrol Pumps.**
 

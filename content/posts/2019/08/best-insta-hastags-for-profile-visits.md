@@ -40,13 +40,13 @@ Steps You Should Follow To Gain More Profile Views
     
     It is the most important step. A good bio makes a good impression. It should be very clear, point to point and should clarify what is the profile all about and why your viewers should be following you. You can see the example for an idea below.  
       
-    ![Gain More Profile Views On Instagram](posts/2019/08/images/992713227b65861060aeea869a882a4f.jpg)
+    ![Gain More Profile Views On Instagram](/posts/2019/08/images/992713227b65861060aeea869a882a4f.jpg)
     
 - **Using Instagram Keywords As Hashtags**
     
     Posting regularly on Instagram is a good technique to gain views as well as followers but it can be enhanced even more if you post on Instagram with hashtags. Use [HashtagsForLikes](https://www.hashtagsforlikes.co/) for finding out the top-rated hashtags in your niche.  
       
-    ![Most Liked Instagram Hashtags](posts/2019/08/images/zarrella.png)
+    ![Most Liked Instagram Hashtags](/posts/2019/08/images/zarrella.png)
     
 - **Engage With Other Profiles**
     

@@ -22,7 +22,7 @@ I bought my iPhone 5S 4 years back. It was not performing up to the mark on iOS 
   
   
 
-[![](posts/2017/12/images/original.jpg)](https://data.whicdn.com/images/76330199/original.jpg)
+[![](/posts/2017/12/images/original.jpg)](https://data.whicdn.com/images/76330199/original.jpg)
 
   
   

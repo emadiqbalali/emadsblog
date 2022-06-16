@@ -44,7 +44,7 @@ Recently, I bought the new Samsung Galaxy J5 Prime which took away my heart at f
 _In my case, I bought the device from Saudi Arabia, therefore, it has a **CSC** as KSA. I'm going to change it to INS or INU by flashing the Indian firmware.  This will enable volte in Samsung devices._  
 **Disclaimer:** Again a warning! I'm not responsible for bricking your device. Please follow the steps carefully and properly step by step and it works perfectly.  
 
-[![odin flash enable volte in samsung](images/jio.png)](https://1.bp.blogspot.com/-mFa1VxKWbOc/WRleLvrTzpI/AAAAAAAAFU8/rcYQXneawcolUg3kxawByBuWxyxcns3OwCLcB/s1600/jio.png)
+[![odin flash enable volte in samsung](/posts/2018/01/images/jio.png)](https://1.bp.blogspot.com/-mFa1VxKWbOc/WRleLvrTzpI/AAAAAAAAFU8/rcYQXneawcolUg3kxawByBuWxyxcns3OwCLcB/s1600/jio.png)
 
 1. Go to [SamMobile](https://www.sammobile.com/firmwares/). Type in your device name and search for Firmware of your device. Make sure that firmware belongs to **INDIA.  
     **
@@ -52,7 +52,7 @@ _In my case, I bought the device from Saudi Arabia, therefore, it has a **CSC** 
 3. Now, extract the firmware you downloaded in step 1 into the Odin folder on the desktop to make the task much easier.
 4. Open Odin and tick **BL** then click on **BL** to select BL firmware from the firmware you extracted in step 3.
     
-    [![flash odin volte enable in samsung](images/jio1.png)](https://2.bp.blogspot.com/-uA1IgKHLzpQ/WRlelMsn8fI/AAAAAAAAFVA/CleYKflvXggNSyXhTPHjlXxNgiGyTRJJgCLcB/s1600/jio1.png)
+    [![flash odin volte enable in samsung](/posts/2018/01/images/jio1.png)](https://2.bp.blogspot.com/-uA1IgKHLzpQ/WRlelMsn8fI/AAAAAAAAFVA/CleYKflvXggNSyXhTPHjlXxNgiGyTRJJgCLcB/s1600/jio1.png)
     
 5. Do the same for rest three that is **AP, CP, and CSC. Don't get confused between two CSC files in the firmware folder. Choose the file starting with CSC only and leave HOME\_CSC as it is.**
 6. Now, switch off your device. Press _Volume Down Button + Home Button + Power Button_ simultaneously to boot the phone into Download mode.

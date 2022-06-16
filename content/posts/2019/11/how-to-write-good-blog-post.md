@@ -19,7 +19,7 @@ Other rules apply (for the time being) online. The shape of your web text determ
 
 I have also written a post earlier on [How To Craft A Blog Post Amazingly For Beginner Bloggers?](https://sastaeinstein.com/write-blog-post-fast/) Do Check it out.
 
-[![How-to-write-a-good-blog-post-in-an-hour](images/How-to-write-a-good-blog-post-in-an-hour.png)](#)
+[![How-to-write-a-good-blog-post-in-an-hour](/posts/2019/11/images/How-to-write-a-good-blog-post-in-an-hour.png)](#)
 
 ## **High Score In Google Is Important**
 

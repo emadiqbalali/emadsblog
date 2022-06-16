@@ -14,7 +14,7 @@ Music is much better than what you hear in the normal speakers. Normal speakers 
 
 The music consists of Treble, Bass and natural alto. With all of these, you can actually get a feeling of listening to music or tune. Ever wanted to listen to pure music and every inch of tune then these speakers are for you.
 
-![](images/m6.jpg)
+![](/posts/2019/07/images/m6.jpg)
 
 Huawei Sandstone Portable Bluetooth Speaker (Red)
 

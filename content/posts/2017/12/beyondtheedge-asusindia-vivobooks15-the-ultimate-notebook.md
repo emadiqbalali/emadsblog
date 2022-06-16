@@ -10,7 +10,7 @@ Hola, everyone! How's your day going? Today I was browsing YouTube for some grea
 
 I've gone through the specifications and was literally impressed by them. #AsusIndiaLet's keep everything aside and have a look at this legendary vivobook.
 
-[![asus vivobook s15 review](posts/2017/12/images/VivoBook%2BS15.png)](https://1.bp.blogspot.com/-eYkT8a4usgw/WjFPvjbo3zI/AAAAAAAAKvQ/CrPULUYXAOMkAB-fzvmmQS121YCAxefMwCLcBGAs/s1600/VivoBook%2BS15.png)
+[![asus vivobook s15 review](/posts/2017/12/images/VivoBook%2BS15.png)](https://1.bp.blogspot.com/-eYkT8a4usgw/WjFPvjbo3zI/AAAAAAAAKvQ/CrPULUYXAOMkAB-fzvmmQS121YCAxefMwCLcBGAs/s1600/VivoBook%2BS15.png)
 
 ## Display:
 
@@ -24,7 +24,7 @@ Coming to the second thing, I like the way it looks and its portability! It is j
 
 Thirdly, I was literally so amazed when I had a look on its specification. It got an 8 Hours **battery** life but that's normal what amazed me was that it charges 60% within 49 min. I mean that's so amazing. I heard about fast charging thing in mobiles but laptop I didn't. Good Job #AsusIndia. It's really #BeyondTheEdge. Have a look at another picture of it.
 
-[![asus vivobook s15 review](posts/2017/12/images/Asus5.jpg)](https://3.bp.blogspot.com/-9jpFm0pjyjU/WjFW57PD07I/AAAAAAAAKvk/jZdBwWz1jMkGwkP0vFjMnGsg_NvLqgkQwCLcBGAs/s1600/Asus5.jpg)
+[![asus vivobook s15 review](/posts/2017/12/images/Asus5.jpg)](https://3.bp.blogspot.com/-9jpFm0pjyjU/WjFW57PD07I/AAAAAAAAKvk/jZdBwWz1jMkGwkP0vFjMnGsg_NvLqgkQwCLcBGAs/s1600/Asus5.jpg)
 
 Being a movie junkie, I have to use portable storage to move my content if I travel and this laptop got USB 3.0. I know how fast it is. I know I can copy those movies within seconds.
 

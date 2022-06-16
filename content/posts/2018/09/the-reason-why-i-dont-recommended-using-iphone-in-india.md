@@ -11,7 +11,7 @@ Are you planning to get a new iPhone but you're residing in India? I think you m
 Before you get bored thinking I'm an Android fan, I would let you know that currently I'm using iPhone in India and this is what I concluded to tell you from my experience. However, let's get started.  
   
 
-[![Why You Should Not Get iPhone in India - Emad's Blog](posts/2018/09/images/White-2BPurple-2BFern-2BLeaves-2BFacial-2B-2526-2BSpa-2BBeauty-2BLogo-300x300.jpg)](https://sastaeinstein.com/wp-content/uploads/2018/09/White-2BPurple-2BFern-2BLeaves-2BFacial-2B-2526-2BSpa-2BBeauty-2BLogo.jpg)
+[![Why You Should Not Get iPhone in India - Emad's Blog](/posts/2018/09/images/White-2BPurple-2BFern-2BLeaves-2BFacial-2B-2526-2BSpa-2BBeauty-2BLogo-300x300.jpg)](https://sastaeinstein.com/wp-content/uploads/2018/09/White-2BPurple-2BFern-2BLeaves-2BFacial-2B-2526-2BSpa-2BBeauty-2BLogo.jpg)
 
 ### Reasons Not To Get An iPhone In India?
 

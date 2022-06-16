@@ -18,7 +18,7 @@ The words written have amazing power. It gives you the inner touch to the though
 
 Why? It's simple. Words written well are praised and here I'm with 15 Happiness Quotes that makes you feel the meaning of true happiness.
 
-![15 Happiness Quotes](posts/2019/05/images/15-Happiness-Quotes-That-Shows-You-The-Meaning-of-True-Happiness.png)
+![15 Happiness Quotes](/posts/2019/05/images/15-Happiness-Quotes-That-Shows-You-The-Meaning-of-True-Happiness.png)
 
 A simple sentence on [Happiness is](https://www.happyzozo.com/) what you will feel the meaning of true happiness. The key to happiness is that you should try to find it wherever you go and whatever situation you are in.
 
