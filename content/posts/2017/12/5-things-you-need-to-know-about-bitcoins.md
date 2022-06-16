@@ -11,7 +11,7 @@ Yo! How's your day going? Today, in this article we'll have a look at 5 things y
 Let's have a look at those 5 things you gotta know about it.  
   
   
-[![](images/usebitcoin-4096x2253.jpg)](https://www.bitcoin.com/wp-content/uploads/2017/06/usebitcoin-4096x2253.jpg)  
+[![](posts/2017/12/images/usebitcoin-4096x2253.jpg)](https://www.bitcoin.com/wp-content/uploads/2017/06/usebitcoin-4096x2253.jpg)  
   
   
   

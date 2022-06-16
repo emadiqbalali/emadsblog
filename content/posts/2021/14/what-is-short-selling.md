@@ -3,7 +3,7 @@ title: "What Is Short Selling? The Whole Concept Explained"
 date: "2021-04-26"
 categories: 
   - "stock-market"
-coverImage: "Short-Selling-Explained.png"
+coverImage: "posts/2021/14/posts/2021/14/images/Short-Selling-Explained.png"
 ---
 
 There is always this question for a newbie retail trader, **how do we profit from the stock that is bearish (falling down)?**
@@ -38,7 +38,7 @@ Let's discuss a bit more about holding a short position for a longer time.
 
 Normally with short selling stocks, it is not possible to hold a short position for more than a day. You have to close your trade on an intraday basis. This is because you simply don't own the shares you sell in the market, you borrow them from the lenders in the open market while selling and you have to return them before the market closes.
 
-![](images/source.gif)
+![](posts/2021/14/images/source.gif)
 
 **Now, where does these lenders come from?**
 
@@ -60,7 +60,7 @@ Yes, **futures** and as well as **Options** make it possible to carry the short 
 
 Let me explain in layman terms,
 
-![](images/source.gif)
+![](posts/2021/14/images/source.gif)
 
 ## Futures In Simple Language
 

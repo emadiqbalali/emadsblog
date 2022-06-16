@@ -49,19 +49,19 @@ Here are the steps for the fix:
 
 2\. Type in 'inetcpl.cpl' and a windows pop up.
 
-[![](images/lumia0.png)](https://3.bp.blogspot.com/-6LP62Y1s-UE/Vv2wwvEGJQI/AAAAAAAABXA/Ts_cZJe1z_gbU-2Vd891deFQFymRipiUw/s1600/lumia0.png)
+[![](posts/2016/03/images/lumia0.png)](https://3.bp.blogspot.com/-6LP62Y1s-UE/Vv2wwvEGJQI/AAAAAAAABXA/Ts_cZJe1z_gbU-2Vd891deFQFymRipiUw/s1600/lumia0.png)
 
 3\. Now in this click the connection tab.
 
-[![](images/lumia1.jpg)](https://1.bp.blogspot.com/-gSh5tgCzpVM/Vv2xDaJMVpI/AAAAAAAABXE/Eqk77ZMHDA04KPzJKlM9_pGSoj0KTVAYQ/s1600/lumia1.jpg)
+[![](posts/2016/03/images/lumia1.jpg)](https://1.bp.blogspot.com/-gSh5tgCzpVM/Vv2xDaJMVpI/AAAAAAAABXE/Eqk77ZMHDA04KPzJKlM9_pGSoj0KTVAYQ/s1600/lumia1.jpg)
 
 4\. Now click on LAN settings.
 
-[![](images/lumia2.jpg)](https://2.bp.blogspot.com/-L2LOUOfENrg/Vv2xRAMX84I/AAAAAAAABXI/0n242wVh4asLKDv9SQMlPe_JO8vF_uOYA/s1600/lumia2.jpg)
+[![](posts/2016/03/images/lumia2.jpg)](https://2.bp.blogspot.com/-L2LOUOfENrg/Vv2xRAMX84I/AAAAAAAABXI/0n242wVh4asLKDv9SQMlPe_JO8vF_uOYA/s1600/lumia2.jpg)
 
 5\. Now make sure only the first box in checked and others all remains unchecked.
 
-[![](images/lumia3.png)](https://1.bp.blogspot.com/-xYXvcDk_5i8/Vv2xlx3rtcI/AAAAAAAABXQ/gS8HRcqXcHI7rvEcJ6xyWttJdkFmXOugA/s1600/lumia3.png)
+[![](posts/2016/03/images/lumia3.png)](https://1.bp.blogspot.com/-xYXvcDk_5i8/Vv2xlx3rtcI/AAAAAAAABXQ/gS8HRcqXcHI7rvEcJ6xyWttJdkFmXOugA/s1600/lumia3.png)
 
   
 

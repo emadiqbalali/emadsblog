@@ -8,7 +8,7 @@ Hola Guys! What going on everybody it's 3M4D with another post!
 Good Morning! You opened your YouTube account and you saw this robot face on the left? **Why?**  
   
 
-[![](images/yt.jpg)](https://1.bp.blogspot.com/--hssGI-9Qr8/WB8QX5Zp-WI/AAAAAAAADXI/Zq53i1iPJMwEyTVjhoGuv1melawDCFblACLcB/s1600/yt.jpg)
+[![](posts/2016/11/images/yt.jpg)](https://1.bp.blogspot.com/--hssGI-9Qr8/WB8QX5Zp-WI/AAAAAAAADXI/Zq53i1iPJMwEyTVjhoGuv1melawDCFblACLcB/s1600/yt.jpg)
 
   
 **#1.** Avoiding Copyright Claim on your videos is to never use a copyrighted video without the permission of the owner. Let it be the video or audio. Always use the NCS music in your videos. If you ever wonder what is NCS, it is short form for Non Copyright Sounds. If you use any of the NCS release of the song in your video then YouTube can't put that robot on your video.  

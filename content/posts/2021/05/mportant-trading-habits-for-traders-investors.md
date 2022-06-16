@@ -6,14 +6,14 @@ categories:
 tags: 
   - "stock-market"
   - "trading-rules"
-coverImage: "Important-Trading-Habits.png"
+coverImage: "posts/2021/05/images/Important-Trading-Habits.png"
 ---
 
 Believe me or not, there are a lot of rumors about the Stock Market in India. You often heard, "Satta Bazar" claimed by many people but anyway due to Pandemic, Indian Brokers added millions of new users. This is all because people who don't have trading habits or rules follow them and become profitable.
 
-**Stock Market** is an easy game if you understand what you're doing. You should never come to the market until you fully understand the risk, if you still think you can be a millionaire with Stock Market then [read this](https://emadsblog.com/does-investing-in-stocks-make-you-rich/) completely to understand.
+**Stock Market** is an easy game if you understand what you're doing. You should never come to the market until you fully understand the risk, if you still think you can be a millionaire with Stock Market then [read this](https://sastaeinstein.com/does-investing-in-stocks-make-you-rich/) completely to understand.
 
-In this post, I am going to keep layman terms so every beginner can even understand all the trading rules. If you still don't understand the basics, like Resistance & Support, Trend Lines, etc., then give a read to this [article](https://emadsblog.com/stock-market-psychology/).
+In this post, I am going to keep layman terms so every beginner can even understand all the trading rules. If you still don't understand the basics, like Resistance & Support, Trend Lines, etc., then give a read to this [article](https://sastaeinstein.com/stock-market-psychology/).
 
 ## What New Traders Expect From Market And What You Should Immediately Stop Expecting?
 
@@ -65,7 +65,7 @@ The trend is always determined on the particular time frame. If someone asks you
 
 No matter what, **try to capture the trend on your own investing or trading time frame.** A person whose time frame is 15 Minutes and his trend is uptrend while your time frame of 1 day doesn't necessarily mean your trend is also an uptrend.
 
-So, remember to always capture the trend in your time frame. You can easily use the **Simple Moving Average** to find out the trend or simply [draw trend lines](https://emadsblog.com/stock-market-psychology/) on your time frame.
+So, remember to always capture the trend in your time frame. You can easily use the **Simple Moving Average** to find out the trend or simply [draw trend lines](https://sastaeinstein.com/stock-market-psychology/) on your time frame.
 
 Always work with trend in your time frame despite it is different for different time frames.
 

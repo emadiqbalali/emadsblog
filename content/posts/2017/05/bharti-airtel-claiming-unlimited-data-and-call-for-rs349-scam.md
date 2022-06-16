@@ -6,7 +6,7 @@ date: "2017-05-20"
 Hola, everyone. Welcome to Emad's Blog.  
   
 
-[![](images/1200px-Bharti_Airtel_Limited_logo.svg.png)](https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Bharti_Airtel_Limited_logo.svg/1200px-Bharti_Airtel_Limited_logo.svg.png)
+[![](posts/2017/05/images/1200px-Bharti_Airtel_Limited_logo.svg.png)](https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Bharti_Airtel_Limited_logo.svg/1200px-Bharti_Airtel_Limited_logo.svg.png)
 
   
 As soon as Jio introduced their great offers, people bought their sim cards as hot pan cakes for breakfast. There is a loss for some other providers too such as Idea, Airtel, Vodafone, etc.  

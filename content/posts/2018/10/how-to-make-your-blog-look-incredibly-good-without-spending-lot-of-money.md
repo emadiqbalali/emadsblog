@@ -9,7 +9,7 @@ Is your blog design as per the so-called latest designs nowadays? Ever heard abo
 In this post, I'm going to talk about various aspects of designing and maintaining your blog as per modern designs on the blog. We will actually focus on Minimalistic design because of their Minimal and beautiful design without compromising the SEO (Search Engine Optimization). There are tons of themes available by many developers out there. It's just easy to download and apply it.  
   
 
-[![Emad's Blog - Make Your Blog Look Cool](images/Untitled-2Bdesign-2B-25281-2529-300x169.png "How To Make Your Blog Look Incredibly Good Without Spending Money?")](https://sastaeinstein.com/wp-content/uploads/2018/10/Untitled-2Bdesign-2B-25281-2529.png)
+[![Emad's Blog - Make Your Blog Look Cool](postd/2018/10/images/Untitled-2Bdesign-2B-25281-2529-300x169.png "How To Make Your Blog Look Incredibly Good Without Spending Money?")](https://sastaeinstein.com/wp-content/uploads/2018/10/Untitled-2Bdesign-2B-25281-2529.png)
 
 ## Choosing A Modern-Looking Theme
 

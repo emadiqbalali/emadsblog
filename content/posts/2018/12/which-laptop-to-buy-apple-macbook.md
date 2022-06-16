@@ -26,7 +26,7 @@ Not a big rocket science. As you need someone with experience to tell you what's
 
 Before buying a laptop, ask yourself if is it for your Work? Games? Editing? Streaming? or simply all of them?
 
-![Which Laptop To Buy in 2019? MacBook Pro](images/MacBook.jpg)
+![Which Laptop To Buy in 2019? MacBook Pro](posts/2018/12/images/MacBook.jpg)
 
 ### What's Your Budget?
 

@@ -7,7 +7,7 @@ tags:
   - "banking"
   - "hdfc-bank"
   - "preferred-banking"
-coverImage: "image.png"
+coverImage: "posts/2022/01/posts/2022/01/images/image.png"
 ---
 
 If you're the customer of number 1 largest bank in India, i.e, **HDFC Bank** then you might be already aware of their **premier banking** and their most popular HDFC Preferred Banking. For those, who are not aware of such banking, let me introduce you to it.
@@ -30,7 +30,7 @@ As we all know, there are usually two popular options while opening HDFC bank ac
 
 Now, there are three primary premier banking available in HDFC and all three offers some kind of rich banking experiences and offers to the customer. The dashboard looks something like this for normal accounts.
 
-![](images/Preferred.png)
+![](posts/2022/01/images/Preferred.png)
 
 Normal Savings Account Dashboard
 
@@ -41,7 +41,7 @@ Normal Savings Account Dashboard
 - You can share classic banking with family by linking your family account under yours _(Not joint account, just link)_ such that your family can also enjoy the same benefits
 - You don't need to maintain the balance as it will be zero but you need to maintain it to prevent your account from being downgraded to normal saving account, **however, your family linked under your account doesn't need to maintain any balance.**
 
-![How to Block HDFC Debit card using Smartphone? - Bank Cif Number](images/block%2Bhdfc%2Bdebit%2Bcard%2Busing%2Binternet%2Bbanking.jpg)
+![How to Block HDFC Debit card using Smartphone? - Bank Cif Number](posts/2022/01/images/block%2Bhdfc%2Bdebit%2Bcard%2Busing%2Binternet%2Bbanking.jpg)
 
 Classic Banking Dashboard
 
@@ -54,7 +54,7 @@ Classic Banking Dashboard
 - 50% off on processing fees on loan and save with waivers on many charges such as free balance enquiries and cash withdrawals at non-HDFC Bank ATMs
 - Family benefits when linked under the account with preferred banking
 
-![](images/image.png)
+![](posts/2022/01/images/image.png)
 
 Preferred Banking Dashboard
 
@@ -66,7 +66,7 @@ Preferred Banking Dashboard
 - Customized cheque and debit card (LTF).
 - Family benefits for up to 8 members when linked to the imperia banking.
 
-![HDFC Imperia Banking Benefits | hdfc imperia account review | hdfc top most  banking services - YouTube](images/maxresdefault.jpg)
+![HDFC Imperia Banking Benefits | hdfc imperia account review | hdfc top most  banking services - YouTube](posts/2022/01/images/maxresdefault.jpg)
 
 Imperia Banking Dashboard
 

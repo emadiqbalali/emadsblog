@@ -11,7 +11,7 @@ You might be wondering how one can record their own game plays and share it with
 
 # 1\. Bandicam  
 
-[![How to record your own screen or game](images/5YXMIxj3.png)](http://img.rlsbb.com/images/5YXMIxj3.png)
+[![How to record your own screen or game](posts/2017/06/images/5YXMIxj3.png)](http://img.rlsbb.com/images/5YXMIxj3.png)
 
 Bandicam is a screen recording software for windows with many great features. It comes in both a paid and free version. However, the free version watermarks the video you recorded.   
   

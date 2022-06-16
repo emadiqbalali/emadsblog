@@ -21,7 +21,7 @@ Ok, Ok! It's ok! I get you.
 
 ## What's So Trendy About Tim Cook, Apple CEO?
 
-[![Emad's Blog - What's Trending about Tim Cook ](images/923d61665a2d41c72a8a770bc1b1e927-300x169.png "Tim Cook HD Funny I Look Cool!")](https://sastaeinstein.com/wp-content/uploads/2018/10/923d61665a2d41c72a8a770bc1b1e927.png)
+[![Emad's Blog - What's Trending about Tim Cook ](posts/2018/10/images/923d61665a2d41c72a8a770bc1b1e927-300x169.png "Tim Cook HD Funny I Look Cool!")](https://sastaeinstein.com/wp-content/uploads/2018/10/923d61665a2d41c72a8a770bc1b1e927.png)
 
 Many people don't know about Tim. He is officially a CEO of the trillion dollar company, Apple. What is it that makes him Trendy?
 

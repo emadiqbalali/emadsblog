@@ -4,12 +4,12 @@ date: "2021-04-20"
 categories: 
   - "brokers"
   - "stock-market"
-coverImage: "Taxes-and-charges.png"
+coverImage: "posts/2021/14/images/Taxes-and-charges.png"
 ---
 
 When you're first starting out, you're told to open a DEMAT account with the broker of your choice. I use Zerodha & Upstox as my primary brokers for now and both are amazing in their own ways so far.
 
-If you still don't have a DEMAT account, read **[Upstox vs Zerodha: Which Is Better?](https://emadsblog.com/upstox-vs-zerodha-the-stock-broker-battle/)**
+If you still don't have a DEMAT account, read **[Upstox vs Zerodha: Which Is Better?](https://sastaeinstein.com/upstox-vs-zerodha-the-stock-broker-battle/)**
 
 However, you're never exactly told about the taxes and charges in details.
 

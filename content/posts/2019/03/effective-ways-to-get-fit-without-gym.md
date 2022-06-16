@@ -25,7 +25,7 @@ _P.S. This list won't give you a physique like **Tom Hardy** or **Jennifer Lopez
 
 Without further ado, let's get straight to the points to stay healthy without hitting **gym!** Sounds like a big deal? Nah! I will show how it's done.
 
-[![get fit without gym! Staying healthy without going to gym](images/appetite-bowl-centimeter-1332189-1024x880.jpg)](https://sastaeinstein.com/wp-content/uploads/2019/03/appetite-bowl-centimeter-1332189.jpg)
+[![get fit without gym! Staying healthy without going to gym](posts/2019/03/images/appetite-bowl-centimeter-1332189-1024x880.jpg)](https://sastaeinstein.com/wp-content/uploads/2019/03/appetite-bowl-centimeter-1332189.jpg)
 
 Salad, Want Some?
 

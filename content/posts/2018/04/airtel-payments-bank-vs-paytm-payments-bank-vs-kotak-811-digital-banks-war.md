@@ -7,7 +7,7 @@ categories:
 
 **There will be an infinity war between the digital banks in India before the Avengers: Infinity Wars hits the theatres in India.** It will be digital banks **PayTM vs Airtel vs Kotak 811 vs DBS** war. Let's get into without wasting any time.
 
-[![](images/Airtel%2BPayments%2BBank.png)](https://1.bp.blogspot.com/-JQRaoNHSVOE/WsfzqSta21I/AAAAAAAAO_w/XEBOZenDCa8Jz17KCTwBLQVHyy3VD2FZQCLcBGAs/s1600/Airtel%2BPayments%2BBank.png)
+[![](posts/2018/04/images/Airtel%2BPayments%2BBank.png)](https://1.bp.blogspot.com/-JQRaoNHSVOE/WsfzqSta21I/AAAAAAAAO_w/XEBOZenDCa8Jz17KCTwBLQVHyy3VD2FZQCLcBGAs/s1600/Airtel%2BPayments%2BBank.png)
 
 Since India went digital there has been many changes that went great. Everything is now linked to your **Aadhaar Card** from your Sim Card to Pan Card. Leaving the cards aside, even the banks went digital in India.
 

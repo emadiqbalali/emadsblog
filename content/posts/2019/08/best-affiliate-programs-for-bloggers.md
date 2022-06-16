@@ -16,7 +16,7 @@ Lots of products and lots of competition. The main aim of the affiliate program 
 
 In this article, we will be handpicking the best affiliate programs to make money. The bloggers will be creating content on their blog to drive sales to an affiliate product which in return will get commission on the basis of sales, leads or clicks.
 
-If you're not looking for monetizing your blog or website with affiliate marketing program then you can check out [Top Ads Networks That Pays High Rates](https://sastaeinstein.com/2017/03/top-10-highest-paying-cpm-ad-networks-you-can-use-on-your-blog.html) to monetize blog and earn enough money.
+If you're not looking for monetizing your blog or website with affiliate marketing program then you can check out [Top Ads Networks That Pays High Rates](https://sastaeinstein.com/top-10-highest-paying-cpm-ad-networks-you-can-use-on-your-blog.html) to monetize blog and earn enough money.
 
 The factors involved in choosing the best affiliate programs can be easily sorted out, like for example a good affiliate program might have this particular features,
 

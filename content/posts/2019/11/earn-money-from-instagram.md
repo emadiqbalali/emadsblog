@@ -13,7 +13,7 @@ Mail over mails, I was tired of answering people on through emails where dozen o
 
 I thought to give it a bit of research and add my own experience although, not being an Instagram influencer, I managed to compile this post. I mean, seriously we are going 1500 words on this. I'm sure it should be helpful for you guys, or girls. Without further ado, let's go through this.
 
-![make money with instagram](images/make-money-with-instagram-1024x682.jpg)
+![make money with instagram](posts/2019/11/images/make-money-with-instagram-1024x682.jpg)
 
 ## **Let's Start With Instagram Facts**
 
@@ -130,7 +130,7 @@ You can also go live and answer their questions. It's fun!
 
 Remember, I marked it as the toughest one in the category but still, nothing is difficult when you work for it. I've gathered some valuable steps for this one too and they turn out to be helpful for many. First let's take a look at how selling on Instagram looks like for major brands, **the shoppable tags.** However, we are not going to look into this as a major brand selling Jewellery and clothing are using it.
 
-![instagram make money ](images/dims-1024x536.jpg)
+![instagram make money ](posts/2019/11/images/dims-1024x536.jpg)
 
 Picture From [Engadget](https://www.engadget.com/2016/11/01/instagram-shopping-tags/)
 
@@ -140,7 +140,7 @@ Assuming, you're a small business therefore, we will be using **LINK IN BIO** me
 
 Switching to a business profile gives you an idea and peek at your profile insights. For example, take a look below. This gives you an idea about your followers and engagement countries so you can target people properly and is a practice of best Instagram blogging tips.
 
-![](images/Screenshot_20191120-110120-473x1024.jpg)
+![](posts/2019/11/images/Screenshot_20191120-110120-473x1024.jpg)
 
 Insights
 

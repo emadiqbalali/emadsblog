@@ -46,7 +46,7 @@ Let's get deep into it step by step!
 - Get your domain baked right from the oven. **[CrazyDomains](https://www.crazydomains.in?a=mpMjgoDltrinx%2F9ReD3vuA%3D%3D)** will do it right for you. Check it out here. They have amazing offers. Domains starting from just Rs 250.
 - To get started, make an account on CrazyDomains and get ready to buy a domain name of your choice.
 
-- [![Domain Registration](images/domain_registration_in.png)](https://www.crazydomains.in?a=mpMjgoDltrinx%2F9ReD3vuA%3D%3D)
+- [![Domain Registration](posts/2018/12/images/domain_registration_in.png)](https://www.crazydomains.in?a=mpMjgoDltrinx%2F9ReD3vuA%3D%3D)
 - It is always better to take .com domains if you're going to target worldwide audience using your posts & blog. While if your niche (Topic) is limited to a country only then go for .in domains.
 - Choose your domain name wisely. Later, if you plan to change it then you will have to do a lot of redirections or lose all your traffic.
 - Choose something short and sweet but also related to your Niche (Topic).
@@ -59,7 +59,7 @@ Let's get deep into it step by step!
 - It's because it will make setting your blog less complicated. You don't need to set up nameservers for your domain name. Since both domain and web hosting is from the same provider then it will do everything itself. No nameservers and all. Hence, less complicated.
 - Surprisingly, they have web hosting packages starting from just Rs 40. Amazed. Yeah me too. Get it now.
 
-[![Unlimited Hosting Packages](images/unlimited_hosting_packages_in.png)](https://www.crazydomains.in?a=mpMjgoDltrhlHM1hM0353A%3D%3D)
+[![Unlimited Hosting Packages](posts/2018/12/images/unlimited_hosting_packages_in.png)](https://www.crazydomains.in?a=mpMjgoDltrhlHM1hM0353A%3D%3D)
 
 - Check out and buy it.
 

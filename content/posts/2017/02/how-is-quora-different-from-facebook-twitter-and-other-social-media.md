@@ -19,7 +19,7 @@ No, certainly not. I'm just telling you that all things shared by people on the 
 **Are you telling me to leave the Social sites and read newspaper instead?**  
 No, really not.  
   
-[![](images/fb-vs-q1.png)](https://1.bp.blogspot.com/-kBmO99hHWZ0/WJhjZ7zlkBI/AAAAAAAAEzk/2dhhXzT54iAjk3gymwAYtG1ZYxKaJRzlwCLcB/s1600/fb-vs-q1.png)I said all this to just show the difference between the Quora and other Social sites. Now, just think that newspaper as **Quora.** Does it make any difference?  
+[![](posts/2017/02/images/fb-vs-q1.png)](https://1.bp.blogspot.com/-kBmO99hHWZ0/WJhjZ7zlkBI/AAAAAAAAEzk/2dhhXzT54iAjk3gymwAYtG1ZYxKaJRzlwCLcB/s1600/fb-vs-q1.png)I said all this to just show the difference between the Quora and other Social sites. Now, just think that newspaper as **Quora.** Does it make any difference?  
   
 Yes, a lot becasuse there is a logic behind it. **Quora** is, let me explain you. It is social site which basically contains of Questions and Answers. Many people over here are experienced and talented. They answers the questions asked on Quora. It is a real fun and addiction which you don't have to really care about. You learn lot of stuff here for free that's too with an experienced people.  
 Those of you who don't know what  

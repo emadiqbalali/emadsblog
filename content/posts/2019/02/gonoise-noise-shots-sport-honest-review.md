@@ -25,7 +25,7 @@ I was one of them and what did I found? **GoNoise's Noise Shots SPORT**
 
 Let's drop the idea of Apple AirPods take a look at **GoNoise: Noise Shots & it's Honest Review**
 
-![Noise Shots: Bluetooth Earbuds ](images/20190301_005200-1024x498.jpg)
+![Noise Shots: Bluetooth Earbuds ](posts/2019/02/images/20190301_005200-1024x498.jpg)
 
 **_Noise Shots, looking for a device to get paired._**
 
@@ -58,11 +58,11 @@ But, overall design is pretty neat. I love the way it looks premium in your hand
 
 Let me showcase you some more pictures of these little buds!
 
-![Noise Shots Full Review](images/20190301_005237-1024x498.jpg)
+![Noise Shots Full Review](posts/2019/02/images/20190301_005237-1024x498.jpg)
 
 _**Noise Shots getting charged in it's beautiful charging case**_
 
-![](images/20190301_005334-1024x498.jpg)
+![](posts/2019/02/images/20190301_005334-1024x498.jpg)
 
 **_There's the beautiful charging case!_**
 

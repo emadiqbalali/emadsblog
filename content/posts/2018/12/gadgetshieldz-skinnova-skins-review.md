@@ -24,7 +24,7 @@ All you do is slap a case on it and ruin the whole design.
 It's human mind, they care what they paid for.  
 Ultimately, it's a protection from scratches. Right? Skin is what comes to the rescue.
 
-![](images/GadgetShieldz-1024x768.jpg)
+![](posts/2018/12/images/GadgetShieldz-1024x768.jpg)
 
 **[Skinnova GadgetShieldz](http://gadgetshieldz.com)** was very kind enough to send me the sample to test it out and present my honest review on it.
 
@@ -34,7 +34,7 @@ Clearly, I'm not comparing any other brand with them. I'm here with my best revi
 
 ### Texture:
 
-![Carbon FIber - Skinnova GadgetSheildz](images/Carbon-FIber.png)
+![Carbon FIber - Skinnova GadgetSheildz](posts/2018/12/images/Carbon-FIber.png)
 
 The skin I recieved was **Black Carbon Fiber** and texture was so good that I almost feel it whenever I hold the device. It is now less slippery, protected from scratch and that amazing feelings to your hands.
 

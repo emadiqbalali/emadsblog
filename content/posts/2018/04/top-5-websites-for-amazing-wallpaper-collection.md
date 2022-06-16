@@ -7,7 +7,7 @@ categories:
 
 One of them who changes wallpaper on a regular basis? Cheers! Many of them are here. In this article, I'm covering up those websites with amazing wallpaper collection for Desktop or Mobile devices with every resolution such as 720p, 1080p, 2160p, & in some cases 4320p.
 
-[![5 Websites for Wallpaper This Summer IPL](images/Top%2B5%2Bwebsites%2Bfor%2Bwallpaper.png)](https://4.bp.blogspot.com/-fPPeC_8fYgU/WuDXFBH_jWI/AAAAAAAAP3g/0lJiVM6iz4Q3v_lt3Noba4hlgqEartLdACLcBGAs/s1600/Top%2B5%2Bwebsites%2Bfor%2Bwallpaper.png)
+[![5 Websites for Wallpaper This Summer IPL](posts/2018/04/images/Top%2B5%2Bwebsites%2Bfor%2Bwallpaper.png)](https://4.bp.blogspot.com/-fPPeC_8fYgU/WuDXFBH_jWI/AAAAAAAAP3g/0lJiVM6iz4Q3v_lt3Noba4hlgqEartLdACLcBGAs/s1600/Top%2B5%2Bwebsites%2Bfor%2Bwallpaper.png)
 
 Let's get started!
 

@@ -6,7 +6,7 @@ date: "2018-02-07"
 Hey there! Are you not able to decide what applications to install on your new device you purchased? Well, here are some applications which you can install on your device to make full use of your new smartphone. Note that, the application listed below are both for [iOS](https://www.apple.com/in/ios/ios-11/) and [Android](https://www.android.com/). In this article, we're also going to list the applications as well as their various functions to make sure you can chose if you really need it or not.  
   
 
-[![](images/5980129538_5f081c4627.jpg)](https://c1.staticflickr.com/7/6006/5980129538_5f081c4627.jpg)
+[![](posts/2018/02/images/5980129538_5f081c4627.jpg)](https://c1.staticflickr.com/7/6006/5980129538_5f081c4627.jpg)
 
   
 

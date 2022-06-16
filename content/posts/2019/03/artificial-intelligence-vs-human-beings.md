@@ -18,7 +18,7 @@ Some of you might already hear about Artificial Intelligence while some of you d
 
 Let’s say, for example, You are watching TV shows on Netflix and Netflix recommend you the shows you like to watch next. Netflix uses Artificial Intelligence in order to recommend films and TV Shows.
 
-![Artificial Intelligence vs Human](images/adult-ai-artificial-intelligence-1020325-300x228.jpg)
+![Artificial Intelligence vs Human](posts/2019/03/images/adult-ai-artificial-intelligence-1020325-300x228.jpg)
 
 Not limited to shows, the incredible ability of Amazon to anticipate your next purchase uses AI and the voice assistants you’ve been using in your smartphones are using AI to understand your natural speech.
 

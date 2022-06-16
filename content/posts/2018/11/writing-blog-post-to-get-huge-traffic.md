@@ -10,7 +10,7 @@ tags:
   - "traffic"
 ---
 
-![How To Wirte A Blog Post To Get More Traffic On Your Blog?](images/How-To-Drive-Crazy-Traffic-on-Your-Blog.png)
+![How To Wirte A Blog Post To Get More Traffic On Your Blog?](posts/2018/11/images/How-To-Drive-Crazy-Traffic-on-Your-Blog.png)
 
 Do you want to know how to write a cool looking blog post like how all other professional bloggers do?
 

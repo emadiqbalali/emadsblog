@@ -11,7 +11,7 @@ tags:
 
 **Beats Drop!**
 
-[![NCS Infinity Logo. Top 5 NCS Music for YouTube Videos and Background Music](images/ncs_infinity_1024x1024.jpg)](https://2.bp.blogspot.com/-I7mLSvKkAJA/WsXVTRKlNoI/AAAAAAAAO7k/IYJfRECjVlwb2xYvw4T5JaM3-UHU6zBMgCLcBGAs/s1600/ncs_infinity_1024x1024.jpg)
+[![NCS Infinity Logo. Top 5 NCS Music for YouTube Videos and Background Music](posts/2018/04/images/ncs_infinity_1024x1024.jpg)](https://2.bp.blogspot.com/-I7mLSvKkAJA/WsXVTRKlNoI/AAAAAAAAO7k/IYJfRECjVlwb2xYvw4T5JaM3-UHU6zBMgCLcBGAs/s1600/ncs_infinity_1024x1024.jpg)
 
 Hey, today I'll be sharing some of the best work by [NoCopyrightSounds](https://soundcloud.com/nocopyrightsounds). When it comes to YouTube Videos many are actually worried if they can use songs without getting a copyright strike. The thing is you should check whether if the song you're using in the video is copyrighted if yes, then you need to get permission from the owner or the person who owns the rights to the song.
 

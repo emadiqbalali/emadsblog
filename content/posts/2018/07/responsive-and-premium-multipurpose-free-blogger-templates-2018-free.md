@@ -11,7 +11,7 @@ Are you guys looking for Free Blogging templates which are responsive and comple
 
 # MultiPurpose Blogger Templates:
 
-[![Sora SEO Blogger Template Download - Emad's Blog](images/Sora-2BSeo-2BBlogger-2BTemplate-300x210.jpg)](https://sastaeinstein.com/wp-content/uploads/2018/07/Sora-2BSeo-2BBlogger-2BTemplate.jpg)
+[![Sora SEO Blogger Template Download - Emad's Blog](posts/2018/07/images/Sora-2BSeo-2BBlogger-2BTemplate-300x210.jpg)](https://sastaeinstein.com/wp-content/uploads/2018/07/Sora-2BSeo-2BBlogger-2BTemplate.jpg)
 
 1. ## **[SoraSEO](https://www.soratemplates.com/2017/04/sora-seo-blogger-templates.html):**
     

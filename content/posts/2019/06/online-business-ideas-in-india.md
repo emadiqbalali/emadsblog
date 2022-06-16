@@ -60,7 +60,7 @@ You can choose from E-Commerce Solutions available online. 
 
 Don't know how to launch your own website? Don't worry. You can visit my [services](https://sastaeinstein.com/services) page to order one of my plans and I'll make your website completely ready to serve.
 
-This is a cool business idea! If you're serious about it then I recommend you to start your E-Commerce website with the help of the [leading hosting company](https://sastaeinstein.com/go/bluehost "BlueHost") which can handle thousands of products on your site with ease. You can also scale easily. I've been doing business with them and they are affordable plus an amazing service to be honest. 
+This is a cool business idea! If you're serious about it then I recommend you to start your E-Commerce website with the help of the [leading hosting company](https://bluehost.com "BlueHost") which can handle thousands of products on your site with ease. You can also scale easily. I've been doing business with them and they are affordable plus an amazing service to be honest. 
 
 ## #2 - Review Blog + Affiliate
 

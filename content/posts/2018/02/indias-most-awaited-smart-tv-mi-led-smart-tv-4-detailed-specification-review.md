@@ -9,7 +9,7 @@ World thinnest LED TV, ok how much thin do you think it is? Believe me, its whop
 #XiaomiSmartTV  
   
 
-[![](images/A3C88C9D-0F9B-22CC-880F-78DF96199691.png)](https://2.bp.blogspot.com/-OrGPjU9BpFo/WonJhtRM4cI/AAAAAAAANDQ/PZpUh2npxT8MAtLeKh-n3PJ_170cTKjgwCLcBGAs/s1600/A3C88C9D-0F9B-22CC-880F-78DF96199691.png)
+[![](posts/2018/02/images/A3C88C9D-0F9B-22CC-880F-78DF96199691.png)](https://2.bp.blogspot.com/-OrGPjU9BpFo/WonJhtRM4cI/AAAAAAAANDQ/PZpUh2npxT8MAtLeKh-n3PJ_170cTKjgwCLcBGAs/s1600/A3C88C9D-0F9B-22CC-880F-78DF96199691.png)
 
   
 Amazed? Look how thin this thing is. I don't know about you guys but I'm amazed because this TV is not OLED. It is LED and with just 4.9mm panel that is frame less. Let's take a look at all the features and specification it got.  
@@ -21,7 +21,7 @@ Everyone's first impression while buying a TV is its display and the ability of 
 
   
 
-[![](images/overall-bezelless-tv-light.png)](https://3.bp.blogspot.com/-mrYwvH3Pgf0/WorDDqkwHqI/AAAAAAAANFA/D6Kbt3vFapQhSglNExKSeysr3vyF6TAQACLcBGAs/s1600/overall-bezelless-tv-light.png)
+[![](posts/2018/02/images/overall-bezelless-tv-light.png)](https://3.bp.blogspot.com/-mrYwvH3Pgf0/WorDDqkwHqI/AAAAAAAANFA/D6Kbt3vFapQhSglNExKSeysr3vyF6TAQACLcBGAs/s1600/overall-bezelless-tv-light.png)
 
   
 
@@ -52,7 +52,7 @@ The biggest update ever happened to TV is about its software. Unlike other WebOS
 
   
 
-[![](images/161725z3czlk3k83l8hw3g.jpg.thumb.jpg)](https://3.bp.blogspot.com/-CthjFGRKvVs/WornAVylUgI/AAAAAAAANFQ/mK6jy7hAVFUAXKsMg9jfMtw8Q7E9y_1-gCLcBGAs/s1600/161725z3czlk3k83l8hw3g.jpg.thumb.jpg)
+[![](posts/2018/02/images/161725z3czlk3k83l8hw3g.jpg.thumb.jpg)](https://3.bp.blogspot.com/-CthjFGRKvVs/WornAVylUgI/AAAAAAAANFQ/mK6jy7hAVFUAXKsMg9jfMtw8Q7E9y_1-gCLcBGAs/s1600/161725z3czlk3k83l8hw3g.jpg.thumb.jpg)
 
   
 
@@ -64,7 +64,7 @@ It supports both Wall Mounting and Stand Mounting as well. Anyway, you get both 
 Let's take a look at the TV once again and enjoy!  
   
 
-[![](images/A0D25D6D-E27A-D6E5-FE99-C127907CAFD1.jpg)](https://1.bp.blogspot.com/-e-A-5YzfNNQ/WorpRxe1AnI/AAAAAAAANFc/1MNGYHF1JEkxm6lWmIeK9ppAhGBWZ4I2gCLcBGAs/s1600/A0D25D6D-E27A-D6E5-FE99-C127907CAFD1.jpg)
+[![](posts/2018/02/images/A0D25D6D-E27A-D6E5-FE99-C127907CAFD1.jpg)](https://1.bp.blogspot.com/-e-A-5YzfNNQ/WorpRxe1AnI/AAAAAAAANFc/1MNGYHF1JEkxm6lWmIeK9ppAhGBWZ4I2gCLcBGAs/s1600/A0D25D6D-E27A-D6E5-FE99-C127907CAFD1.jpg)
 
   
 

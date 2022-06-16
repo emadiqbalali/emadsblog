@@ -75,7 +75,7 @@ These above stocks are fundamentally good and can be kept for long term (1-2 yea
 
 Take an example of **Ruchi Soya Industries**, this penny stock was trading at Rs15 and in over 3-4 months of time, it skyrocketed to above Rs 1000 per share. Take a look at yourself. It was a multi-bagger.
 
-![ruchi soya industries mutlibagger chart](images/image-1024x481.png)
+![ruchi soya industries mutlibagger chart](posts/2021/02/images/image-1024x481.png)
 
 ## Conclusion
 

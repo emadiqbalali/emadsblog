@@ -5,7 +5,7 @@ categories:
   - "finance-knowledge"
 tags: 
   - "credit-cards"
-coverImage: "Credit-Cards.jpg"
+coverImage: "posts/2021/11/images/Credit-Cards.jpg"
 ---
 
 Come on! Using Credit Cards is just a piece of the cake? What's there in it?
@@ -65,7 +65,7 @@ This is one of the benefits of owning a credit card.
 
 Secondly, getting a credit card and paying them on time with build your credit history and it is very important to have whether you take the loan in future or not. The credit history and score is necessary and it can help you at times of emergency or whatever the bad financial situation becomes.
 
-Therefore, spending even the minimum amount on credit cards and paying them on time will fetch you amazing [credit history and score](https://emadsblog.com/how-to-improve-credit-score-2021/).
+Therefore, spending even the minimum amount on credit cards and paying them on time will fetch you amazing [credit history and score](https://sastaeinstein.com/how-to-improve-credit-score-2021/).
 
 * * *
 
@@ -73,7 +73,7 @@ Coming to the third important point, credit cards actually pay you when you spen
 
 It might not look much in short term, but these rewards points will help you save a lot of money in the long run just for spending amount for your regular needs.
 
-Who actually pays you for spending? Well, credit cards do. You can check out these [credit cards](https://emadsblog.com/which-credit-cards-are-best/).
+Who actually pays you for spending? Well, credit cards do. You can check out these [credit cards](https://sastaeinstein.com/which-credit-cards-are-best/).
 
 I am not just telling you out of nowhere, yes I have been there and saved plenty of money using credit cards. My main primary cards are, **OneCard & ICICI Amazon Pay Credit Card.**
 

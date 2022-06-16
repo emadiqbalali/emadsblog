@@ -41,7 +41,7 @@ Without wasting any time let’s take a look at some factors now.
 
 ## Things to Consider Before Buying LED TV
 
-![buying led tv](images/image-000-1024x256.png)
+![buying led tv](posts/2019/10/images/image-000-1024x256.png)
 
 The biggest factor that comes to mind while purchasing a new LED TV is the screen size of the TV. 
 
@@ -55,7 +55,7 @@ But with a smaller size, you may have to suffer some features of TV as well. Som
 
 ## Screen Resolution: 8K, 4K or FHD?
 
-![4k vs 8k LED TV Buying](images/image-001.png)
+![4k vs 8k LED TV Buying](posts/2019/10/images/image-001.png)
 
 For a long period, we have heard and seen the standard resolution of 1920 x 1080 which is full HD.
 
@@ -69,7 +69,7 @@ Some companies have also launched their 8K resolution TVs but purchasing 8K reso
 
 ## Refresh Rate
 
-![refresh rate buying led tv](images/image-002-1024x937.jpg)
+![refresh rate buying led tv](posts/2019/10/images/image-002-1024x937.jpg)
 
 The refresh rate is the rate at which a TV refreshes the picture behind the screen. The video we watch on the TV screen is not a video, it is a combination of pictures which refreshes at a certain speed and looks like a video. 
 
@@ -81,7 +81,7 @@ If one likes to play games on PlayStation or watch highly edited Hollywood movie
 
 ## Smart or Non-Smart LED TV
 
-![smart tv vs non-smart](images/image-003.jpg)
+![smart tv vs non-smart](posts/2019/10/images/image-003.jpg)
 
 TVs have become more than just watching, with a Smart TV now you can do so many other things as well. You can check your social media connect your TV with USB, memory cards or Wi-Fi. 
 
@@ -95,7 +95,7 @@ If you have already purchased an LED TV, you can convert it by installing some d
 
 ## Sound Quality
 
-![](images/image-004.jpg)
+![](posts/2019/10/images/image-004.jpg)
 
 The TV experience is not complete without the proper sound in it. Must check if the LED TV you are purchasing has a Dolby Sound System then you are good to go with that option. 
 
@@ -105,7 +105,7 @@ All the branded and famous companies use the only Dolby sound system, it is one 
 
 ## Brand of LED TV
 
-![best led tv brands](images/image-005.jpg)
+![best led tv brands](posts/2019/10/images/image-005.jpg)
 
 Choosing the perfect brand is not only about the name and company of LED TV. It is also about the add-ons that you are getting by choosing that brand over all others. User must go with the brand like Samsung, Sony, LG is budget is not the issue. 
 

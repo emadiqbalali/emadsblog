@@ -14,7 +14,7 @@ coverImage: "adult-attractive-beautiful-905913.jpg"
 
 Boom! Beauty? Am I digging up those underrated beauty blogs on the internet?
 
-- [![](images/adult-attractive-beautiful-905913-683x1024.jpg)](https://sastaeinstein.com/wp-content/uploads/2018/12/adult-attractive-beautiful-905913-683x1024.jpg)
+- [![](posts/2018/12/images/adult-attractive-beautiful-905913-683x1024.jpg)](https://sastaeinstein.com/wp-content/uploads/2018/12/adult-attractive-beautiful-905913-683x1024.jpg)
     
     Pic By Designecologist on Pexels
     

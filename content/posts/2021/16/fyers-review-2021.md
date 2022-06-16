@@ -3,12 +3,12 @@ title: "Fyers Review 2021: The Most Underrated Broker"
 date: "2021-07-04"
 categories: 
   - "brokers"
-coverImage: "Fyers-Full-Review-2021.png"
+coverImage: "posts/2021/16/posts/2021/16/images/Fyers-Full-Review-2021.png"
 ---
 
-[Upstox](https://emadsblog.com/upstox-review/), you already know this broker since this broker has been actively promoting their platform everywhere. From this season IPL to advertising on Social Platforms.
+[Upstox](https://sastaeinstein.com/upstox-review/), you already know this broker since this broker has been actively promoting their platform everywhere. From this season IPL to advertising on Social Platforms.
 
-We also know [Zerodha](https://emadsblog.com/zerodha-full-review-is-it-really-the-1-broker-in-india/), and this broker is our main for a long time. We as traders or investors, obviously workaround with multiple DEMAT/Trading accounts since we have multiple types of trading/investing to deal with.
+We also know [Zerodha](https://sastaeinstein.com/zerodha-full-review-is-it-really-the-1-broker-in-india/), and this broker is our main for a long time. We as traders or investors, obviously workaround with multiple DEMAT/Trading accounts since we have multiple types of trading/investing to deal with.
 
 If you see my example, I primarily use Zerodha to trade in Currency and mainly only in USD/INR and not cross-currency.
 
@@ -40,20 +40,20 @@ Firstly, they promised that they will be working on making **Back Office** more 
 
 - **Fully Trading View Integrated Terminal** (Decide Yourself)
 
-![fyers features review](images/image-1024x500.png)
+![fyers features review](posts/2021/16/images/image-1024x500.png)
 
 Fyers Web Terminal & yes, that's Maruti Inverse Head & Shoulder :p
 
 - Clean & Easy Interface  
     
 
-![fyers full review](images/image-1-1024x494.png)
+![fyers full review](posts/2021/16/images/image-1-1024x494.png)
 
 Fyers Backend (My Account)
 
 - The Amazing **Fyers One** terminal that too free of cost
 
-![Fyers One App Review](images/image-2-1024x538.png)
+![Fyers One App Review](posts/2021/16/images/image-2-1024x538.png)
 
 Fyers One (Windows)
 
@@ -65,11 +65,11 @@ Fyers is just another discount broker therefore, there is no big change in their
 
 For Equity Delivery, there are no charges. You can get detailed charges below
 
-![](images/image-3.png)
+![](posts/2021/16/images/image-3.png)
 
 [Fyers Brokerage Charges](https://fyers.in/pricing/)
 
-![](images/image-4-1024x254.png)
+![](posts/2021/16/images/image-4-1024x254.png)
 
 Fyers DP Charges
 

@@ -18,7 +18,7 @@ Today, I'll be presenting you the Shri Ram IAS Coaching institute which is based
 
 Cracking civil service exam takes a lot of effort and quality guidance and when one misses it when they eventually miss the exam too. Shri Ram Coaching Institute give this guidance and quality education to the aspirants to help them in cracking the Civil Service Exams. Apart from this, Shri Ram Coaching Institute has to offer several features along to deliver the outstanding and motivational education to the aspirants.
 
-![Shri Ram IAS Coaching Institute Delhi](images/banner6.jpg)
+![Shri Ram IAS Coaching Institute Delhi](posts/2019/06/images/banner6.jpg)
 
 Shri Ram Coaching Institute, Delhi
 

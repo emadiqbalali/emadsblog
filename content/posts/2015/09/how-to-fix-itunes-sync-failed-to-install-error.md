@@ -20,4 +20,4 @@ You can get IPA file of an App from many websites some are listed below:
 
 Thank You. Keep visiting.
 
- [![](images/IMG_20150911_171729.jpg)](http://lh3.googleusercontent.com/-SlXppCWGq6w/VfLi-_9c3qI/AAAAAAAAAWs/wG5u6sGnlT0/s1600/IMG_20150911_171729.jpg)
+ [![](posts/2015/09/images/IMG_20150911_171729.jpg)](http://lh3.googleusercontent.com/-SlXppCWGq6w/VfLi-_9c3qI/AAAAAAAAAWs/wG5u6sGnlT0/s1600/IMG_20150911_171729.jpg)

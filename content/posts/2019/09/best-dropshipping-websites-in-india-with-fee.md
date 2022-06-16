@@ -115,5 +115,5 @@ If you're serious enough about Dropshipping then you can easily select Baap Stor
 
 **Recommended Reading:**
 
-- [4 Amazing Online Business Ideas In India](https://sastaeinstein.com/2019/06/online-business-ideas-in-india.html)
-- [Start A Blog In India & Earn Money](https://sastaeinstein.com/2019/09/start-blog-in-india.html)
+- [4 Amazing Online Business Ideas In India](https://sastaeinstein.com/online-business-ideas-in-india.html)
+- [Start A Blog In India & Earn Money](https://sastaeinstein.com/start-blog-in-india.html)

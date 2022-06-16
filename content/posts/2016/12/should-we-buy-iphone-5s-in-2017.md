@@ -21,7 +21,7 @@ The list goes on....  Let's come to the real deal!
 
 **Yes, it is worth to buy iPhone 5S in 2017.**
 
-[![](images/HD-Wallpapers-of-iPhone-5-on-Laptop.jpg)](http://www.pixelstalk.net/wp-content/uploads/2016/05/HD-Wallpapers-of-iPhone-5-on-Laptop.jpg)
+[![](posts/2016/12/images/HD-Wallpapers-of-iPhone-5-on-Laptop.jpg)](http://www.pixelstalk.net/wp-content/uploads/2016/05/HD-Wallpapers-of-iPhone-5-on-Laptop.jpg)
 
 First of all, you'll never regret buying it. It is one of the sexiest phone alive. Yes, it is sexy even though it is only 4" and weighs around 135 grams! The polished black Space Grey, Snow flakes Silver, and the Matte Golden are all beautifully crafted. It also performs well on racetrack with other major flagships!
 

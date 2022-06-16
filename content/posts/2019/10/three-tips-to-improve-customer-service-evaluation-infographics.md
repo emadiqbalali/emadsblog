@@ -9,7 +9,7 @@ tags:
 coverImage: "workplace-1245776_1920.jpg"
 ---
 
-[![The-Effective-Management](images/The-Effective-Management.png)](https://ibb.co/wrrCFt7)
+[![The-Effective-Management](posts/2019/10/images/The-Effective-Management.png)](https://ibb.co/wrrCFt7)
 
 Customer service evaluation is a benchmark often used to measure staff proficiency, customer satisfaction and fidelity, and the quality of staff response to customer needs.
 

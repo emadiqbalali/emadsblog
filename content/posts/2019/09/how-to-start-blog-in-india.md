@@ -92,7 +92,7 @@ Step 1: Logging Into Your Hosting Account
 - Login To Hostinger Dashboard With Your Username & Password
 - After you logged in, you’ll be able to see the Greeting Message shown below.
 
-![How To Start A Blog In India](images/Picture1-1024x605.png)
+![How To Start A Blog In India](posts/2019/09/images/Picture1-1024x605.png)
 
 - Now you can see your hosting along with your domain name. Also at the bottom it shows the expiry date as well. Let’s move on to another step.
 
@@ -100,7 +100,7 @@ Step 1: Logging Into Your Hosting Account
 
 - Click on “Manage” to manage your hosting and after clicking you’ll be able to see this page shown below.
 
-![How To Start A Blog In India](images/Picture2-1024x588.png)
+![How To Start A Blog In India](posts/2019/09/images/Picture2-1024x588.png)
 
 - You’re now in Hosting section. You’ll be able to see the details of your hosting server on the left panel.
 - As I have already installed WordPress therefore, it is showing me WordPress in “Installed” section. Let’s move to another step to see what’s next!
@@ -109,7 +109,7 @@ Step 1: Logging Into Your Hosting Account
 
 - Scroll down a little bit and you’ll be able to find “**Websites”** section as show in the picture below
 
-![](images/Picture3-1024x554.jpg)
+![](posts/2019/09/images/Picture3-1024x554.jpg)
 
 - You can now spot “**Auto Installer**” as well in that section.
 - Click on it to open Auto Installer which will help us install WordPress easily without any hassles and codes.
@@ -124,7 +124,7 @@ Step 1: Logging Into Your Hosting Account
 
 OMG! Are you enjoying? Excited for your new site? Let’s do it, we aren’t that far!
 
-![start blogging](images/Picture4-1024x554.jpg)
+![start blogging](posts/2019/09/images/Picture4-1024x554.jpg)
 
 - Put your focus on “**Most Popular”** section.
 - You can see “**WordPress”** in the section. Yes, you’ve a popular choice. xD
@@ -135,7 +135,7 @@ OMG! Are you enjoying? Excited for your new site? Let’s do it, we aren’t tha
 
 Finally, It’s time. We are officially installing WordPress!
 
-![How to be blogger in India](images/Picture5-1024x554.jpg)
+![How to be blogger in India](posts/2019/09/images/Picture5-1024x554.jpg)
 
 - That’s it. We are almost installing WordPress and baking your first site.
 - Choose the domain.
@@ -171,7 +171,7 @@ So, Congratulation. Project WordPress is completed! Let’s try getting into thi
 - In the address bar, put in your domain i.e, **example.com** followed by **“wp-admin”** i.e, example.com/wp-login.
 - Once, you press enter. You’ll be greeted to this page shown below where you’re going to enter the username and password you saved in **Step 6.**
 
-![How to I start a blog](images/Picture6.jpg)
+![How to I start a blog](posts/2019/09/images/Picture6.jpg)
 
 - After entering your username and password, you’ll be in the WordPress Dashboard.
 - Ohh! I forgot to mention, your website is now live. 

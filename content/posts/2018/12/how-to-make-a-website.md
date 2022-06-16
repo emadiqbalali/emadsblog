@@ -19,7 +19,7 @@ coverImage: "How-Do-you-make-a-website_.png"
 
 How To Make A Website the easiest way? Is that what you are looking for?
 
-![How Do You Make A Website? Easiest Way on Emad's Blog](images/How-Do-you-make-a-website_.png)
+![How Do You Make A Website? Easiest Way on Emad's Blog](posts/2018/12/images/How-Do-you-make-a-website_.png)
 
 Umm, if yes, I am going to teach you how do you make a website for yourself in the easiest and cheapest way possible.
 

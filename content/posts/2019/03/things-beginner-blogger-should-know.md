@@ -57,7 +57,7 @@ Also, I was able to drive 60 page views a day with a bounce rate of just 56%.
 
 **Don’t believe me? Here is the screenshot.**
 
-![](images/V4dEr5-1024x282.png)
+![](posts/2019/03/images/V4dEr5-1024x282.png)
 
 _Proof of how I skyrocketed from 70M Global rank to 32M By Following Above 7 Methods_
 

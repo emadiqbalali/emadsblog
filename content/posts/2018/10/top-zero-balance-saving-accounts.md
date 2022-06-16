@@ -18,7 +18,7 @@ coverImage: "atm-bank-banking-259200.jpg"
 
 Do you always wanted to get a bank account but worried about maintaining your balance in the bank? It's now never an issue in India. We have several banks offering a service called "Zero Balance Saving Accounts". Below is the list of banks that offer this service. Also, it is paperless and completely online apart from some Bio-Metric verifications. 
 
-[![Zero Balance Saving Accounts in India, Kotak 811, PayTM, DBS](images/bank-banking-banknote-262558.jpg)](https://sastaeinstein.com/wp-content/uploads/2018/10/bank-banking-banknote-262558.jpg)
+[![Zero Balance Saving Accounts in India, Kotak 811, PayTM, DBS](posts/2018/10/images/bank-banking-banknote-262558.jpg)](https://sastaeinstein.com/wp-content/uploads/2018/10/bank-banking-banknote-262558.jpg)
 
 - Kotak Mahindra Bank - **[Kotak 811](https://www.kotak.com/en/personal-banking/accounts/savings-account/811-Account/811-variants.html)**
 - [PayTM Payments Bank](https://www.paytmbank.com/AccountOpening) (_Currently Banned by RBI from opening new accounts_)

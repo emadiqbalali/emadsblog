@@ -3,7 +3,7 @@ title: "How To Save Taxes? Income Tax Return: Taxes Explained [2021]"
 date: "2021-10-31"
 categories: 
   - "stock-market"
-coverImage: "How-to-save-Taxes-In-India.jpg"
+coverImage: "posts/2021/10/images/How-to-save-Taxes-In-India.jpg"
 ---
 
 It's been a long time since I published my last post and this post is one of a gem, I promise. There are hundreds of requests for me when it comes to taxes and explaining each of them manually is a bit of a task and therefore I compiled everything about how to **save taxes** in this article.
@@ -36,7 +36,7 @@ We will discuss how further in the article.
 
 We have 2 tax regimes in India. The older one allows you to get deductions given below and the new one doesn't allow you to get deductions but offers lower tax slabs.
 
-![](images/image.png)
+![](posts/2021/10/images/image.png)
 
 Source: [ETMoney](https://www.etmoney.com/blog/new-tax-regime-or-old-what-should-you-pick/)
 
@@ -117,7 +117,7 @@ Once we apply this Tax Rebate, we now don't even need to pay Rs 7500 and overall
 
 I know you still have some kind of doubts and issues in understanding the above concept, to clarify it, even more, I prepared a simple table that explains to you everything I just explained in the steps above.
 
-![save taxes in india](images/image-1.png)
+![save taxes in india](posts/2021/10/images/image-1.png)
 
 Taxes via Old Tax regime Simplified
 
@@ -133,7 +133,7 @@ As you know, my Gross Total Salary is Rs **8,00,000**.
 
 As per the table above, below is the taxes I have to pay.
 
-![how to save taxes](images/image-2.png)
+![how to save taxes](posts/2021/10/images/image-2.png)
 
 New Tax Regime
 

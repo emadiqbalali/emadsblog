@@ -52,6 +52,6 @@ That's all for today, and hope you're also impressed by IndiBlogHub. Don't forge
 
 **Recommended Reading:**
 
-- [How To Earn $500/month With Affiliate Marketing?](https://sastaeinstein.com/2019/08/affiliate-marketing-for-beginners.html)
-- [Top 10 Highest Paying Ad Networks?](https://sastaeinstein.com/2018/03/top-highest-paying-affiliate-networks-you-should-sign-up-now-to-earn-money-online.html)
-- [Get Approved By Google Adsense Within 24 Hours](https://sastaeinstein.com/2018/12/get-website-approved-adsense.html)
+- [How To Earn $500/month With Affiliate Marketing?](https://sastaeinstein.com/affiliate-marketing-for-beginners.html)
+- [Top 10 Highest Paying Ad Networks?](https://sastaeinstein.com/top-highest-paying-affiliate-networks-you-should-sign-up-now-to-earn-money-online.html)
+- [Get Approved By Google Adsense Within 24 Hours](https://sastaeinstein.com/get-website-approved-adsense.html)

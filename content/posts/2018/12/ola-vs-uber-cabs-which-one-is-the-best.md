@@ -28,7 +28,7 @@ We all think about several things before booking the cabs! They are,
 - Good Customer Service
 - Fares
 
-![Ola vs Uber Cabs? Review and which is best?](images/pexels-photo-462867-1024x576.jpeg)
+![Ola vs Uber Cabs? Review and which is best?](posts/2018/12/images/pexels-photo-462867-1024x576.jpeg)
 
 ## Ola vs Uber: Honest Review
 

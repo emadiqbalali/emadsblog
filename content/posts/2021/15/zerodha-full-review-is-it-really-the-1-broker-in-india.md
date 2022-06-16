@@ -6,7 +6,7 @@ categories:
 tags: 
   - "zerodha"
   - "zerodha-full-review"
-coverImage: "Zerodha-Full-Review.png"
+coverImage: "posts/2021/15/posts/2021/15/zerodha-Full-Review.png"
 ---
 
 **Zerodha** is known by the tag of the #1 broker in India. Are you confused between brokers out there? If yes, then this Zerodha full review will help you decide if you really need to go with them.
@@ -19,7 +19,7 @@ Now I will tell you why I went with them instantly without researching because t
 
 **Zerodha now has over 36.2 Lakh clients** and all these clients came on their own. Yes on its own because of their wonderful platform which went from nothing to everything it is now.
 
-Zerodha does a **ZERO** promotion and still gets their clients unlike [Upstox](https://emadsblog.com/upstox-review/) (which promotes a lot) as you see in the current year IPL T20.
+Zerodha does a **ZERO** promotion and still gets their clients unlike [Upstox](https://sastaeinstein.com/upstox-review/) (which promotes a lot) as you see in the current year IPL T20.
 
 **Yes, in short they are trust worthy.** I've been with them for over 2 years and I haven't experienced any discrepancies of some sort.
 
@@ -49,7 +49,7 @@ I pretty much like Zerodha for it's console. The console looks beautiful and giv
 
 Zerodha has one of the neatest back office to be honest, in my opinion. If you don't believe me, check it out yourself.
 
-![zerodha console](images/image-1024x496.png)
+![zerodha console](posts/2021/15/image-1024x496.png)
 
 Zerodha Console (Holdings)
 
@@ -73,7 +73,7 @@ You can checkout the [Zerodha Varsity](https://zerodha.com/varsity/).
 
 In the end, Zerodha is pretty much the only broker you will need in the end to rely on. I joined them in 2020 and its been almost more than 1 year with them and I can say they are pretty well compared to my previous broker Upstox.
 
-But, in this one year, Upstox has been doing quite well and catching the pace. You can also read my [Upstox Review](https://emadsblog.com/upstox-review/) or just go through a [Versus Battle of Upstox & Zerodha](https://emadsblog.com/upstox-vs-zerodha-the-stock-broker-battle/).
+But, in this one year, Upstox has been doing quite well and catching the pace. You can also read my [Upstox Review](https://sastaeinstein.com/upstox-review/) or just go through a [Versus Battle of Upstox & Zerodha](https://sastaeinstein.com/upstox-vs-zerodha-the-stock-broker-battle/).
 
 However, I assure you that both of the brokers are doing well at their own place. If you're a trader and an investor, then I suggest you to open accounts with both of the brokers. You can easily maintain a long term portfolio with Upstox and do your swing and day trading with Zerodha.
 

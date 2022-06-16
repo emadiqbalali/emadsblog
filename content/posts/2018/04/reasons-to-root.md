@@ -13,7 +13,7 @@ Did you just expect me that I'll not rejoice you throughout the article? Well, t
 
 Keeping it all simple, I'm just going to give or state some of the **Pros & Cons** of rooting your android device. To be honest, for the sake of keywords I'm telling you some of the popular devices such as Samsung Galaxy S series, Sony Xperia Z series and many other Android Tablets.
 
-[![Advantages & Disadvantages of rooting your android device, Emad's Blog](images/Add%2Ba%2Blittle%2Bbit%2Bof%2Bbody%2Btext.png)](https://2.bp.blogspot.com/-m2oAplr8NPw/WtUHlKO4wgI/AAAAAAAAPP8/9TtEO_6xYIYbUvhBzmgMnccms44PXCU6QCLcBGAs/s1600/Add%2Ba%2Blittle%2Bbit%2Bof%2Bbody%2Btext.png)
+[![Advantages & Disadvantages of rooting your android device, Emad's Blog](posts/2018/04/images/Add%2Ba%2Blittle%2Bbit%2Bof%2Bbody%2Btext.png)](https://2.bp.blogspot.com/-m2oAplr8NPw/WtUHlKO4wgI/AAAAAAAAPP8/9TtEO_6xYIYbUvhBzmgMnccms44PXCU6QCLcBGAs/s1600/Add%2Ba%2Blittle%2Bbit%2Bof%2Bbody%2Btext.png)
 
 ## Pros (Advantages):-
 

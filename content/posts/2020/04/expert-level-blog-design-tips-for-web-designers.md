@@ -3,7 +3,7 @@ title: "Expert-Level Blog Design Tips for Web Designers"
 date: "2020-04-22"
 categories: 
   - "blogging"
-coverImage: "website-3374825_1920.jpg"
+coverImage: "posts/2020/04/website-3374825_1920.jpg"
 ---
 
 As a great portfolio of designs, a great blog should be entertaining, imaginative and insightful and shoIt can be as easy to design a blog as downloading a template and adding a couple of widgets.

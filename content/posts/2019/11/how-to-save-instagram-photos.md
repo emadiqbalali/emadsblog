@@ -9,7 +9,7 @@ coverImage: "save-instagram-photos.png"
 
 Are you looking for saving an Instagram photo on your PC or SmartPhone? Well, today we're going to learn how to save pictures from Instagram. All of us might know that Instagram don't have an option to save it in your phone directly through the official Instagram App. Hence, you'll learn to do it the other way.
 
-[![](images/download.png)](https://3.bp.blogspot.com/-Xk8mOsk10so/WFEaFqKd_dI/AAAAAAAAEPE/cFxWe_h8eWwQYku-8kETDzeMROCU6p6GwCLcB/s1600/download.png)
+[![](posts/2019/11/images/download.png)](https://3.bp.blogspot.com/-Xk8mOsk10so/WFEaFqKd_dI/AAAAAAAAEPE/cFxWe_h8eWwQYku-8kETDzeMROCU6p6GwCLcB/s1600/download.png)
 
 Instagram is now a famous photo sharing platform and was bought by the other giant social networking platform, **Facebook**. Instagram was sold in 2012 for a whopping $1 Billion surprisingly, it was founded just 2 years back. Over more than 4.2 Billions likes are generated on Instagram everyday.
 

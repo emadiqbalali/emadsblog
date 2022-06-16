@@ -18,7 +18,7 @@ You're not alone. I once thought the same. I never thought I could make money on
 
 Making money online can be tricky. There's not a shortcut at least anywhere you make money you ain't getting or finding a shortcut.
 
-![ways to make money online in 2019](images/accounting-adult-banknotes-210990-1024x768.jpg)
+![ways to make money online in 2019](posts/2019/04/images/accounting-adult-banknotes-210990-1024x768.jpg)
 
 **You always need to work for it, ahh, wait not work but work with brain that is working smartly.**
 

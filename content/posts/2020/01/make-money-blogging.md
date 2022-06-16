@@ -62,13 +62,13 @@ I do provide some gigs on Fiverr and earn side income, proof reading and uploadi
 
 Here is the screenshot to my Affiliate reports of Hosting, I hide my beautiful stats for the month, but I was able to make around **$43** this month.
 
-![](images/Affiliate-Report-1024x184.jpg)
+![](posts/2020/01/images/Affiliate-Report-1024x184.jpg)
 
 Here, is my Adsense report for this blog. Hope it helps, again I am hiding my stats for not violating Google's Policy which can lead to my account ban. Google is strict with policies. xD
 
 **Also, if you see this stats, you will know that Google Adsense literally doesn't let you earn penny if your blog doesn't have thousand of views in a single day.**
 
-![](images/Clipboard.jpg)
+![](posts/2020/01/images/Clipboard.jpg)
 
 So, you get an idea that making money blogging is pretty straight forward deal. You need more readers or visitors and traffic to your site and you can then convert them to money using the monetization techniques above.
 

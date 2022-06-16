@@ -4,7 +4,7 @@ date: "2021-10-13"
 categories: 
   - "honestreviews"
   - "lifestyle"
-coverImage: "Credit-Card-Application-Rejected.png"
+coverImage: "posts/2021/10/images/Credit-Card-Application-Rejected.png"
 ---
 
 Are you frustrated every time getting an email stating "**Your Credit Card** Application Is Rejected"?
@@ -57,7 +57,7 @@ Major banks offer such Secured Credit Cards, such as,
 2. ICICI Insta Easy Credit Card
 3. Axis Bank Insta Easy Credit Card
 4. SBI Card Unnati
-5. [OneCard Lite](https://sastaeinstein.com/go/onecard) (Get 110% Limit of FD)
+5. [OneCard Lite](https://1cardapp.page.link/AsBc) (Get 110% Limit of FD)
 
 After taking any of those cards listed above, you can then continue to use it every month and make a credit score and history for yourself. You have to do this at least for a year to get a good history and higher approval chances of a Credit Card.
 

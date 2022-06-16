@@ -14,7 +14,7 @@ tags:
 
 In the meantime, we have been welcoming A2 in India on 8th of August. The exact version of A2 dubbed as 6X in China launched already. This time there are some changes compared to its predecessor A1. In this article, we are going to highlight those changes and show you what's upgraded.
 
-[![](images/blue-a2.jpg)](https://i01.appmifile.com/webfile/globalimg/Tina/blue-a2.jpg)
+[![](psots/2018/08/images/blue-a2.jpg)](https://i01.appmifile.com/webfile/globalimg/Tina/blue-a2.jpg)
 
 On  August 8th, Mi is going to drop another Android One Smartphone and it is going to be their 2nd Android One Smartphone. Our first impression for this device, made us feel like it's premium segment smartphone. It's sleek, beautifully crafted and rocks the design. We will show you What Get Changed in Mi A2 and if It is worth the upgrade?
 
@@ -38,7 +38,7 @@ It performed really well and more than we expected. There was no lag at all in t
 
 The device felt premium in hands with those curved corners and beautiful 18:9 display. The camera setup looks like one in iPhone X. The feel of stock Android on it makes it almost a completely awesome smartphone. The black one looks pretty classy. 
 
-[![](images/black-a2.jpg)](https://i01.appmifile.com/webfile/globalimg/Tina/black-a2.jpg)
+[![](posts/2018/08/images/black-a2.jpg)](https://i01.appmifile.com/webfile/globalimg/Tina/black-a2.jpg)
 
 ### Camera Samples:
 

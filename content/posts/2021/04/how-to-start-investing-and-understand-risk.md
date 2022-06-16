@@ -8,7 +8,7 @@ tags:
   - "how-to-invest"
   - "stock-market"
   - "where-to-invest"
-coverImage: "money-4029562_1920.png"
+coverImage: "posts/2021/04/images/money-4029562_1920.png"
 ---
 
 A question that is definitely asked by a lot of people "**How To Start Investing?**" out there looking to invest and grow their money over time instead of keeping them idle in the bank account or doesn't want the **4%-6%** of interest in the Fixed Deposits.
@@ -66,7 +66,7 @@ Enough talking, and let's get to the investment.
 
 Since you're a risky investor, you can come directly to the Stock Market and invest in the companies you studied. To enter the stock market, you need a broker.
 
-The Top Brokers in India are [Upstox](https://cutt.ly/YxFtiXp) & [Zerodha](https://cutt.ly/dxFiqd7). To read more on which to go for, check out the [battle](https://emadsblog.com/upstox-vs-zerodha-the-stock-broker-battle/) between them.
+The Top Brokers in India are [Upstox](https://cutt.ly/YxFtiXp) & [Zerodha](https://cutt.ly/dxFiqd7). To read more on which to go for, check out the [battle](https://sastaeinstein.com/upstox-vs-zerodha-the-stock-broker-battle/) between them.
 
 You can start your journey of investing into the stock market slowly and steady in the strong fundamental stocks, and few of them are:
 
@@ -113,7 +113,7 @@ The safer options are
 
 ## Low-Risk Investors
 
-If you don't want to take any risk, then there is still more risk you will be taking. I explained well, in this post where I discuss [why not taking risk can be deadly](https://emadsblog.com/why-investing-is-better-than-saving/).
+If you don't want to take any risk, then there is still more risk you will be taking. I explained well, in this post where I discuss [why not taking risk can be deadly](https://sastaeinstein.com/why-investing-is-better-than-saving/).
 
 In low-risk to no risk investment methods, there are very less options to start from, however, you can open a Fixed Deposit and keep your money there to earn a interest without putting your money on any type of risk.
 

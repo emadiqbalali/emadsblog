@@ -18,7 +18,7 @@ These all are your thoughts when you just complete writing a blog post without t
 
 Let's begin one by one, step by step and boom a perfect looking blog post.
 
-![Write An Excellent Blog Post](images/Hi-Please-Use-Headings.png)
+![Write An Excellent Blog Post](posts/2019/07/images/Hi-Please-Use-Headings.png)
 
 ## **Headings, Headings, Headings!**
 

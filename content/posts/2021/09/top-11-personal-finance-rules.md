@@ -8,7 +8,7 @@ tags:
   - "inflation"
   - "investing"
   - "stock-market"
-coverImage: "11-personal-finance-rules-1.png"
+coverImage: "posts/2021/09/images/11-personal-finance-rules-1.png"
 ---
 
 This post has been lying in my draft for a long time now that I fully acknowledge that learning these 11 personal finance rules is much more important when you're still younger out there. It seriously help you escape some troublesome financial conditions in the coming future.
@@ -38,7 +38,7 @@ For being financially independent, you need an amount on which you should be abl
 
 So to save up this much amount is highly impossible when the money lies in your bank account idle and is not working for you to make money for you.
 
-To make money out of your money, you need to choose forms of investment and make investments. [Read more.](https://emadsblog.com/how-to-start-investing-and-understand-risk/)
+To make money out of your money, you need to choose forms of investment and make investments. [Read more.](https://sastaeinstein.com/how-to-start-investing-and-understand-risk/)
 
 * * *
 

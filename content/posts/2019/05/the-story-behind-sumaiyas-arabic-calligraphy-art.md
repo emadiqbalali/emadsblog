@@ -18,7 +18,7 @@ coverImage: "70113036_2484858871744330_2793831666819490126_n.jpg"
 
 Sumaiya Afreen is studying architecture as a full time while being an **_amazing artist_** in her free time. 
 
-![Sumaiya Afreen Calligraphy sumaiyas_palette](images/42491554_157737105170437_6330915608305074176_n.jpg)
+![Sumaiya Afreen Calligraphy sumaiyas_palette](posts/2019/05/images/42491554_157737105170437_6330915608305074176_n.jpg)
 
 #### By Sumaiya Afreen
 
@@ -46,19 +46,19 @@ Can't believe my eyes when I opened the art myself. It looks super neat, perfect
 
 This is the art I got with her autograph on it, lovin' it? Hell, yeah!
 
-[![](images/20190925_214112-300x225.jpg)](https://sastaeinstein.com/wp-content/uploads/2019/09/20190925_214112.jpg)
+[![](posts/2019/05/images/20190925_214112-300x225.jpg)](https://sastaeinstein.com/wp-content/uploads/2019/09/20190925_214112.jpg)
 
 Unboxed Version
 
-[![](images/20190925_214026-300x225.jpg)](https://sastaeinstein.com/wp-content/uploads/2019/09/20190925_214026.jpg)
+[![](posts/2019/05/images/20190925_214026-300x225.jpg)](https://sastaeinstein.com/wp-content/uploads/2019/09/20190925_214026.jpg)
 
 Unboxed Version
 
-[![](images/70183720_152671305934074_3529653189611171905_n-300x300.jpg)](https://sastaeinstein.com/wp-content/uploads/2019/09/70183720_152671305934074_3529653189611171905_n.jpg)
+[![](posts/2019/05/images/70183720_152671305934074_3529653189611171905_n-300x300.jpg)](https://sastaeinstein.com/wp-content/uploads/2019/09/70183720_152671305934074_3529653189611171905_n.jpg)
 
 Classic Shot By Her!
 
-[![](images/70113036_2484858871744330_2793831666819490126_n-300x300.jpg)](https://sastaeinstein.com/wp-content/uploads/2019/09/70113036_2484858871744330_2793831666819490126_n.jpg)
+[![](posts/2019/05/images/70113036_2484858871744330_2793831666819490126_n-300x300.jpg)](https://sastaeinstein.com/wp-content/uploads/2019/09/70113036_2484858871744330_2793831666819490126_n.jpg)
 
 Yup, she forgot to give me popcorns though!
 
@@ -74,7 +74,7 @@ She takes all the orders and fulfils them on her Instagram account. If you're lo
 
 [
 
-![Arts By Sumaiyas Palette](images/51866049_317521628967504_538820232876365236_n-240x300.jpg)
+![Arts By Sumaiyas Palette](posts/2019/05/images/51866049_317521628967504_538820232876365236_n-240x300.jpg)
 
 Arts By Sumaiyas Palette
 
@@ -84,7 +84,7 @@ Arts By Sumaiyas Palette
 
 [
 
-![Arts By Sumaiyas Palette](images/53657373_2001246406849944_94173358617606926_n-300x300.jpg)
+![Arts By Sumaiyas Palette](posts/2019/05/images/53657373_2001246406849944_94173358617606926_n-300x300.jpg)
 
 Arts By Sumaiyas Palette
 
@@ -94,7 +94,7 @@ Arts By Sumaiyas Palette
 
 [
 
-![Arts By Sumaiyas Palette](images/54511382_1733902020077870_383026234635714077_n-300x300.jpg)
+![Arts By Sumaiyas Palette](posts/2019/05/images/54511382_1733902020077870_383026234635714077_n-300x300.jpg)
 
 Arts By Sumaiyas Palette
 
@@ -104,7 +104,7 @@ Arts By Sumaiyas Palette
 
 [
 
-![Arts By Sumaiyas Palette](images/56913517_2154812707959719_2047179021775783734_n-300x300.jpg)
+![Arts By Sumaiyas Palette](posts/2019/05/images/56913517_2154812707959719_2047179021775783734_n-300x300.jpg)
 
 Arts By Sumaiyas Palette
 
@@ -114,7 +114,7 @@ Arts By Sumaiyas Palette
 
 [
 
-![Arts By Sumaiyas Palette](images/57730382_625112757953208_6316606751088354972_n-300x300.jpg)
+![Arts By Sumaiyas Palette](posts/2019/05/images/57730382_625112757953208_6316606751088354972_n-300x300.jpg)
 
 Arts By Sumaiyas Palette
 
@@ -124,7 +124,7 @@ Arts By Sumaiyas Palette
 
 [
 
-![Arts By Sumaiyas Palette](images/58453972_650495602030220_4237147530561320536_n-300x300.jpg)
+![Arts By Sumaiyas Palette](posts/2019/05/images/58453972_650495602030220_4237147530561320536_n-300x300.jpg)
 
 Arts By Sumaiyas Palette
 
@@ -134,7 +134,7 @@ Arts By Sumaiyas Palette
 
 [
 
-![Arts By Sumaiyas Palette](images/Sumaiyas_palette-300x300.jpg)
+![Arts By Sumaiyas Palette](posts/2019/05/images/Sumaiyas_palette-300x300.jpg)
 
 Arts By Sumaiyas Palette
 
@@ -144,7 +144,7 @@ Arts By Sumaiyas Palette
 
 [
 
-![Arabic Calligraphy by Sumaiya Afreen @sumaiyas_palette](images/Arabic-Calligraphy-Sumaiya-Afreen-300x300.jpg)
+![Arabic Calligraphy by Sumaiya Afreen @sumaiyas_palette](posts/2019/05/images/Arabic-Calligraphy-Sumaiya-Afreen-300x300.jpg)
 
 Arts By Sumaiyas Palette
 

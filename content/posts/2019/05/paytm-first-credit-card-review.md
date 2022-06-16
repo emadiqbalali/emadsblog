@@ -17,7 +17,7 @@ PayTM First Credit Card is doing the rounds on the internet when PayTM's Instagr
 
 Let's dig deeper and get into PayTM First Credit Card Review.
 
-![PayTM First Credit Card Launched](images/1_uFZtQcBoXqTq944b9q_cEQ-1024x768.jpeg)
+![PayTM First Credit Card Launched](posts/2019/05/images/1_uFZtQcBoXqTq944b9q_cEQ-1024x768.jpeg)
 
 Picture Courtesy: [PayTM Blog](https://blog.paytm.com)
 

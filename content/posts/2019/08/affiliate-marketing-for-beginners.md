@@ -99,9 +99,9 @@ The Astra Starter Site is pretty much amazing as it allows you to import the who
 
 When you monetize your site with an affiliate program, it is not necessary to avoid all other types of monetizing methods. You can still apply for most used Monetizing methods for websites with content.
 
-- [Google Adsense](https://adsense.com) ([Here's How You Can Get Approved Quickly](https://sastaeinstein.com/2018/12/get-website-approved-adsense.html))
+- [Google Adsense](https://adsense.com) ([Here's How You Can Get Approved Quickly](https://sastaeinstein.com/get-website-approved-adsense.html))
 - PropellerAds (Best one & Highest Paying after Adsense)
-- [More Ad Networks](https://sastaeinstein.com/2018/03/top-highest-paying-affiliate-networks-you-should-sign-up-now-to-earn-money-online.html)
+- [More Ad Networks](https://sastaeinstein.com/top-highest-paying-affiliate-networks-you-should-sign-up-now-to-earn-money-online.html)
 
 These above methods are the most used for monetizing blogs and websites. In this monetizing method, the ad networks display advertisements on your website which you can place manually with other ad networks while Google Adsense features Auto Placement of Ads.
 

@@ -18,7 +18,7 @@ Here in this list, I spent a couple of hours to make this top 10 list and in no 
 
 It features a gorgeous display you can't resist. If the display matters you the most and basically loves Apple then what are you waiting for? Grab [iPhone X](https://amzn.to/2D60Up6) now.
 
-[![](images/iPhone-x-stock-wallpapers-1024x451.jpg)](http://axeetech.com/wp-content/uploads/2017/09/iPhone-x-stock-wallpapers-1024x451.jpg)
+[![](posts/2017/10/images/iPhone-x-stock-wallpapers-1024x451.jpg)](http://axeetech.com/wp-content/uploads/2017/09/iPhone-x-stock-wallpapers-1024x451.jpg)
 
 **Budget**: $1000-$1100
 
@@ -26,7 +26,7 @@ It features a gorgeous display you can't resist. If the display matters you the 
 
 Android fanboy and love OLED edge displays? Well, here's the [S8](https://amzn.to/2KpJFVR) you might want to get.
 
-[![](images/samsungpic1.jpg)](https://cnet4.cbsistatic.com/img/U5D1mLKv-LqEJRDAX2FckI3t_Wk=/2017/03/29/61847d39-0820-42d3-bd5d-37406322cf78/samsungpic1.jpg)
+[![](posts/2017/10/images/samsungpic1.jpg)](https://cnet4.cbsistatic.com/img/U5D1mLKv-LqEJRDAX2FckI3t_Wk=/2017/03/29/61847d39-0820-42d3-bd5d-37406322cf78/samsungpic1.jpg)
 
 **Budget:** $720
 
@@ -34,25 +34,25 @@ Android fanboy and love OLED edge displays? Well, here's the [S8](https://amzn.t
 
 A premium segment by Google. Amazing low light cameras packed with fresh and bloatware free fast updates Android. Get [Pixel 2 XL](https://amzn.to/2uVZzMX) now.
 
-[![](https://www.androidcentral.com/sites/androidcentral.com/files/styles/xlarge_wm_brw/public/article_images/2017/10/google-pixel-2-pixel-2-xl-hands-on-2.jpg?itok=VpfmIhOM)](https://www.androidcentral.com/sites/androidcentral.com/files/styles/xlarge_wm_brw/public/article_images/2017/10/google-pixel-2-pixel-2-xl-hands-on-2.jpg?itok=VpfmIhOM)
+[![](https://www.androidcentral.com/sites/androidcentral.com/files/styles/xlarge_wm_brw/public/article_posts/2017/10/images/2017/10/google-pixel-2-pixel-2-xl-hands-on-2.jpg?itok=VpfmIhOM)](https://www.androidcentral.com/sites/androidcentral.com/files/styles/xlarge_wm_brw/public/article_posts/2017/10/images/2017/10/google-pixel-2-pixel-2-xl-hands-on-2.jpg?itok=VpfmIhOM)
 
 **Budget:** $649/64GB, $749/128GB
 
 ## 4\. [iPhone **8**](https://amzn.to/2D5RGt2)
 
-[![](images/apple-iphone-8-3.jpg)](https://cdn2.gsmarena.com/vv/pics/apple/apple-iphone-8-3.jpg)
+[![](posts/2017/10/images/apple-iphone-8-3.jpg)](https://cdn2.gsmarena.com/vv/pics/apple/apple-iphone-8-3.jpg)
 
 **Budget:** $699
 
 ## 5\. [Xiaomi **Mi Mix 2**](https://www.amazon.in/Mi-Mix-6Gb-128Gb-Black)
 
-[![](images/xiaomi-mi-mix2-1.jpg)](https://cdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-mix2-1.jpg)
+[![](posts/2017/10/images/xiaomi-mi-mix2-1.jpg)](https://cdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-mix2-1.jpg)
 
 **Budget: $**680
 
 ## 6\. [OnePlus **5**](https://amzn.to/2UL3Ilz)
 
-[![](images/oneplus-5-midnight-black-1.jpg)](https://cdn2.gsmarena.com/vv/pics/oneplus/oneplus-5-midnight-black-1.jpg)
+[![](posts/2017/10/images/oneplus-5-midnight-black-1.jpg)](https://cdn2.gsmarena.com/vv/pics/oneplus/oneplus-5-midnight-black-1.jpg)
 
 **Budget:** $500
 

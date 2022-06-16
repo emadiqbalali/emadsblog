@@ -3,7 +3,7 @@ title: "Upstox Review: The Honest & Full Review"
 date: "2021-05-07"
 categories: 
   - "brokers"
-coverImage: "Upstox.png"
+coverImage: "posts/2021/15/images/Upstox.png"
 ---
 
 **Upstox, Upstox, Upstox! Start karke toh dekho.** I mean [Upstox](https://upstox.com/open-demat-account/?utm_source=refernearn&utm_medium=referral&landing_page=ReferAndEarn&f=5M4Y) review dekh hi rahe ho, ab toh start karke dekho.

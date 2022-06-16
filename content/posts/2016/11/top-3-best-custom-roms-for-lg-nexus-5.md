@@ -13,7 +13,7 @@ Here is the list of Top 3 Custom ROMS for Nexus 5.
 
   
 
-[![](images/file.jpeg)](https://3.bp.blogspot.com/-CaI_6AxQFDo/V-GBFcGu-LI/AAAAAAAABus/89BJ3geuJqMPjvxgZXuRoSs0FTIvkiABACLcB/s1600/file.jpeg)
+[![](posts/2016/11/images/file.jpeg)](https://3.bp.blogspot.com/-CaI_6AxQFDo/V-GBFcGu-LI/AAAAAAAABus/89BJ3geuJqMPjvxgZXuRoSs0FTIvkiABACLcB/s1600/file.jpeg)
 
   
 
@@ -37,7 +37,7 @@ It is one of the latest ROM based on Android Nougat 7.0. This ROM is clean and d
 
   
 
-[![](images/logo%2B%25282%2529.png)](https://3.bp.blogspot.com/--bsHTYO1E0w/V-GAwBz1dKI/AAAAAAAABuo/5cvTtbpA0Cgg7uwjs3ZCUXiovMZtDyodwCLcB/s1600/logo%2B%25282%2529.png)
+[![](posts/2016/11/images/logo%2B%25282%2529.png)](https://3.bp.blogspot.com/--bsHTYO1E0w/V-GAwBz1dKI/AAAAAAAABuo/5cvTtbpA0Cgg7uwjs3ZCUXiovMZtDyodwCLcB/s1600/logo%2B%25282%2529.png)
 
   
 
@@ -55,7 +55,7 @@ CyanogenMod is one of the most popular after market ROM maker. It has amazingly 
 
 #1. [Nitrogen OS Android M (6.0.1)](http://forum.xda-developers.com/google-nexus-5/development/rom-nitrogen-os-13-04-2016-testing-t3358154)
 
-[![](images/http-%25252F%25252Fi.imgur.com%25252FebMt55O.png)](https://2.bp.blogspot.com/-TEnxr3QxkCw/V-GAaxAAynI/AAAAAAAABuk/XOMNCj8gzFYJViMesEM781yHYLiQ2iPEwCLcB/s1600/http-%25252F%25252Fi.imgur.com%25252FebMt55O.png)
+[![](posts/2016/11/images/http-%25252F%25252Fi.imgur.com%25252FebMt55O.png)](https://2.bp.blogspot.com/-TEnxr3QxkCw/V-GAaxAAynI/AAAAAAAABuk/XOMNCj8gzFYJViMesEM781yHYLiQ2iPEwCLcB/s1600/http-%25252F%25252Fi.imgur.com%25252FebMt55O.png)
 
   
 

@@ -17,7 +17,7 @@ Today, I have collected several best skin packs for windows. The best looking so
   
   
 
-[![](images/aliengreen10.png)](https://i0.wp.com/downloadpack.net/skin_pack/alien_ware/aliengreen10.png)
+[![](posts/2017/03/images/aliengreen10.png)](https://i0.wp.com/downloadpack.net/skin_pack/alien_ware/aliengreen10.png)
 
   
 
@@ -29,7 +29,7 @@ Grab it now [**here**](http://skinpacks.com/download/windows-7/green-alienware-s
 
   
 
-[![](images/dota10.png)](https://i0.wp.com/downloadpack.net/skin_pack/dota2/dota10.png)
+[![](posts/2017/03/images/dota10.png)](https://i0.wp.com/downloadpack.net/skin_pack/dota2/dota10.png)
 
   
 
@@ -41,7 +41,7 @@ It is just WOW! Get it **[here](https://skinpacks.com/download/windows-7/dota2-s
 
   
 
-[![](images/8.jpg)](https://i1.wp.com/downloadpack.net/skinpack/jarvis/8.jpg)
+[![](posts/2017/03/images/8.jpg)](https://i1.wp.com/downloadpack.net/skinpack/jarvis/8.jpg)
 
   
 
@@ -53,7 +53,7 @@ The third best skin pack available for Windows. Share it with your geek friends,
 
   
 
-[![](images/8.png)](https://i2.wp.com/downloadpack.net/skin_pack/ac/8.png)
+[![](posts/2017/03/images/8.png)](https://i2.wp.com/downloadpack.net/skin_pack/ac/8.png)
 
   
 
@@ -65,7 +65,7 @@ If you have some creed left in you then you must get this theme. It is based on 
 
   
 
-[![](images/71.png)](https://i0.wp.com/downloadpack.net/skin_pack/glass/71.png)
+[![](posts/2017/03/images/71.png)](https://i0.wp.com/downloadpack.net/skin_pack/glass/71.png)
 
   
 

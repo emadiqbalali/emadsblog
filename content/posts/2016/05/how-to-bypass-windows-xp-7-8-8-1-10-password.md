@@ -25,7 +25,7 @@ This trick works to remove the password from the system files in order to let yo
 2. After, you got CD or USB. Download the latest version of Kon-Boot [here](http://adf.ly/1akD9E).
 3. Now, when you open the link you should go in the zip, download this zip and extract it and follow the instruction in given picture below.
     
-    [![](images/konboot.jpg)](https://2.bp.blogspot.com/-14wacJ6miyk/V0ymI1Tnp6I/AAAAAAAABlA/hHE7wkb2JPYv5TOcOXbKqzf1BaejTTuWwCLcB/s1600/konboot.jpg)
+    [![](posts/2016/05/images/konboot.jpg)](https://2.bp.blogspot.com/-14wacJ6miyk/V0ymI1Tnp6I/AAAAAAAABlA/hHE7wkb2JPYv5TOcOXbKqzf1BaejTTuWwCLcB/s1600/konboot.jpg)
     
 4. Well, now you burned the files in CD or USB so it's time to test it!
     
@@ -35,11 +35,11 @@ This trick works to remove the password from the system files in order to let yo
     
 7. Press the key and you should see a screen like this
     
-    [![](images/kon-boot-22.png)](https://2.bp.blogspot.com/-ObVcUxnGrDA/V0yneHGwdAI/AAAAAAAABlM/7AxzYIioGrsVly5EauhMklJQ8nH4FIBuwCLcB/s1600/kon-boot-22.png)
+    [![](posts/2016/05/images/kon-boot-22.png)](https://2.bp.blogspot.com/-ObVcUxnGrDA/V0yneHGwdAI/AAAAAAAABlM/7AxzYIioGrsVly5EauhMklJQ8nH4FIBuwCLcB/s1600/kon-boot-22.png)
     
 8. Now, it will be boot into windows and you should see a screen like this 
     
-    [![](images/Default_sign_in_screen.jpg)](https://2.bp.blogspot.com/-ofkcNLBIRV0/V0yn93gTMkI/AAAAAAAABlQ/HzofpqtB5-g2F9fjpZlE2fwa_UxvKe-bQCLcB/s1600/Default_sign_in_screen.jpg)
+    [![](posts/2016/05/images/Default_sign_in_screen.jpg)](https://2.bp.blogspot.com/-ofkcNLBIRV0/V0yn93gTMkI/AAAAAAAABlQ/HzofpqtB5-g2F9fjpZlE2fwa_UxvKe-bQCLcB/s1600/Default_sign_in_screen.jpg)
     
 9. Don't Panic! Don't enter anything just press enter and you're in.
     

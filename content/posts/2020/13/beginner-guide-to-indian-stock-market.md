@@ -6,7 +6,7 @@ categories:
 tags: 
   - "investing"
   - "stock-market"
-coverImage: "money-2696228_1920.jpg"
+coverImage: "posts/2020/13/posts/2020/13/images/money-2696228_1920.jpg"
 ---
 
 We all heard about the Stock Market. There's no doubt in it. However, you still have no idea about it. You saw the charts, we have candle moving up and down. You heard so-called many **HYPOCRITICAL or INCORRECT** things about Stock Market.
@@ -63,7 +63,7 @@ This account also have a name, and it is called "DEMAT ACCOUNT" instead of a "BA
 
 ### Recommended & Beginner Friendly: UPSTOX _[Open Account](https://upstox.com/open-demat-account/?utm_source=refernearn&utm_medium=referral&landing_page=ReferAndEarn&f=5M4Y)_
 
-[![upstox account](images/eb7738e7-d908-42f5-97da-61b28e53ce73-1541314004869-300x80.png)](https://upstox.com/open-demat-account/?utm_source=refernearn&utm_medium=referral&landing_page=ReferAndEarn&f=5M4Y)
+[![upstox account](posts/2020/13/images/eb7738e7-d908-42f5-97da-61b28e53ce73-1541314004869-300x80.png)](https://upstox.com/open-demat-account/?utm_source=refernearn&utm_medium=referral&landing_page=ReferAndEarn&f=5M4Y)
 
 _Note: **If you open an account with above link, then you get the following benefits**_
 
@@ -82,7 +82,7 @@ There is no hidden charges on Upstox and everything is mentioned by them,
 
 ### Another Very Popular & Great Discount Broker: ZERODHA _[Open Account](https://zerodha.com/open-account?c=JV0108)_
 
-[![how to invest in stocks india](images/zerodha.png)](https://zerodha.com/open-account?c=JV0108 )
+[![how to invest in stocks india](posts/2020/13/images/zerodha.png)](https://zerodha.com/open-account?c=JV0108 )
 
 This is another broker and it is quite popular among many Indians and this is the reason it is the Number 1 broker in India. The great thing about this broker is the much more simplified trading platform called "Kite" (made for Android/iOS).
 
@@ -112,7 +112,7 @@ _**Let me give you a quick example,**_
 
 Everyone knows 50-50 Maska Chaska Biscuits by Britannia right? If not, see below.
 
-![](images/50-50-maska-chaska-new.png)
+![](posts/2020/13/images/50-50-maska-chaska-new.png)
 
 Ever wondered, whoever makes this biscuits and sell them are making tons of money because you have seen the little kids to grown up adults buying this tasty snacks every time.
 
@@ -138,7 +138,7 @@ Now, in 2020, my Rs 1,44,700 turns into Rs 3,95,000
 
 Here's a quick look at my returns of investment.
 
-![roi britannia](images/Screenshot-1.png)
+![roi britannia](posts/2020/13/images/Screenshot-1.png)
 
 Return on Investment After 4 Years From Britannia
 
@@ -150,11 +150,11 @@ All the shares will be stored in the DEMAT account which you can keep track on t
 
 To get an idea, I shared screenshot from my both DEMAT accounts, i.e, Upstox & Zerodha
 
-![beginner guide to indian stock market](images/upstox-pl-473x1024.jpg)
+![beginner guide to indian stock market](posts/2020/13/images/upstox-pl-473x1024.jpg)
 
 UPSTOX P&L
 
-![zerodha p&l](images/zerodha-pl-473x1024.jpg)
+![zerodha p&l](posts/2020/13/images/zerodha-pl-473x1024.jpg)
 
 ZERODHA P&L
 
@@ -172,7 +172,7 @@ Read this: **[How To Pick Stocks For Trading Or Holding?](https://sastaeinstein.
 
 - As it is a beginner guide to Indian Stock Market, so if you're a beginner then never invest in whatever companies you see. At least, visit [Screener](https://screener.in) or [TickerTape](https://tickertape.in) for analyzing the company. TickerTape is a good platform that shows you a lot of information about the company that can help you in deciding whether to invest in a company or not. It also gives quick insights into the company, as shown below
 
-![](images/reliance.png)
+![](posts/2020/13/images/reliance.png)
 
 - If you don't want to loose much money or want to invest in much safer way, **try to stick with well known companies** and invest in them to hold longer. There is no easy money, neither the companies are going to grow 2x faster. Hold the shares for the future, make a goal.
 

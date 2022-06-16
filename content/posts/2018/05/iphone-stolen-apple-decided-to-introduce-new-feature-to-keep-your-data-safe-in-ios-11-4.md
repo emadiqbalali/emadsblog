@@ -11,7 +11,7 @@ Practically, they are currently working on this feature in iOS 11.4 Beta.
   
   
 
-[![](images/3%2BTechnologies%2Bof%2Bthe%2Bfuture%2B%25281%2529.png)](https://4.bp.blogspot.com/-abHTOSar4ag/WvYHmDu2npI/AAAAAAAAQeM/B1up1hR8Z68Isz2j005LuTS-N22o2egdwCLcBGAs/s1600/3%2BTechnologies%2Bof%2Bthe%2Bfuture%2B%25281%2529.png)
+[![](posts/2018/05/images/3%2BTechnologies%2Bof%2Bthe%2Bfuture%2B%25281%2529.png)](https://4.bp.blogspot.com/-abHTOSar4ag/WvYHmDu2npI/AAAAAAAAQeM/B1up1hR8Z68Isz2j005LuTS-N22o2egdwCLcBGAs/s1600/3%2BTechnologies%2Bof%2Bthe%2Bfuture%2B%25281%2529.png)
 
   
 

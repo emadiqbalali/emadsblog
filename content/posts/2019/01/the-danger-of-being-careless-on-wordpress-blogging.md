@@ -24,7 +24,7 @@ Mistakes happen when you're being careless. I am going to share some of the dang
 
 - **Monetizing Wrong Way:** Before you make a big step like setting up another Ad network along with Google or using of URL Shortening for extra income. If you are currently monetizing your blog with Google Adsense then you need to be more careful using another Ad network which uses Popup ads. **It is better if you don't use any other Ad** network along with Google Adsense. **You need to read Google Adsense Policies.**
 
-[![Link5s referral earn money online emads blog](images/banner-affilate-1024x127.png)](https://link5s.co/ref/e7z7Qhnx)
+[![Link5s referral earn money online emads blog](posts/2019/01/images/banner-affilate-1024x127.png)](https://link5s.co/ref/e7z7Qhnx)
 
 [Earn & Monetize Your Site With Highest CPC Rates!](https://link5s.co/ref/e7z7Qhnx)
 

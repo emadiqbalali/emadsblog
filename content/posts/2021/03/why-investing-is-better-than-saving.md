@@ -9,7 +9,7 @@ tags:
   - "investing"
   - "mutual-funds"
   - "stock-market"
-coverImage: "business-3462518_1920.jpg"
+coverImage: "posts/2021/03/posts/2021/03/images/business-3462518_1920.jpg"
 ---
 
 **I'm better off saving in my bank account. I don't want the exposure of risk** but hear me out on why Investing is better than saving?
@@ -42,7 +42,7 @@ However, if you see other developed countries like the **United States has an in
 
 According to [ScripBox](https://scripbox.com/mf/is-1-crore-enough-after-15-years-for-all-your-needs/), at an inflation rate of 7%, your 1 Crore in the future will be as follows
 
-![](images/image.png)
+![](posts/2021/03/images/image.png)
 
 From the above table, you get an idea of where your saved 1 Crore rupees will stand in the future, i.e,
 

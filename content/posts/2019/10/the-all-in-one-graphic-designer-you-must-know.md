@@ -11,7 +11,7 @@ coverImage: "emadsblog.com_youtubethumb__EDIT.org_.jpg"
 
 <iframe width="728" height="90" frameborder="0" scrolling="no" src="https://widget.cuelinks.com/widgets/43371?cid=62638"></iframe>
 
-![_the_coolest graphic desig_logos__EDIT.org](images/the_coolest-graphic-desig_logos__EDIT.org_-oezgbpm52qvhbqqdmjl85racnl2uy9neru8bkokvsm.png "_the_coolest graphic desig_logos__EDIT.org")
+![_the_coolest graphic desig_logos__EDIT.org](posts/2019/10/images/the_coolest-graphic-desig_logos__EDIT.org_-oezgbpm52qvhbqqdmjl85racnl2uy9neru8bkokvsm.png "_the_coolest graphic desig_logos__EDIT.org")
 
 # The Best Graphic Designer Online
 

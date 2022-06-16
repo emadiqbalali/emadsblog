@@ -18,7 +18,7 @@ coverImage: "Tik_Tok_wordmark.png"
 > 
 > Disclaimer
 
-![Tiktok Banned in India. How to download tiktok on iPhone](images/Tik_Tok_wordmark-1024x328.png)
+![Tiktok Banned in India. How to download tiktok on iPhone](posts/2019/04/images/Tik_Tok_wordmark-1024x328.png)
 
 It's exactly like the **[Vine](https://www.theverge.com/2016/10/28/13456208/why-vine-died-twitter-shutdown)** App moment in India. Previously, it was the same situation back when Vine announced to stop their service back in 2016.
 

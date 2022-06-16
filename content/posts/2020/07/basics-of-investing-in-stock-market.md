@@ -32,7 +32,7 @@ To buy and sell shares, you need to have licensed professionals. They are regist
 
 Below are the recommended stockbrokers and are best in term of brokerage charges and pricing. The **Upstox** offers to open Demat account for free while **Zerodha** charges around Rs 200 to open the account.
 
- [![](images/upstox-logo-1.png)](https://sastaeinstein.com/go/upstox) [![zerodha-logo-tagline](images/zerodha-logo-tagline-ouywl9lwy1jh8ayds4bet570ew826pt4wtlwdtiumc.jpg "zerodha-logo-tagline")](https://sastaeinstein.com/go/zerodha) 
+ [![](posts/2020/07/images/upstox-logo-1.png)](https://sastaeinstein.com/go/upstox) [![zerodha-logo-tagline](posts/2020/07/images/zerodha-logo-tagline-ouywl9lwy1jh8ayds4bet570ew826pt4wtlwdtiumc.jpg "zerodha-logo-tagline")](https://sastaeinstein.com/go/zerodha) 
 
 ### BSE & NSE
 

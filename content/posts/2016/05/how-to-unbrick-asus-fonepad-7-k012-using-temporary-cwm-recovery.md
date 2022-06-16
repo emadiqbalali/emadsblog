@@ -11,7 +11,7 @@ Keep reading until your device is ready to use once again.
 
 **Update 1 (Feb 17, 2022): All Links in this post has been rectified.**
 
-![Unbrick Fonepad 7](images/How-to-unbrick-fonepad-7-k012_-1.png)
+![Unbrick Fonepad 7](posts/2016/05/images/How-to-unbrick-fonepad-7-k012_-1.png)
 
 ## My Story, What Made My FonePad To Get Bricked?
 

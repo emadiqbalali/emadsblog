@@ -22,7 +22,7 @@ Are you scared of sun or most probably getting tanned? Keep on reading, I got yo
 
 ## **Is Getting Tanned Normal?**
 
-![Protect Yourself This Summer](images/cover-cute-daylight-1698482-1024x604.jpg)
+![Protect Yourself This Summer](posts/2019/03/images/cover-cute-daylight-1698482-1024x604.jpg)
 
 There are a lot of people who think that getting tan is a pretty common thing and a healthy lifestyle. In fact, it is a myth. Sunburn clearly damages your immune system hence making you more likely to catch infectious illness or disease.
 

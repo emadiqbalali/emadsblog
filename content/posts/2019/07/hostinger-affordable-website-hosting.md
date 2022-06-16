@@ -26,13 +26,13 @@ I am totally not messing with you guys, I am recommending this hosting because i
 
 ## Hostinger - The Affordable Website Hosting Provider
 
-[![hostinger hosting](images/en-728x90-1.png)](https://www.hostg.xyz/SH1fT)
+[![hostinger hosting](posts/2019/07/images/en-728x90-1.png)](https://www.hostg.xyz/SH1fT)
 
 If you're just starting out a new blog, then **[Hostinger](https://www.hostg.xyz/SH1fT)** is the best choice to go for. It provides free **domain & SSL** and is WordPress optimized. Till now, I haven't encountered any downtime till now.
 
 **Here is the GTMetrix Results of my blog hosted on Hostinger,**
 
-![sastaeinstien hostinger speed test](images/Clipboard-4-1024x360.jpg)
+![sastaeinstien hostinger speed test](posts/2019/07/images/Clipboard-4-1024x360.jpg)
 
 This is the quick Hostinger Hosting Review
 
@@ -46,7 +46,7 @@ This is the quick Hostinger Hosting Review
 
 Although I am not saying it can be the only affordable hosting for websites but here is the quick look at the comparison of Top 3 Web Hosting Providers
 
-![top 3 web hosting providers](images/Price-comparison.png)
+![top 3 web hosting providers](posts/2019/07/images/Price-comparison.png)
 
 **Don't worry, I know you don't know that jargons but no need to worry, they all have it, and having it is the best thing for hosting. That's all you need to know.**
 
@@ -63,7 +63,7 @@ To make your website, you need to go through just 4 steps.
 
 ## Hostinger Not Only Provides Affordable Hosting For Websites But Have All Plans
 
-[![Hostinger Plans for everyone](images/Plans-for-everyone-670x1024.png)](https://sastaeinstein.com/go/hostinger)
+[![Hostinger Plans for everyone](posts/2019/07/images/Plans-for-everyone-670x1024.png)](https://sastaeinstein.com/go/hostinger)
 
 ## Still Confused? Let Me Make It From Scratch For You
 

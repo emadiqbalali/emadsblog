@@ -11,7 +11,7 @@ tags:
 coverImage: "business-cash-commerce-414825.jpg"
 ---
 
-[![Get your website verified for Google Adsense in 1 day](images/business-cash-commerce-414825-1024x683.jpg)](https://sastaeinstein.com/?attachment_id=952)
+[![Get your website verified for Google Adsense in 1 day](posts/2018/12/images/business-cash-commerce-414825-1024x683.jpg)](https://sastaeinstein.com/?attachment_id=952)
 
 In a normal day, I get more than 25 requests a day for answering this question. Quora, FaceBook, Instagram, & Twitter everyone dropping this question made me write this article which will help you in getting your website verified within a day or two at Google Adsense.
 
@@ -53,7 +53,7 @@ If your website has good quality content and doesn't violate any of the requirem
 > 
 > Once verified, your blog must follow their requirements given above until the Ads are displaying on your site. If you fail to do so, your account will be issued with a warning or may even result in ban of account without prior notice or warning.
 
-[![Web Hosting](images/web_hosting_in.png)](https://www.crazydomains.in?a=mpMjgoDltrju9NI8VdIzDg%3D%3D)
+[![Web Hosting](posts/2018/12/images/web_hosting_in.png)](https://www.crazydomains.in?a=mpMjgoDltrju9NI8VdIzDg%3D%3D)
 
 ### Conclusions:
 

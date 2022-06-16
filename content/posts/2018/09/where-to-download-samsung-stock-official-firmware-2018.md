@@ -15,7 +15,7 @@ To be honest [SamMobile](https://www.sammobile.com/), please upgrade your free p
 As we all know, there was a trick to download the firmware from SamMobile using their utility app called '**SamFirm'** at higher speeds**.** It is now discontinued or removed from its existence for some reason. (Maybe we know the reason, $$$)  
   
 
-[![SamMobile Samsung Firmware Download SamFirm - Emad's Blog](images/38-2BMind-2Bblowing-2Binspirational-2Bquotes-min-300x169.png)](https://sastaeinstein.com/wp-content/uploads/2018/09/38-2BMind-2Bblowing-2Binspirational-2Bquotes-min.png)
+[![SamMobile Samsung Firmware Download SamFirm - Emad's Blog](posts/2018/09/images/38-2BMind-2Bblowing-2Binspirational-2Bquotes-min-300x169.png)](https://sastaeinstein.com/wp-content/uploads/2018/09/38-2BMind-2Bblowing-2Binspirational-2Bquotes-min.png)
 
   
   

@@ -14,7 +14,7 @@ coverImage: "Font-Not-Supported-Error_.jpg"
 > I also don't have a Samsung device to test it out personally. I used my friend's device last time to post this. Please comment if the new method works. The previous method doesn't seem to work for many readers. I have included a new method and I hope it works and if it doesn't then we are out of luck, and let's hope that Samsung enables the feature of using a custom font,  
 > **[Read Updated Method...](#updatedmethod)**
 
-Are you coming from the page where you found amazing [Samsung Flipfonts](https://sastaeinstein.com/2018/11/cool-fonts-samsung-galaxy.html) which took away your eyes and unfortunately all you see is the error "**The Font Is Not Supported. Please contact the Developer. Uninstall this font?".**
+Are you coming from the page where you found amazing [Samsung Flipfonts](https://sastaeinstein.com/cool-fonts-samsung-galaxy.html) which took away your eyes and unfortunately all you see is the error "**The Font Is Not Supported. Please contact the Developer. Uninstall this font?".**
 
 Well, I have a way to figure it out easily without rooting your device or doing anything complicated.
 
@@ -28,7 +28,7 @@ It's pretty easy if you follow the steps closely and there's nothing technical i
 
 ### Step 1: Download The APK of Font For Flipfonts
 
-If you cannot find a good font to install then here are some fonts which look cool. [Download Cool Fonts For Flipfonts APK](https://sastaeinstein.com/2018/11/cool-fonts-samsung-galaxy.html).
+If you cannot find a good font to install then here are some fonts which look cool. [Download Cool Fonts For Flipfonts APK](https://sastaeinstein.com/cool-fonts-samsung-galaxy.html).
 
 Apart from this, my personal favourite is [](https://apkmeet.com/en/apk/1365320-com.monotype.android.font.agent) **[Agent](https://apkmeet.com/en/apk/1365320-com.monotype.android.font.agent)** [](https://apkmeet.com/en/apk/1365320-com.monotype.android.font.agent) **[Latina](https://apkmeet.com/en/apk/1365320-com.monotype.android.font.agent)** [Font](https://apkmeet.com/en/apk/1365320-com.monotype.android.font.agent) which looks bold and cool at the same time. Looks totally badass on my Samsung Galaxy S8. Check out how it looks below and I am using **High Contrast II** theme from Galaxy Theme Store just in case if you're willing to know.
 

@@ -7,7 +7,7 @@ tags:
   - "english-for-indian"
   - "improve-english"
   - "learn-english"
-coverImage: "girl-2771936_1920.jpg"
+coverImage: "posts/2020/11/girl-2771936_1920.jpg"
 ---
 
 Are you embarrassed already that you can't understand the **COMPLEX** words from a book or magazine?

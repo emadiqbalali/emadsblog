@@ -25,7 +25,7 @@ Let's come to the point of this article, know the name of the book and author?
 
 Then, just search for it here at this website and get your copy in PDF to read it on your PC, Laptop or your Kindle.  
 
-[![Get any book for free in PDF format ](images/booksee.png)](http://alhikmah.edu.ng/wp-content/uploads/2015/01/booksee.png)
+[![Get any book for free in PDF format ](posts/2017/06/images/booksee.png)](http://alhikmah.edu.ng/wp-content/uploads/2015/01/booksee.png)
 
 A best and largest E-book library on the internet is enough to impress you. You can get almost every book according to me. However, some of the rare ones are not available.
 

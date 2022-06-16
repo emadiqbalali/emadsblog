@@ -11,7 +11,7 @@ A Leshi Internet Information and technology company known as Letv (Before) and n
   
   
 
-[![](images/gsmarena_002.jpg)](http://cdn.gsmarena.com/imgroot/reviews/16/letv-le-1s/preview//lifestyle/-728w2/gsmarena_002.jpg)
+[![](posts/2016/10/images/gsmarena_002.jpg)](http://cdn.gsmarena.com/imgroot/reviews/16/letv-le-1s/preview//lifestyle/-728w2/gsmarena_002.jpg)
 
   
 

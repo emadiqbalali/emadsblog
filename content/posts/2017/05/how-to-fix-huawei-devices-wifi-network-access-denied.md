@@ -10,7 +10,7 @@ Today, we'll take look at the Huawei Devices such as Huawei P8 Lite, P8 and othe
 Are you facing this same issue in the picture given below? Then you're at the right place!  
   
 
-[![](images/Screenshot_2016-06-14-06-41-12.png)](https://2.bp.blogspot.com/-yNOA0A-zYic/WS7LaPEFMoI/AAAAAAAAFso/_M6IApNxyygcm5jXVmmgzEvftO9m0xHogCLcB/s1600/Screenshot_2016-06-14-06-41-12.png)
+[![](posts/2017/05/images/Screenshot_2016-06-14-06-41-12.png)](https://2.bp.blogspot.com/-yNOA0A-zYic/WS7LaPEFMoI/AAAAAAAAFso/_M6IApNxyygcm5jXVmmgzEvftO9m0xHogCLcB/s1600/Screenshot_2016-06-14-06-41-12.png)
 
   
 **To fix this issue:**  

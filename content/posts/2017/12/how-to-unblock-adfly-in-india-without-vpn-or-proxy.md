@@ -8,7 +8,7 @@ Hola everyone! Welcome to my blog. Hope your day is already going better? Take a
 Recently, while logging into my Adfly account I noticed that Indian government literally blocked it. Here is the screenshot of it just in case you wanted to see how it looks like.  
   
 
-[![](images/adf.png)](https://2.bp.blogspot.com/-ZpsZLJJpXWc/WjLv3ys5OHI/AAAAAAAAKzU/xWTp4lUiv5cIUHrtvk7sclY_qYHds082QCLcBGAs/s1600/adf.png)
+[![](posts/2017/12/images/adf.png)](https://2.bp.blogspot.com/-ZpsZLJJpXWc/WjLv3ys5OHI/AAAAAAAAKzU/xWTp4lUiv5cIUHrtvk7sclY_qYHds082QCLcBGAs/s1600/adf.png)
 
   
 I was now searching a way to unblock it without actually using those free shitty VPN or proxy which slows down your internet and requires you to go through many steps to connect VPN every time. It sucks at least for me.  
@@ -18,7 +18,7 @@ After a long search online here and there, I found a better way to access [Adf.l
 Have a look here at this screenshot. Isn't it simple?  
   
 
-[![](images/adf.png)](https://3.bp.blogspot.com/-SZMBcljZavg/WjLxFIlZSeI/AAAAAAAAKzg/SpbVE0jWfLAWAV5s8GPVCS2fkTAjCLJgQCLcBGAs/s1600/adf.png)
+[![](posts/2017/12/images/adf.png)](https://3.bp.blogspot.com/-SZMBcljZavg/WjLxFIlZSeI/AAAAAAAAKzg/SpbVE0jWfLAWAV5s8GPVCS2fkTAjCLJgQCLcBGAs/s1600/adf.png)
 
   
 Try it now and enjoy! If you like my article, subscribe to us and read my other articles as well it might be useful for you. Thanks and keep visiting us.

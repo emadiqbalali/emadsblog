@@ -13,7 +13,7 @@ Xiaomi claimed to give you a new era of display that is 18:9 full view display w
 
 ## Redmi Note 5
 
-## [![](images/RedmiNote5.png)](https://2.bp.blogspot.com/-aNFNKtUow7I/Wq1rfiifkEI/AAAAAAAANyw/u4xathteE74EdG9sID2Mqi6Owsp1lBhIgCLcBGAs/s1600/RedmiNote5.png)
+## [![](posts/2018/03/images/RedmiNote5.png)](https://2.bp.blogspot.com/-aNFNKtUow7I/Wq1rfiifkEI/AAAAAAAANyw/u4xathteE74EdG9sID2Mqi6Owsp1lBhIgCLcBGAs/s1600/RedmiNote5.png)
 
   
 
@@ -40,15 +40,15 @@ We can say that the camera on Redmi Note 5 has really improved than its predeces
 
   
 
-[![Redmi Note 5 Camera Sample](images/IMG_20180317_181940.jpg)](https://1.bp.blogspot.com/--N285VfYWuM/WrFoWTtbIBI/AAAAAAAAOCQ/jPM7_8N1XBsNXJ2Z1Pp3s_H70xoPO2lFgCLcBGAs/s1600/IMG_20180317_181940.jpg)
+[![Redmi Note 5 Camera Sample](posts/2018/03/IMG_20180317_181940.jpg)](https://1.bp.blogspot.com/--N285VfYWuM/WrFoWTtbIBI/AAAAAAAAOCQ/jPM7_8N1XBsNXJ2Z1Pp3s_H70xoPO2lFgCLcBGAs/s1600/IMG_20180317_181940.jpg)
 
   
 
-[![Redmi Note 5 Camera Sample](images/IMG_20180318_155734.jpg)](https://2.bp.blogspot.com/-OHAmo9RT-S0/WrFoWQF_EMI/AAAAAAAAOCM/AIRD1koHhxwoXIyM2QqpQV9z-5zPvqqBACLcBGAs/s1600/IMG_20180318_155734.jpg)
+[![Redmi Note 5 Camera Sample](posts/2018/03/IMG_20180318_155734.jpg)](https://2.bp.blogspot.com/-OHAmo9RT-S0/WrFoWQF_EMI/AAAAAAAAOCM/AIRD1koHhxwoXIyM2QqpQV9z-5zPvqqBACLcBGAs/s1600/IMG_20180318_155734.jpg)
 
   
 
-[![Redmi Note 5 Camera Sample](images/IMG_20180319_182222.jpg)](https://3.bp.blogspot.com/-ChXoC4nNojY/WrFoWS3ObFI/AAAAAAAAOCU/ebsqk0sGpoQPyVmWHtMI_91gVVusDCwdwCLcBGAs/s1600/IMG_20180319_182222.jpg)
+[![Redmi Note 5 Camera Sample](posts/2018/03/IMG_20180319_182222.jpg)](https://3.bp.blogspot.com/-ChXoC4nNojY/WrFoWS3ObFI/AAAAAAAAOCU/ebsqk0sGpoQPyVmWHtMI_91gVVusDCwdwCLcBGAs/s1600/IMG_20180319_182222.jpg)
 
   
 

@@ -16,7 +16,7 @@ tags:
 coverImage: "Motivation.jpg"
 ---
 
-![How & Why I Use Quora? What is my motivation in life?](images/accounts-applications-apps-267350-1024x743.jpg)
+![How & Why I Use Quora? What is my motivation in life?](posts/2018/12/images/accounts-applications-apps-267350-1024x743.jpg)
 
 Hey Guys! The 2018 is almost ending and 2019 is almost here.
 
@@ -91,7 +91,7 @@ We all have talents. My talent is grabbing knowledge from here and there and res
 
 Several people asked me about my IQ levels. I gave try to some online test and scored around **118**. It stated that it means above average!
 
-[![IQ Test](images/l118.gif)](http://www.free-iqtest.net "IQ Test")  
+[![IQ Test](posts/2018/12/images/l118.gif)](http://www.free-iqtest.net "IQ Test")  
 [IQ Test](http://www.free-iqtest.net "IQ Test")
 
 I am not extraordinary or Einstein, yes the fact is I do have resemblance with his Hairs though. Many of my teachers and friends say that. Also, I get similar questions outside and good amount of stares.
@@ -112,7 +112,7 @@ Being a polyglot, English is my strongest language. However, not perfect. I have
 
 That is how I improved my English so far. I'm still learning. My vocabulary is not up to the mark. I use Grammarly to track my performance. Take a look at this week performance below.
 
-![](images/Grammarly.jpg)
+![](posts/2018/12/images/Grammarly.jpg)
 
 > When I can do it, then you can too!
 

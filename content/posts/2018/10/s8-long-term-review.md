@@ -10,7 +10,7 @@ tags:
 coverImage: "images.jpg"
 ---
 
-![Galaxy S8 Long Term Review ](images/Samsung_Galaxy_S8_Colors_Leak-2.jpg)
+![Galaxy S8 Long Term Review ](posts/2018/10/images/Samsung_Galaxy_S8_Colors_Leak-2.jpg)
 
 Are we talking about S8 again? Yes. S8 Long Term Review with Honesty. There was absolutely no phone with this crispy and gorgeous display before Samsung Galaxy S8. 
 

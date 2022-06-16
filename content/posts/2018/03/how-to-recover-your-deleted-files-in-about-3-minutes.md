@@ -10,7 +10,7 @@ Deleted a folder which contains all your important stuff or memories? You're at 
 Let's see how can we do it.  
   
 
-[![](images/how-to-recover-deleted-file-from-your-pc.jpg)](https://4.bp.blogspot.com/-TqUXdKE9HEI/Wpg1y_rtXHI/AAAAAAAANWg/sYu1JAkMflc8Zc8V8hRnYS0ut14xZe_PgCLcBGAs/s1600/how-to-recover-deleted-file-from-your-pc.jpg)
+[![](posts/2018/03/images/how-to-recover-deleted-file-from-your-pc.jpg)](https://4.bp.blogspot.com/-TqUXdKE9HEI/Wpg1y_rtXHI/AAAAAAAANWg/sYu1JAkMflc8Zc8V8hRnYS0ut14xZe_PgCLcBGAs/s1600/how-to-recover-deleted-file-from-your-pc.jpg)
 
   
   

@@ -13,7 +13,7 @@ Professional, they say. What do they mean exactly by the term professional? Toda
 
 Disclaimer: _I'm writing this article in the easiest way I can so that you can get my point right away. Therefore, I have mentioned two types of writing skills according to me. If you go deep, there are actually four types of writing skills/styles which are namely Expository, Descriptive, Persuasive, & Narrative._
 
-[![Improve Writing Skills in English - Emad's Blog ](images/25E2-2580-25A2-2BStudent-2Bcouncil-2Btips-2B-25E2-2580-25A2-300x169.jpg)](https://sastaeinstein.com/wp-content/uploads/2018/09/25E2-2580-25A2-2BStudent-2Bcouncil-2Btips-2B-25E2-2580-25A2.jpg)
+[![Improve Writing Skills in English - Emad's Blog ](posts/2018/09/images/25E2-2580-25A2-2BStudent-2Bcouncil-2Btips-2B-25E2-2580-25A2-300x169.jpg)](https://sastaeinstein.com/wp-content/uploads/2018/09/25E2-2580-25A2-2BStudent-2Bcouncil-2Btips-2B-25E2-2580-25A2.jpg)
 
 ## Two Types of Writing Skills:
 

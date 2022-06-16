@@ -19,4 +19,4 @@ You get shrinked URL on your subdomain like **ads.yourdomain.com/1.**  Now when
 
 **Here is the proof that AdFly paid my first $5.**
 
-[![](images/Untitled.png)](https://4.bp.blogspot.com/-l5t9nr4SaPM/WCXSRbtqu-I/AAAAAAAADjE/D08zLjGw7Es50_0PxsHlORAIaJBpmty8ACLcB/s1600/Untitled.png)
+[![](posts/2016/11/images/Untitled.png)](https://4.bp.blogspot.com/-l5t9nr4SaPM/WCXSRbtqu-I/AAAAAAAADjE/D08zLjGw7Es50_0PxsHlORAIaJBpmty8ACLcB/s1600/Untitled.png)

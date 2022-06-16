@@ -21,7 +21,7 @@ The huge aircraft with capacity of 500 passengers? Any idea? If you're an [Aircr
 
 For those who don't, here's the **[Airbus A380](https://sastaeinstein.com/tag/airbus-a380/ "Airbus A380") by Emirates.**
 
-![why you should book flight by aircraft types](images/airbus-4773820_1920-1024x683.jpg)
+![why you should book flight by aircraft types](posts/2020/02/images/airbus-4773820_1920-1024x683.jpg)
 
 Huge right? Look closely, it's a damn **Double Decker** aircraft!
 

@@ -10,7 +10,7 @@ Getting into a relationship teaches you amazing ways to live your life to the fu
 
 Yes, we are. Before starting I would like to tell you that "By far, this is the most requested post for me. I had to think and compile all those issues lying around in relationships today to give you an idea of how it can go seamlessly without any problems".
 
-[![](images/be-a-beast-grind-while-others-sleep-2-1024x1024.png)](https://sastaeinstein.com/wp-content/uploads/2018/11/be-a-beast-grind-while-others-sleep-2.png)
+[![](posts/2018/10/images/be-a-beast-grind-while-others-sleep-2-1024x1024.png)](https://sastaeinstein.com/wp-content/uploads/2018/11/be-a-beast-grind-while-others-sleep-2.png)
 
 ### Essential Guide To Keep Your Relationship Intact: Love, Brain & More.
 

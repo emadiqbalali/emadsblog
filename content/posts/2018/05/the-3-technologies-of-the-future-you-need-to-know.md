@@ -9,7 +9,7 @@ categories:
 
 Ever heard about future technologies? Everyone knows Robot and also knows that they will be made into the future soon. When we talk about robots, they come up with technology right? They are the machine after all. All machines work on technology, a piece of scientific knowledge.
 
-[![Top 3 technologies of the future - Emad's Blog](images/3%2BTechnologies%2Bof%2Bthe%2Bfuture.png)](https://3.bp.blogspot.com/-Vpc-ssxRx-A/Wu97SY5sIVI/AAAAAAAAQYE/w3ZLv4kvfQw5kmA9yEmxqwJeeFAB9bn2QCLcBGAs/s1600/3%2BTechnologies%2Bof%2Bthe%2Bfuture.png)
+[![Top 3 technologies of the future - Emad's Blog](posts/2018/05/images/3%2BTechnologies%2Bof%2Bthe%2Bfuture.png)](https://3.bp.blogspot.com/-Vpc-ssxRx-A/Wu97SY5sIVI/AAAAAAAAQYE/w3ZLv4kvfQw5kmA9yEmxqwJeeFAB9bn2QCLcBGAs/s1600/3%2BTechnologies%2Bof%2Bthe%2Bfuture.png)
 
 In this article, we are going to know about 3 Technologies of the future. Don't worry about those robots I discussed. The technology they used to learn what they are made to is discussed in the technologies of the future I am going to tell you. Let's get started with those 3 technologies from the future.
 

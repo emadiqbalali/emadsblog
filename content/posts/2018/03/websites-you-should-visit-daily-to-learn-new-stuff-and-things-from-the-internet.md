@@ -10,7 +10,7 @@ Uhh, hey, Do you track down websites you're visiting on daily basis? Many of us,
 
 But, wait. We're here to show you some of the websites you should visit daily to shoot up your knowledge for sure. The more you read, the more intelligent you become. It might be the life-changing habit for many of our readers out there.
 
-[![](images/22.png)](https://3.bp.blogspot.com/-fhnF1Q0MB-c/Wr0oGRp1qRI/AAAAAAAAOxs/Xn6kBeVYGyISvxCMUfSZhnVGvjpbIC09gCLcBGAs/s1600/22.png)
+[![](posts/2018/03/images/22.png)](https://3.bp.blogspot.com/-fhnF1Q0MB-c/Wr0oGRp1qRI/AAAAAAAAOxs/Xn6kBeVYGyISvxCMUfSZhnVGvjpbIC09gCLcBGAs/s1600/22.png)
 
 **The 10 Magical Websites You Should Visit Daily**
 

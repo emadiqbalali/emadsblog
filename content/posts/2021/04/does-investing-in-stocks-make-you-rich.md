@@ -6,7 +6,7 @@ categories:
 tags: 
   - "investing"
   - "stocks"
-coverImage: "Stocks-Millionaire.png"
+coverImage: "posts/2021/04/images/Stocks-Millionaire.png"
 ---
 
 Investing in stocks to get rich is true but there's a whole list of things behind it and lot of patience. If you don't have patience then don't ask yourself "Does Investing In Stocks Make You Rich?".

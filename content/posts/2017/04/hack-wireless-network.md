@@ -49,7 +49,7 @@ If you're using Kali Linux then you can skip this step. Kali Linux have all pent
 - If such thing happens, then it is not possible to crack the WPA/WPA2 password using Reaver. You can still put your dictionary on work by bruteforcing the handshake of target network.
 - If you happen to be lucky enough, the PIN will be cracked within a matter of minutes or hours. The end results of successful attack is given below.
 
-[![](images/Screenshot%2Bfrom%2B2013-06-04%2B20-48-55.png)](http://3.bp.blogspot.com/-lVrf4583FcE/VesBl57-xvI/AAAAAAAAARc/BDhoOEPFdAI/s1600/Screenshot%2Bfrom%2B2013-06-04%2B20-48-55.png)
+[![](posts/2017/04/images/Screenshot%2Bfrom%2B2013-06-04%2B20-48-55.png)](http://3.bp.blogspot.com/-lVrf4583FcE/VesBl57-xvI/AAAAAAAAARc/BDhoOEPFdAI/s1600/Screenshot%2Bfrom%2B2013-06-04%2B20-48-55.png)
 
 If you want to learning hacking then checkout [amazing source to hacking guides](https://allabouthacking.com). They have amazing content to protect yourself from hackers and also learn their techniques to become a hacker yourself. They explain hackers and get you the truth.
 

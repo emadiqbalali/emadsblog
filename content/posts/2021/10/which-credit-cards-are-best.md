@@ -3,7 +3,7 @@ title: "[2021] Which Credit Cards Are Best?"
 date: "2021-10-15"
 categories: 
   - "stock-market"
-coverImage: "Credit-Card-are-best.png"
+coverImage: "posts/2021/10/posts/2021/10/images/Credit-Card-are-best.png"
 ---
 
 Are you looking to increase your credit score or do you still don't have any score? To be honest, you're not alone. I am going to cover up all about the credit cards available in India for you. Credit Cards aren't some fancy financial instruments to have, they give you stability and help you save some amount of money for using them effectively.
@@ -13,7 +13,7 @@ Indeed, it is not your money and is a type of unsecured loan provided to you by 
 However, if you don't know how to use actually use them then you might end up in the solid trap. Let me tell you the disadvantages of Credit Cards **if you default** on the bills and so on.
 
 1. Very High Interest Rate charged by most of the banks typically ranging from **35-45%**
-2. Impact your [credit score](https://emadsblog.com/how-to-improve-credit-score-2021/) severely such that you can't get a loan in future or even though if you get you will attract much higher interest rates.
+2. Impact your [credit score](https://sastaeinstein.com/how-to-improve-credit-score-2021/) severely such that you can't get a loan in future or even though if you get you will attract much higher interest rates.
 3. You have to use it for personal use. **Any commercial use might lead to cancellation of your card immediately.**
 
 * * *
@@ -32,7 +32,7 @@ Let's get into the list and find out which credit cards are best.
 
 ### #1 - ICICI Amazon Pay Credit Card
 
-![Amazon Pay ICICI credit card: Instant digital credit card with unlimited  rewards - About Amazon India](images/cbcc-card-3x.jpg)
+![Amazon Pay ICICI credit card: Instant digital credit card with unlimited  rewards - About Amazon India](posts/2021/10/images/cbcc-card-3x.jpg)
 
 This card is for the one who regularly shops on Amazon for their daily needs or essentials as well as pay bills and much more. Apart from this, this card comes with a **ZERO** annual fee and is best suited for Shopping.
 
@@ -71,7 +71,7 @@ Why Slice Super Card?
 
 ### #3 - OneCard - India's First Metal Card
 
-![First Metal Credit Card: OneCard Review & How You Can Get One? | Sasta  Einstein](images/OneCard-scaled.jpg)
+![First Metal Credit Card: OneCard Review & How You Can Get One? | Sasta  Einstein](posts/2021/10/images/OneCard-scaled.jpg)
 
 This is another great card to go off with. I really like the idea of points in this card. I have reviewed this card in-depth on my other blog. You can [read it here.](https://sastaeinstein.com/onecard-credit-card-review/)
 
@@ -92,7 +92,7 @@ Apply Now
 
 ### #4 - HDFC Millennia Credit Card
 
-![Millennia Credit Card](images/Millennia-CC.png)
+![Millennia Credit Card](posts/2021/10/images/Millennia-CC.png)
 
 It is one of the cards made for Millennials and is a cashback card. It is offered by one of the leading banks in India, HDFC Bank. No wonder, they have strict guidelines when approving Credit Cards, however, if you have an account with them then you will get it approved easily considering that you have good credit history and score.
 
@@ -112,7 +112,7 @@ If you have a decent score then you can easily get this card. Why HDFC Millennia
 
 ### #5 - Axis ACE Credit Card
 
-![Axis Bank Launches ACE Credit Card with 2% Cashback on regular spends –  CardExpert](images/axis-bank-ace-credit-card-1.jpg)
+![Axis Bank Launches ACE Credit Card with 2% Cashback on regular spends –  CardExpert](posts/2021/10/images/axis-bank-ace-credit-card-1.jpg)
 
 One of the card that offers no upper limit on cashback earned, yes and that's unlimited cashback. This card can be used for paying your bills and get 5% cashback on DTH, Electricity, Gas, Internet and more on **Google Pay.** While if you're a foodie, you get 4% cashback on Zomato, Swiggy & also OLA while 2% for all the other spends.
 

@@ -8,7 +8,7 @@ Hola, everyone! Welcome to Emad's  Blog.
 Since, it's been a while I saw a lot of people actually complaining about their Smartphones battery life. It's kind of people ideology to always complain about the smartphone manufacturer without actually looking at what's wrong they are doing that make the battery life degrade so easily!  
   
 
-[![](images/573a895dc71668131574ac8311a83082-e1422397371249-1940x1091.jpeg)](http://www.mobilefun.co.uk/blog/wp-content/uploads/2016/07/573a895dc71668131574ac8311a83082-e1422397371249-1940x1091.jpeg)
+[![](posts/2017/05/images/573a895dc71668131574ac8311a83082-e1422397371249-1940x1091.jpeg)](http://www.mobilefun.co.uk/blog/wp-content/uploads/2016/07/573a895dc71668131574ac8311a83082-e1422397371249-1940x1091.jpeg)
 
   
 **Let's take a look at some of the things people do which make their battery degrade very quickly:**  
