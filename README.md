@@ -4,7 +4,7 @@
 
 <!--- Social Badges Start Here --->
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://linkedin.com/in/emadiqbalali">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -17,13 +17,14 @@
 </div>
 
  <!--- This is a Github Profile Visitor Counter --->
-
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+ 
+<div id=profilecounter" align="center">
+<img src="https://komarev.com/ghpvc/?username=emadiqbalali&style=flat-square&color=blue" alt="ProfileCounter"/>
+                                                                                                                     </div>
 
 <!--- Greetings Section --->
 <h1>
-  Howdy, Visitor!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Howdy, Visitor! :wave:
 </h1>
 
 <!--- Hero GIF Below --->
@@ -34,15 +35,14 @@
 
 ---
 
-### :man_technologist: About Me :  I am a Mechanical Engineer Graduate, a blogger and a tech enthusiast <img src="https://media.giphy.com/media/BUoNjPDCs1QZEYH7f7/giphy.gif" width="30"> from India.
+### :man_technologist: About Me :  
+          
+I am a Mechanical Engineer Graduate, a blogger, tech enthusiast & a value investor <img src="https://media.giphy.com/media/BUoNjPDCs1QZEYH7f7/giphy.gif" width="30"> from India.
 
 - :telescope: I’m working as a freelancer as of now helping people solve their website issues here and there & sometimes make website from scratch for them.
-
 - :seedling: Exploring Technical Content Writing.
-
 - :zap: In my free time, I read business case studies and binge watch Sci-Fi series.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/emadiqbalali)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/emadiqbalali)
 
 ---
 
@@ -56,7 +56,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/hugo/hugo-plain.svg" title="HUGO" alt="HUGO" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-plain-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg>" title="WP" alt="WP" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="WP" alt="WP" width="40" height="40"/>
 </div>
 
 ---
@@ -67,9 +67,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emadiqbalali&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
-### :writing_hand: Blog Posts :
-
-<a><button name="button" style = "color: red" onclick="https://www.sastaeinstein.com">Recent Posts</button></a>
 
