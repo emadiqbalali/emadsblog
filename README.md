@@ -42,7 +42,7 @@ I am a Mechanical Engineer Graduate, a blogger, tech enthusiast & a value invest
 - :telescope: I’m working as a freelancer as of now helping people solve their website issues here and there & sometimes make website from scratch for them.
 - :seedling: Exploring Technical Content Writing.
 - :zap: In my free time, I read business case studies and binge watch Sci-Fi series.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/emadiqbalali)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/emadiqbalali)
 
 ---
 
