@@ -89,4 +89,4 @@ params:
   darkMode:
     enable: true
     provider: darkreader
-    default: light
+    default: dark
