@@ -19,7 +19,7 @@
  <!--- This is a Github Profile Visitor Counter --->
  
 <div id=profilecounter" align="center">
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="ProfileCounter"/>
+<img src="https://komarev.com/ghpvc/?username=emadiqbalali&style=flat-square&color=blue" alt="ProfileCounter"/>
                                                                                                                      </div>
 
 <!--- Greetings Section --->
