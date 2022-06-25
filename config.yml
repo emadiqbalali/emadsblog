@@ -42,6 +42,7 @@ permalinks:
 
 # Site parameters
 params:
+
   # GitHub repo URL and branch of your site
   gitRepo: https://emadiqbalali.github.io
   gitBranch: main
@@ -62,27 +63,35 @@ params:
     provider: mailchimp
     # specify the target URL for the subscription form
     mailchimpURL: ""
-
-# Google Analytics Code Here
-
-params:
+    
   features:
     analytics:
       enabled: true
       google:
         id: UA-111756186-2
 
-# Ko-FI
+    portfolio:
+      enable: true
 
-params:
-  features:
-    support:
-      enabled: false
-      kofi:
-        user: emadiqbalali
-        text: Tip Me
-        textColor: '#f9fafc'
-        backgroundColor: '#248aaa'
+      shareButtons:
+        facebook: true
+        twitter: true
+        linkedin: true
+        whatsapp: true
+        reddit: true
+
+  footer:
+    enable: true
+    template: footer.html
+    navigation:
+      enable: true
+      customMenus: false
+    contactMe:
+      enable: true
+    credentials:
+      enable: true
+    disclaimer:
+      enable: true
 
 # Dark Mode
 
@@ -90,3 +99,5 @@ params:
     enable: true
     provider: darkreader
     default: dark
+    
+footer.navigation.customMenus: true
