@@ -98,6 +98,6 @@ params:
   darkMode:
     enable: true
     provider: darkreader
-    default: dark
+    default: system
     
 footer.navigation.customMenus: true
