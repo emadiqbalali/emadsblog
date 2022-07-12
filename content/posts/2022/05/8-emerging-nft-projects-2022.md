@@ -51,7 +51,7 @@ Therefore, it's important to keep up with the latest NFT projects. Here are a fe
 
 ## How Will They Be Used?
 
-![](/posts/2022/05/image2.png)
+![](/posts/2022/05/images/image2.png)
 
 NFTs have the potential to revolutionize the way we interact with digital assets and digital identities. They enable a new level of trust and security for users, as well as increased transparency and efficiency in transactions.
 
@@ -76,7 +76,7 @@ Its main feature is its non-profit nature, which makes it more appealing to deve
 
 ## Alternative Use Cases of these projects
 
-![](/posts/2022/05/image3.png)
+![](/posts/2022/05/images/image3.png)
 
 There are a number of emerging NFT projects that deserve attention. Here are some of the most interesting ones to watch:
 
