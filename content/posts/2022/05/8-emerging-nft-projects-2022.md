@@ -1,6 +1,6 @@
 ---
 title: "8 Emerging NFT Projects To Follow In 2022"
-date: "2022-07-12"
+date: "2022-07-12T08:06:25+06:00"
 categories:
   - "Technology"
 tags:
@@ -9,7 +9,6 @@ tags:
   - "Blockchain"
   - "ERC20"
 coverImage: "/posts/2022/05/images/image1.png"
-authors: bracknelson
 ---
 
 > **This article is written by Brack Nelson**
