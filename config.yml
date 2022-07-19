@@ -101,3 +101,10 @@ params:
     default: system
     
 footer.navigation.customMenus: true
+
+#Sitemaps
+
+sitemap:
+  changefreq: monthly
+  filename: sitemap.xml
+  priority: 0.5
