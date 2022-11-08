@@ -6,49 +6,32 @@ section:
   weight: 3
   showOnNavbar: true
   # Can optionally hide the title in sections
-  # hideTitle: true 
+  # hideTitle: true
 
 # Your experiences
 experiences:
-- company:
-    name: Town Hustle
-    url: "https://www.townhustle.com"
-    location: United States
-    # company overview
-    overview: Town Hustle is a informative blog for controlling the pest at home. It has been featured in many recognized media websites.
-  positions:
-  - designation: Editorial Staff
-    start: Jan 2019
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    end: Jan 2020
-    # give some points about what was your responsibilities at the company.
-    responsibilities:
-    - Write, Edit & Publish content on the blog.
-    - Keep an eye on the WordPress backend for any issues and maintain or fix the issues.
-    - Lead & Report other writers via Slack
+  - company:
+      name: K.V Educational Academy
+      url: "https://www.kvacademy.in"
+      location: Hyderabad, India
+      overview: A well known educational institute in Hyderabad providing tutoring services to students
+    positions:
+      - designation: System Administrator
+        start: Feb 2020
+        end: Feb 2022
+        responsibilities:
+          - Maintain website of the institude, students records, fees and much more.
+          - Publish content for the blog to be consumed by the students.
+          - Maintain the system at institute and report any technical issues in the system.
 
-- company:
-    name: K.V Educational Academy
-    url: "https://www.kvacademy.in"
-    location: Hyderabad, India
-    overview: A well known educational institute in Hyderabad providing tutoring services to students
-  positions:
-  - designation: System Administrator
-    start: Feb 2020
-    end: Feb 2022
-    responsibilities:
-    - Maintain website of the institude, students records, fees and much more.
-    - Publish content for the blog to be consumed by the students.
-    - Maintain the system at institute and report any technical issues in the system.
-
-- company:
-    name: Fiverr Ltd.
-    url: "https://www.fiverr.com/emaad26"
-    overview: A top freelancing platform for the freelancers.
-  positions:
-  - designation: Freelancer
-    start: Jan 2019
-    responsibilities:
-    - Consult and fix issues on backend of WordPress Websites
-    - Content writing and editorial services
-    - Make wesbites from scratch, fix Hosting issues, DNS, Nameservers, and so on.
+  - company:
+      name: Fiverr Ltd.
+      url: "https://www.fiverr.com/emaad26"
+      overview: A top freelancing platform for the freelancers.
+    positions:
+      - designation: Freelancer
+        start: Jan 2019
+        responsibilities:
+          - Consult and fix issues on backend of WordPress Websites
+          - Content writing and editorial services
+          - Make wesbites from scratch, fix Hosting issues, DNS, Nameservers, and so on.
