@@ -7,51 +7,48 @@ section:
   template: sections/about.html # allows you to point to a specific template.
 
   # your designation
-designation: Mechanical Engineer
-
-
-
+designation: Engineer
 
 #a summary about you
-summary: "Hi, let's get this straight. I am Emad and you're possibly be getting to know me. I am a Mechanical Engineer graduate and resides in India, Hyderabad. Well, Mechanical because couldn't get a seat in CSE but anyway let's not go there. Apart from that, I am not rich so can't say anything fancy. Bye!"
+summary: "Hi, let's get this straight. This is Emad or (Emaad), if you're wondering how to pronounce. Coffee runs through my circuits. Engineering isn't what I do, it's who I am. Life is like a gas turbine. After every compressor, there is always a turbine! "
 
 socialLinks:
-- name: Email
-  icon: "fas fa-envelope"
-  url: "emadiqbalali@gmail.com"
+  - name: Email
+    icon: "fas fa-envelope"
+    url: "emadiqbalali@gmail.com"
 
-- name: Github
-  icon: "fab fa-github"
-  url: "https://www.github.com/emadiqbalali"
+  - name: Github
+    icon: "fab fa-github"
+    url: "https://www.github.com/emadiqbalali"
 
-- name: LinkedIn
-  icon: "fab fa-linkedin"
-  url: "https://linkedin.com/in/emadiqbalali"
+  - name: LinkedIn
+    icon: "fab fa-linkedin"
+    url: "https://linkedin.com/in/emadiqbalali"
 
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "https://twitter.com/sastaeinstein"
+  - name: Twitter
+    icon: "fab fa-twitter"
+    url: "https://twitter.com/sastaeinstein"
 
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "https://facebook.com/emadiqbalali"
+  - name: Facebook
+    icon: "fab fa-facebook"
+    url: "https://facebook.com/emadiqbalali"
 
-  # your resume. this file path should be relative to you "static" directory
+    # your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
 
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
-- type: soft-skill-indicator
-  name: Leadership
-  percentage: 75
-  color: blue
+  - type: soft-skill-indicator
+    name: Leadership
+    percentage: 75
+    color: blue
 
-- type: soft-skill-indicator
-  name: Communication
-  percentage: 85
-  color: pink
+  - type: soft-skill-indicator
+    name: Communication
+    percentage: 85
+    color: pink
 
-- type: soft-skill-indicator
-  name: Hard Working
-  percentage: 90
-  color: green
+  - type: soft-skill-indicator
+    name: Sarcasm
+    percentage: 90
+    color: green
