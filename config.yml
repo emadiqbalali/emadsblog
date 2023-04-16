@@ -1,110 +1,137 @@
-baseURL: ""
+baseURL: "https://sastaeinstein.com/"
+title: Emad's Blog
+paginate: 10
+theme: PaperModX
 
-languageCode: en-us
-title: "Emad's Blog"
-theme: "toha"
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+pygmentsUseClasses: true
 
-# Manage languages
-# For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
-languages:
-  en:
-    languageName: English
-    weight: 1
+googleAnalytics: UA-111756186-2
 
-# Control TOC depth
-markup:
-  tableOfContents:
-    startLevel: 2
-    endLevel: 6
-    ordered: false
+minify:
+  disableXML: true
+  minifyOutput: true
 
-# new markup
-
-markup:
-  goldmark:
-    renderer:
-      unsafe: true
- 
-
-# At least HTML and JSON are required for the main HTML content and
-# client-side JavaScript search
-outputs:
-  home:
-  - HTML
-  - RSS
-  - JSON
-
-# Enable global emoji support
-enableEmoji: true
-
-permalinks:
-  posts: /:filename
-
-# Site parameters
 params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Emad's Blog
+  description: "Emad's Blog is a personal blog managed by Mohammed Emad."
+  keywords: [Blog, Portfolio, SastaEinstein]
+  author: Emad
+  # author: ["Me", "You"] # multiple authors
+  images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: dark # dark, light
+  disableThemeToggle: false
+  EnableInstantClick: true
 
-  # GitHub repo URL and branch of your site
-  gitRepo: https://emadiqbalali.github.io
-  gitBranch: main
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: true
+  tocopen: false
 
-  # specify whether you want to write some blog posts or not
-  enableBlogPost: true
+  assets:
+    # disableFingerprinting: true
+    favicon: "<link / abs url>"
+    favicon16x16: "<link / abs url>"
+    favicon32x32: "<link / abs url>"
+    apple_touch_icon: "<link / abs url>"
+    safari_pinned_tab: "<link / abs url>"
 
-  # specify whether you want to show Table of Contents in reading page
-  enableTOC: true
+  label:
+    text: "Home"
+    icon: /apple-touch-icon.png
+    iconHeight: 35
 
-  # Provide newsletter configuration. 
-  # This feature has been implemented for Mailchimp only for now.
-  # You can also hide it from the footer.
-  newsletter:
-    # specify whether you want to display the newsletter form 
-    enable: false
-    # specify which newsletter provider you want to use
-    provider: mailchimp
-    # specify the target URL for the subscription form
-    mailchimpURL: ""
-    
-  features:
-    analytics:
-      enabled: true
-      google:
-        id: UA-111756186-2
+  # profile-mode
+  profileMode:
+    enabled: false # needs to be explicitly set
+    title: SastaEinstein
+    subtitle: A Personal Blog
+    imageUrl: "an image URL"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: Emad
+    buttons:
+      - name: Posts
+        url: posts
+      - name: Tags
+        url: tags
 
-    portfolio:
-      enable: true
+  # home-info mode
+  homeInfoParams:
+    Title: "Welcome to my little corner of the internet \U0001F47B"
+    Content: Where words come to play and ideas come to life. Join me on this journey of creativity and self-expression!
 
-      shareButtons:
-        facebook: true
-        twitter: true
-        linkedin: true
-        whatsapp: true
-        reddit: true
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/sastaeinstein"
+    - name: instagram
+      url: "https://instagram.com/emadiqbalali"
+    - name: github
+      url: "https://github.com/emadiqbalali"
 
-  footer:
-    enable: true
-    template: footer.html
-    navigation:
-      enable: true
-      customMenus: false
-    contactMe:
-      enable: true
-    credentials:
-      enable: true
-    disclaimer:
-      enable: true
+  analytics:
+    google:
+      SiteVerificationTag: "XYZabc"
+    bing:
+      SiteVerificationTag: "XYZabc"
+    yandex:
+      SiteVerificationTag: "XYZabc"
 
-# Dark Mode
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
 
-  darkMode:
-    enable: true
-    provider: darkreader
-    default: system
-    
-footer.navigation.customMenus: true
+  editPost:
+    URL: "https://github.com/<path_to_repo>/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
 
-#Sitemaps
-
-sitemap:
-  changefreq: monthly
-  filename: sitemap.xml
-  priority: 0.5
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+menu:
+  main:
+    - identifier: About
+      name: About
+      url: https://www.sastaeinstein.com/about/
+      weight: 10
+    - identifier: tags
+      name: Top Tags
+      url: /tags/
+      weight: 20
+    - identifier: example
+      name: Ko-Fi
+      url: https://ko-fi.com/emadiqbalali
+      weight: 30
+      params:
+        external: true
+# Read: https://github.com/reorx/hugo-PaperModX/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+# pygmentsUseClasses: true
+# markup:
+#     highlight:
+#         # anchorLineNos: true
+#         codeFences: true
+#         guessSyntax: true
+#         lineNos: true
+#         style: monokai
