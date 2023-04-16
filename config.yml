@@ -136,7 +136,3 @@ menu:
 #         lineNos: true
 #         style: monokai
 
-[sitemap]
-  changefreq = "weekly"
-  filename = "sitemap.xml"
-  priority = 0.5
